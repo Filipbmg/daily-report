@@ -1,278 +1,118 @@
-# Insider Buy Pop Watch — Tuesday, September 15, 2026
+# Insider Buy Pop Watch — Wednesday, September 16, 2026
 
-**Screened window:** Monday Sep. 14, 16:00 ET through roughly 08:45 ET today. Final Finviz refresh did not reveal a later high-signal filing that displaced the names below.
+**Screened filing window:** Tuesday Sep. 15, 16:00 ET through approximately 08:45 ET Wednesday. Finviz was refreshed again after research; no later filing displaced the ranking.
 
-Today's macro tape is mildly hostile to risk assets: S&P futures were slightly negative, Nasdaq futures slightly negative, Treasury yields remained elevated, and oil was above $100 ahead of the Fed meeting. That slightly favors biotech and idiosyncratic catalysts over rate-sensitive growth, although the backdrop is nowhere near as ugly as yesterday's AI selloff.
+**Macro:** U.S. futures were modestly positive ahead of today's Federal Reserve decision, while the U.S. 10-year remained near 5%. The Fed decision is expected later today, so rate-sensitive and speculative names carry unusually high afternoon macro risk.
 
-## Ranked board
+## Ranked actionable board
 
-| Rank | Ticker | Insider signal | Fresh buy | Avg. entry | Premarket / current context | Recent volume vs normal | Pop score |
-|---|---|---|---:|---:|---|---|---:|
-| **1** | **MAIA** | **CEO, repeat buyer** | **$100k / 73k shares** | **$1.37** | thin/no reliable premarket print | **1D ~1.2x, 3D ~0.9x** | **8.7/10** |
-| **2** | **GLOO** | **Exec Chair / Head of Tech, repeat buy** | **$86.2k / 25k** | **$3.449** | **~$3.45, +0.9%** | **1D ~1.2x, 3D ~1.5x** | **8.4/10** |
-| **3** | **NNOX** | **Director, forming cluster with CEO** | **$45.3k / 60k** | **$0.755** | **~$0.71, +2.1%** | **1D ~0.5x, 3D ~0.5x** | **7.7/10** |
-| **4** | **DVN** | **President + CEO** | **$199.9k / 3,913** | **$51.08** | oil backdrop supportive | **1D ~1.2x, 3D ~1.1x** | **6.8/10** |
+| Rank | Ticker | Insider signal | Qualifying buy signal | Insider entry | Recent volume vs normal | Pop score |
+|---|---|---|---:|---:|---|---:|
+| **1** | **NTHI** | **CEO/President + second CEO + CFO cluster** | **~$215.8k / 61,055 sh across newly reported buys** | **~$3.53 weighted** | **1D ~1.42x; 3D ~1.26x 20D avg** | **9.0/10** |
+| **2** | **TENX** | **CEO + CFO cluster** | **~$31.1k / 16,525 sh** | **~$1.88 weighted** | **1D ~0.23x; 3D ~0.29x 20D avg** | **8.1/10** |
+| **3** | **NNOX** | **CEO buy, now reinforcing director/CEO cluster** | **$6.9k / 10,000 sh fresh CEO buy** | **$0.69** | **1D ~0.58x; 3D ~0.63x 20D avg** | **7.6/10** |
+| **4** | **NAMS** | **CEO** | **$226.5k / 10,000 sh** | **$22.65** | **1D ~1.37x; 3D ~1.16x 20D avg** | **7.3/10** |
+| **5** | **GIII** | **CEO, very large existing ownership** | **$1.118m / 40,000 sh** | **$27.94** | **1D ~1.09x; 3D ~1.14x 20D avg** | **7.0/10** |
 
-There are fewer genuinely clean opportunities today than yesterday. I would **not force a fifth pick**.
+*Volume ratios use the available 20-day average as the closest reliable live proxy to the requested ~3-month baseline when a clean 3-month figure was unavailable. Directional interpretation matters more than the exact baseline.*
 
----
+## 1. NTHI — NeOnc Technologies Holdings
 
-## 1. MAIA — MAIA Biotechnology
+Newly reported Form 4s show **Amir Heshmatpour, CEO and President**, buying 15,000 shares at $3.96 on Sep. 14 and another 35,000 at $3.297 on Sep. 15. A separate Form 4 shows **Thomas C. Chen, CEO**, buying 5,556 shares at $3.60 and 5,242 at $3.81, while CFO Keithly Garnett added a small 257-share purchase around $3.89. The SEC filings mark these as code **P** purchases.
 
-### Best setup today
+Across the newly reported cluster, purchases total roughly **61,055 shares and $215.8k**, weighted around **$3.53**. The CFO amount is symbolic, but multiple top-level insiders buying around the same repricing zone is not.
 
-CEO **Vlad Vitoc** bought **73,000 shares at $1.37**, spending **$100,010**. The SEC filing confirms transaction code **P**, direct ownership, with no 10b5-1 indication. After the transaction he directly owns more than one million shares, plus additional indirect ownership through his spouse.
+NTHI is an approximately $82m clinical-stage neuro-oncology company. NeOnc recently reported positive Phase 2a NEO100 data in recurrent IDH1-mutant high-grade glioma, with six-month progression-free survival of **48.9% versus a pre-specified 20% benchmark**, and plans to seek an FDA Type B meeting on a registrational path. On Sep. 9 it also announced a **$15m registered direct offering**, which contributed to a sharp repricing. NTHI closed Sep. 15 at **$3.31, down 12.4%**, versus $5.03 on Sep. 4.
 
-More importantly, this is not a one-off symbolic purchase. Vitoc has a history of repeatedly buying MAIA in the open market, including meaningful earlier purchases. The fresh $100k transaction therefore fits an established pattern of management conviction.
+Sep. 15 volume was **285.8k** against a 20-day average around **201.8k**, roughly **1.42x normal**. The three-session average was about **1.26x normal**. This is not clean bullish volume because Tuesday's elevated participation accompanied a decline. But if the insider cluster flips price green on similarly elevated volume, that becomes strong reversal confirmation.
 
-### Why the timing is interesting
+**Why this could pop today:** real C-suite cluster + tiny biotech market cap + positive clinical data + financing overhang partially repriced + insiders buying near current levels.
 
-MAIA closed Monday at roughly **$1.39, +6.9%**, after Vitoc bought at $1.37.
+**Risks:** dilution/warrants, persistent downtrend, modest short interest, and Fed-day small-cap volatility.
 
-That matters. He's not buying into a collapsing chart and immediately watching the market move far below him. The stock finished above his entry.
+**Verdict: clear #1.**
 
-MAIA is also a small clinical-stage oncology company, so an insider filing can matter much more to price discovery than the same dollar amount in a mega-cap.
+Sources: https://finviz.com/insidertrading?tc=1 ; https://www.sec.gov/Archives/edgar/data/1443035/000121390026100269/xslF345X06/marketforms-73992.xml ; https://investors.neonc.com/news-events/news-releases ; https://stockanalysis.com/stocks/nthi/history/
 
-### Catalyst backdrop
+## 2. TENX — Tenax Therapeutics
 
-MAIA's lead drug is **ateganosine / THIO**, a first-in-class telomere-targeting cancer therapy.
+TENX has a genuine **CEO + CFO cluster**. CEO Christopher Giordano bought **6,000 shares at $1.875** on Sep. 11 and **4,850 at $1.8221** on Sep. 15. CFO Thomas Staab II bought **5,675 shares at about $1.935**. Combined, the two executives bought roughly **16,525 shares for $31.1k**, weighted around **$1.88**. SEC filings show code P.
 
-The company has reported encouraging efficacy data from the THIO-101 program and continues progressing its lung-cancer development path. It has an active clinical catalyst pipeline, including ongoing Phase 2 work and later-stage development planning.
+TENX was devastated after its Phase 3 LEVEL study missed its primary endpoint. Subsequent analyses showed a signal in sicker patients, including a **26.3-meter improvement versus placebo (p=0.0112)** in patients below the median baseline six-minute walk distance. Management is arguing there may be a narrower development/regulatory path.
 
-There is **no confirmed binary event today**, so the buy should not be interpreted as proof that news is imminent.
+Sep. 15 volume was about **1.63m** versus a 20-day average around **7.22m**, only **0.23x normal**. The latest three sessions averaged about **0.29x normal**. That is a warning: buyers have not returned in force.
 
-The cleaner interpretation is:
+**Why this could pop:** CEO+CFO buying + ~$105m market cap + roughly 30% short float + extremely depressed chart + an active debate over a salvageable clinical subgroup signal.
 
-> CEO continues to believe the market is materially undervaluing the oncology pipeline and is willing to add personal capital near current prices.
+**Risks:** the primary endpoint failure is real, analyst downgrades followed, and subgroup/regulatory uncertainty remains high.
 
-### Volume confirmation
+**Verdict: #2, but requires volume confirmation.**
 
-MAIA traded roughly **800k shares Monday** versus an approximately **659k three-month average**, or about **1.2x normal volume**.
-
-The latest three completed sessions averaged roughly **0.9x normal volume**.
-
-This is mildly constructive. Monday's +6.9% move occurred on above-normal participation, but not blow-off volume. That is better confirmation than the same move on unusually thin trading.
-
-### Why it could pop today
-
-**CEO open-market buy + biotech + small market cap + established insider-buy history + positive Monday price response + somewhat elevated volume + active clinical catalyst pipeline.**
-
-### Risks
-
-MAIA is not an ultra-tiny-float squeeze vehicle, short interest is not extreme, and there is no known catalyst scheduled specifically for today.
-
-**Verdict: #1.**
-
----
-
-## 2. GLOO — Gloo Holdings
-
-### The repeated Gelsinger buy matters more than the dollar amount
-
-**Patrick Gelsinger**, Executive Chair and Head of Technology, purchased another **25,000 shares at about $3.4493**, spending roughly **$86,233**.
-
-This follows an earlier purchase of **50,000 shares around $3.3375**, bringing the recent disclosed accumulation to roughly:
-
-- **75,000 shares**
-- **$253k invested**
-- **~$3.375 weighted-average entry**
-
-The second purchase strengthens the signal substantially because Gelsinger continued buying after the stock had already risen above his first entry.
-
-### Why the second buy is interesting
-
-GLOO closed Monday around **$3.42**. Gelsinger's second purchase near $3.449 means he was effectively **averaging up**, not merely averaging down into weakness.
-
-At research time, the stock was trading approximately around his newest entry.
-
-### Catalyst
-
-Gloo recently reported very strong year-over-year revenue growth and improving operating metrics, including continued expansion of AI-powered products.
-
-The likely narrative is straightforward:
-
-**strong earnings / operating momentum → stock still far below historical highs → technology chairman buys → stock rises → chairman buys again.**
-
-### Volume confirmation
-
-GLOO's approximate normal volume is around **269k shares/day**.
-
-Recent sessions were roughly:
-
-- Monday: **322k**, ~**1.2x** normal
-- Friday: **469k**, ~**1.7x** normal
-- Thursday: **404k**, ~**1.5x** normal
-
-Three-day average is about **1.5x normal volume**.
-
-This is the clearest positive volume confirmation in today's group because elevated participation has accompanied positive price action rather than a collapse.
-
-### Why it could pop
-
-**Repeat insider buy + recognizable technology executive + strong earnings + elevated multi-day volume + stock holding above his first entry.**
-
-### Why it is not #1
-
-MAIA has the cleaner small-cap biotech / CEO structure, while GLOO still carries exposure to a fragile AI-growth tape.
-
-**Verdict: #2, very close to MAIA.**
-
----
+Sources: https://finviz.com/insidertrading?tc=1 ; https://www.sec.gov/Archives/edgar/data/34956/000187171426000002/xslF345X06/primary_doc.xml ; https://stockanalysis.com/stocks/tenx/ ; https://stockanalysis.com/stocks/tenx/history/
 
 ## 3. NNOX — Nano-X Imaging
 
-### A modest individual buy becomes interesting because it is turning into a cluster
+CEO **Erez Meltzer** disclosed a fresh **10,000-share open-market purchase at $0.69**, verified as code P. The $6.9k is small by itself, but it follows director **Dan Suesskind's 60,000-share purchase around $0.755** reported the prior morning. The pattern is now: director buys the collapse, then CEO adds at an even lower price.
 
-Director **Dan Suesskind** bought:
+NNOX is around a $49m market cap and roughly 82% below its 52-week level. Recent weakness followed Q2 results containing a large impairment, wider losses, restructuring and financing concerns.
 
-- 30,000 shares at **$0.76**
-- 30,000 shares at **$0.75**
+Sep. 15 volume was roughly **845k** versus a 20-day average near **1.46m**, about **0.58x normal**. The last three sessions averaged roughly **0.63x normal**. The largest recent volume still occurred on the selloff, not the rebound.
 
-Combined:
+**Why this could pop:** sub-$1 medical-tech microcap + CEO/director sequence + ~10% short float + extreme drawdown + insider entry near the lows.
 
-- **60,000 shares**
-- **$45,300 invested**
-- **$0.755 average entry**
+**Risks:** financing risk, weak fundamentals and weak volume confirmation.
 
-Ordinarily, a roughly $45k director purchase would not rank highly.
+**Verdict: #3.**
 
-However, CEO **Erez Meltzer** had already disclosed his own open-market purchase near **$0.78**.
+Sources: https://finviz.com/insidertrading?tc=1 ; https://www.sec.gov/Archives/edgar/data/1371973/000121390026100307/xslF345X06/ownership.xml ; https://stockanalysis.com/stocks/nnox/history/ ; https://stockanalysis.com/stocks/nnox/statistics/
 
-That gives us an emerging pattern:
+## 4. NAMS — NewAmsterdam Pharma
 
-**CEO buying around $0.78 → director buying 60,000 around $0.755.**
+CEO **Michael Davidson** bought **10,000 shares at $22.65**, investing **$226,500**, verified with code P. NAMS closed Sep. 15 at **$21.16, down 5.4%**, near its 52-week low. Volume was **1.72m versus a 20-day average around 1.26m, roughly 1.37x normal**; the last three sessions averaged roughly **1.16x normal**. Elevated volume has accompanied weakness, so it is not bullish confirmation yet.
 
-That is much more interesting than an isolated director purchase.
+NewAmsterdam has multiple Phase 3 obicetrapib programs, including PREVAIL, REMBRANDT and RUBENS, with RUBENS topline data expected by year-end 2026, plus additional program data expected during 2026.
 
-### Price context
+**Why this could pop:** credible CEO buy near a fresh low in a late-stage biotech with substantial upcoming data. **Why only #4:** larger capitalization, low historical beta and no immediate binary event identified today.
 
-NNOX has been heavily damaged:
+Sources: https://finviz.com/insidertrading?tc=1 ; https://www.sec.gov/Archives/edgar/data/1573785/000119312526391985/xslF345X06/ownership.xml ; https://ir.newamsterdampharma.com/ ; https://stockanalysis.com/stocks/nams/history/
 
-- roughly **-23% one week**
-- roughly **-28% one month**
-- roughly **-60% one quarter**
-- roughly **-74% YTD**
+## 5. GIII — G-III Apparel Group
 
-The stock is close to its 52-week low.
+CEO **Morris Goldfarb** bought **40,000 shares at $27.94**, a **$1.118m** open-market purchase verified with code P. G-III reported fiscal Q2 2027 results on Sep. 2: EPS exceeded guidance, earnings guidance was raised excluding Marc Jacobs, the Marc Jacobs acquisition closed, and go-forward portfolio sales grew high-single digits. The stock nevertheless sold off after earnings.
 
-### Why did they buy?
+GIII closed Sep. 15 around **$27.76**, just below the CEO's entry. Short float is roughly **21%**. Sep. 15 volume was about **807k** versus a 20-day average around **740k, ~1.09x normal**; the last three sessions averaged roughly **1.14x normal**.
 
-The proximate cause of the selloff is clear. Nanox reported a large impairment, wider losses, falling cash, restructuring activity, and additional fundraising needs. The stock was hit hard on heavy volume.
+**Why this could pop:** $1m+ CEO buy + oversold chart + 20%+ short float + raised earnings guidance + strategic acquisition. **Why only #5:** apparel is less event-sensitive than biotech and the purchase looks more like valuation conviction than a same-day catalyst.
 
-The most plausible interpretation is therefore:
-
-**market reacts violently to ugly accounting / financing news → stock reaches extreme lows → CEO and director independently decide the selloff has overshot.**
-
-### Volume warning
-
-Monday volume was only around **0.5x normal**, and the latest three sessions were also roughly **0.5x normal** on average.
-
-That is **not bullish confirmation**.
-
-The strongest recent volume appeared during the selloff. Current stabilization is happening on relatively light participation.
-
-This is exactly why volume should not be rewarded mechanically.
-
-If the insider cluster pushes the stock above normal volume today while price holds above the insider zone, the setup improves dramatically.
-
-### Why it could pop
-
-NNOX is a sub-$1 medical-tech stock close to historical lows, with meaningful short interest and now multiple insiders buying after the collapse.
-
-### Risk
-
-This is the weakest fundamental situation of the top three. Financing risk is real.
-
-**Verdict: #3. High convexity, lower-quality fundamentals. Watch volume closely.**
-
----
-
-## 4. DVN — Devon Energy
-
-### CEO buy + favorable oil backdrop
-
-President and CEO **Clay Gaspar** bought roughly **3,913 shares at about $51.08**, investing approximately **$199,876**.
-
-The timing is favorable because oil remains elevated amid supply concerns.
-
-DVN also has strong recent momentum and is trading near its 52-week highs. Gaspar is therefore buying strength rather than merely trying to reassure investors after a crash.
-
-### Volume
-
-Monday volume was around **14.7M shares** versus an approximately **12M three-month average**, about **1.2x normal**.
-
-Recent participation has been around normal to modestly elevated while the stock has maintained an upward trend.
-
-That is constructive.
-
-### Why only #4?
-
-DVN is a very large company with much lower percentage-volatility potential than the small-cap names above. A roughly $200k CEO purchase is meaningful, but the Form 4 alone is unlikely to produce a large percentage move.
-
-The true intraday catalyst is oil. The insider buy strengthens the narrative rather than creating it.
-
-**Verdict: #4. Good setup, mediocre percentage-pop potential.**
-
----
+Sources: https://finviz.com/insidertrading?tc=1 ; https://www.sec.gov/Archives/edgar/data/821002/000082100226000041/xslF345X06/form4.xml ; https://www.globenewswire.com/news-release/2026/09/02/3354961/0/en/g-iii-apparel-group-ltd-reports-second-quarter-fiscal-2027-results-and-raises-earnings-guidance.html ; https://stockanalysis.com/stocks/giii/history/
 
 # Discarded but notable
 
-## PMTS
+**COO:** Three directors disclosed a substantial cluster totaling roughly **$1.33m** around $53-$54 after CooperCompanies' ugly post-earnings selloff. Real signal, but directors rather than operating C-suite, ~$10bn market cap and beta around 0.82 make it a weaker intraday-pop vehicle. Soft guidance, CooperVision destocking and the decision not to sell CooperSurgical remain overhangs.
 
-At first glance the raw insider feed looked extremely strong: a 10% owner bought more than $11M and several insiders appeared at exactly **$21.50**.
+**BZUN:** CEO Wenbin Qiu bought 7,300 shares at $2.74 and another 7,300 at $2.72, about **$39.9k total**. Genuine CEO buying and recent optimism around AI-driven cost savings are positives, but the commitment is small relative to existing ownership.
 
-That price matched a recently completed secondary public offering. Because the purchases were tied to that financing structure rather than ordinary discretionary exchange-market accumulation, I excluded PMTS from the insider-alpha ranking.
+**FTK:** Director Matthew Wilks reported a huge **$34.3m** purchase. Eye-catching dollars, but buyer role is director rather than operating C-suite, and this screen intentionally prioritizes identity over raw amount.
 
-Its very high recent volume was also offering-driven, which is another good example of why abnormal volume cannot be treated as automatically bullish.
+**LMB:** Director Joshua Horowitz disclosed more than $390k across Sep. 11 and Sep. 15 purchases. Meaningful repeat director accumulation, but no C-suite cluster and a less event-sensitive industrial profile.
 
-## ONMD
+**ROC:** new director Kathleen Kiernan bought only about $17.4k. Too small and low-seniority for today's screen.
 
-A reported CMO purchase was connected to a subscription agreement priced from a preceding VWAP rather than a normal discretionary exchange-market buy. Excluded under the stricter open-market standard.
+**GAM:** VP Administration Eugene Stark bought $120k. Respectable dollars, but lower-signal role and low event sensitivity.
 
-## RSG
+# Today's priority
 
-Cascade Investment disclosed another very large purchase, but this is a 10% owner accumulating a mature waste-management company. Huge dollar size, weaker buyer type for this strategy, and a poor intraday-volatility fit.
+**NTHI is the standout.** It is the only overnight setup combining a true top-management cluster, a sub-$100m biotech valuation, fresh positive clinical data, a sharp financing-driven repricing and above-normal recent participation. The volume was bearish on Tuesday, so the key confirmation is whether today's Form 4 attention can flip that participation upward.
 
-## FBDT
+**TENX is the more explosive secondary watch** because CEO+CFO buying is paired with very high short interest and a stock still living in the wreckage of a failed Phase 3. It needs volume to return.
 
-President/COO Jordan Low disclosed roughly $94k of buying. Senior executive and respectable dollar commitment, but catalyst and liquidity evidence was not strong enough to promote it above today's verified setups.
+Practical hierarchy: **NTHI > TENX > NNOX > NAMS > GIII.**
 
-## UAVS
+## Sources
 
-Chairman + director technically forms a two-insider cluster, but the combined purchases were only about $10k. Too symbolic.
+- Finviz insider feed: https://finviz.com/insidertrading?tc=1
+- SEC EDGAR Form 4 filings linked above
+- Company investor-relations releases and StockAnalysis historical/statistical data linked above
+- Macro context: Reuters and AP reporting, Sep. 16, 2026
 
-## OFLX
-
-President + CFO cluster, but only around $45k combined and in a relatively low-excitement industrial setup.
-
----
-
-# Today's priority board
-
-The two names I would keep most prominent at the open are **MAIA and GLOO**.
-
-**MAIA** has the stronger type of setup: operating CEO, biotech, small market cap, clinical catalysts, repeated insider accumulation and a positive-volume price response.
-
-**GLOO** has the stronger confirmation: Gelsinger is buying for a second time, he is averaging upward, earnings were strong, recent volume is roughly **1.5x normal**, and the stock is holding the post-earnings move.
-
-Then there is a meaningful gap to **NNOX**. It could produce the biggest percentage move because it is so beaten down, but the volume profile currently says the strongest conviction has recently been on the **sell side**. I would want today's volume to prove that the CEO/director cluster is changing that.
-
-### Practical hierarchy for the open
-
-**MAIA ≈ GLOO > NNOX >>> DVN**
-
-The most useful volume contrast today is **GLOO vs NNOX**:
-
-- **GLOO:** elevated participation accompanying positive price action and repeated insider buying.
-- **NNOX:** abnormal volume occurred during the collapse, while stabilization is happening on sub-normal participation.
-
-Same broad insider-buy story, very different quality of confirmation.
-
----
-
-## Primary screening source
-
-- Finviz Insider Trading: https://finviz.com/insidertrading?tc=1
-- SEC EDGAR Form 4 filings were used to verify open-market purchase status where applicable.
-
-*This report is a trading-signal screen, not a claim of certainty or personalized financial advice.*
+*This is a screening/trading-signal report, not a claim of certainty or personalized financial advice.*
