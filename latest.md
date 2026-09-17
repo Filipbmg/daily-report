@@ -1,118 +1,98 @@
-# Insider Buy Pop Watch — Wednesday, September 16, 2026
+# Insider Buy Pop Watch — Thursday, September 17, 2026
 
-**Screened filing window:** Tuesday Sep. 15, 16:00 ET through approximately 08:45 ET Wednesday. Finviz was refreshed again after research; no later filing displaced the ranking.
+**Screened filing window:** Wednesday Sep. 16 after 16:00 ET through the latest available filings in the Thursday premarket. Final refresh found no new higher-signal Thursday filing beyond the names ranked below.
 
-**Macro:** U.S. futures were modestly positive ahead of today's Federal Reserve decision, while the U.S. 10-year remained near 5%. The Fed decision is expected later today, so rate-sensitive and speculative names carry unusually high afternoon macro risk.
+**Important model adjustment:** fresh dilution/warrant overhang and persistent distribution now receive a heavy penalty, and executive titles are cross-checked where possible. Elevated volume only helps when it confirms favorable price action.
 
 ## Ranked actionable board
 
-| Rank | Ticker | Insider signal | Qualifying buy signal | Insider entry | Recent volume vs normal | Pop score |
+| Rank | Ticker | Insider signal | Fresh qualifying buy | Entry | Recent volume vs ~3M avg | Pop score |
 |---|---|---|---:|---:|---|---:|
-| **1** | **NTHI** | **CEO/President + second CEO + CFO cluster** | **~$215.8k / 61,055 sh across newly reported buys** | **~$3.53 weighted** | **1D ~1.42x; 3D ~1.26x 20D avg** | **9.0/10** |
-| **2** | **TENX** | **CEO + CFO cluster** | **~$31.1k / 16,525 sh** | **~$1.88 weighted** | **1D ~0.23x; 3D ~0.29x 20D avg** | **8.1/10** |
-| **3** | **NNOX** | **CEO buy, now reinforcing director/CEO cluster** | **$6.9k / 10,000 sh fresh CEO buy** | **$0.69** | **1D ~0.58x; 3D ~0.63x 20D avg** | **7.6/10** |
-| **4** | **NAMS** | **CEO** | **$226.5k / 10,000 sh** | **$22.65** | **1D ~1.37x; 3D ~1.16x 20D avg** | **7.3/10** |
-| **5** | **GIII** | **CEO, very large existing ownership** | **$1.118m / 40,000 sh** | **$27.94** | **1D ~1.09x; 3D ~1.14x 20D avg** | **7.0/10** |
+| **1** | **QXL** | **Co-CEO** | **$24.4k / 5,000 sh** | **$4.88** | **1D ~4.6x; 3D ~2.9x** | **7.7/10** |
+| **2** | **ADAG** | **CEO, repeat buyer** | **$64.0k / 20,290 ADS** | **$3.1533** | **1D ~1.4x; 3D ~1.6x** | **7.5/10** |
+| **3** | **BZUN** | **CSO joining recent CEO buying** | **$37.9k / 13,900 ADS** | **$2.73** | **1D ~0.7x; 3D ~0.7x** | **6.6/10** |
 
-*Volume ratios use the available 20-day average as the closest reliable live proxy to the requested ~3-month baseline when a clean 3-month figure was unavailable. Directional interpretation matters more than the exact baseline.*
+**No high-conviction 8+/10 setup today. I would not force one.** The strongest raw insider cluster is ADC, but it is a low-beta REIT and fails the intraday-pop screen.
 
-## 1. NTHI — NeOnc Technologies Holdings
+## 1. QXL — Quantum X Labs
 
-Newly reported Form 4s show **Amir Heshmatpour, CEO and President**, buying 15,000 shares at $3.96 on Sep. 14 and another 35,000 at $3.297 on Sep. 15. A separate Form 4 shows **Thomas C. Chen, CEO**, buying 5,556 shares at $3.60 and 5,242 at $3.81, while CFO Keithly Garnett added a small 257-share purchase around $3.89. The SEC filings mark these as code **P** purchases.
+SEC-derived Form 4 data show **Yakov Baranes, Co-CEO**, making a discretionary open-market **code-P** purchase of **5,000 shares at $4.88**, investing **$24,400**. The filing increased his reported holding to 358,177 shares. An earlier SEC Form 3 independently identifies Baranes as **Co-CEO**, even though the company's public team page uses the title Managing Director for Yaki Baranes and lists Nir Sharon as CEO. For ranking purposes I use the SEC-reported Co-CEO title but flag the public-title inconsistency rather than silently overstating it.
 
-Across the newly reported cluster, purchases total roughly **61,055 shares and $215.8k**, weighted around **$3.53**. The CFO amount is symbolic, but multiple top-level insiders buying around the same repricing zone is not.
+QXL closed Wednesday at **$5.16, +5.74%**, about **5.7% above the insider entry**. Tuesday was already **+13.5%**. Wednesday volume was **234k shares** versus a current 20-day average around **50.5k**, roughly **4.6x normal**. The latest three sessions averaged roughly **145k/day, about 2.9x normal**. This is genuine positive volume confirmation because participation expanded sharply while price advanced.
 
-NTHI is an approximately $82m clinical-stage neuro-oncology company. NeOnc recently reported positive Phase 2a NEO100 data in recurrent IDH1-mutant high-grade glioma, with six-month progression-free survival of **48.9% versus a pre-specified 20% benchmark**, and plans to seek an FDA Type B meeting on a registrational path. On Sep. 9 it also announced a **$15m registered direct offering**, which contributed to a sharp repricing. NTHI closed Sep. 15 at **$3.31, down 12.4%**, versus $5.03 on Sep. 4.
+Quantum X Labs is a roughly $100m quantum/AI technology company with a high beta and small float. On Sep. 3 it announced a milestone in quantum simulation for complex nuclear environments, aimed at nuclear plants, medical devices and space applications. That is real thematic fuel, although it is not a newly scheduled binary catalyst for today.
 
-Sep. 15 volume was **285.8k** against a 20-day average around **201.8k**, roughly **1.42x normal**. The three-session average was about **1.26x normal**. This is not clean bullish volume because Tuesday's elevated participation accompanied a decline. But if the insider cluster flips price green on similarly elevated volume, that becomes strong reversal confirmation.
+The major warning is dilution history. QXL's share count has expanded dramatically, with current statistics showing shares outstanding up roughly **104% YoY and 75% QoQ**. The insider purchase itself is also only $24.4k. Those factors cap the score despite the excellent tape.
 
-**Why this could pop today:** real C-suite cluster + tiny biotech market cap + positive clinical data + financing overhang partially repriced + insiders buying near current levels.
+**Why this could pop today:** Co-CEO open-market buy + quantum/AI theme + two-session momentum + ~4.6x volume confirmation + small market cap.
 
-**Risks:** dilution/warrants, persistent downtrend, modest short interest, and Fed-day small-cap volatility.
+**Verdict: #1, but 7.7/10 rather than a must-trade signal.**
 
-**Verdict: clear #1.**
+## 2. ADAG — Adagene
 
-Sources: https://finviz.com/insidertrading?tc=1 ; https://www.sec.gov/Archives/edgar/data/1443035/000121390026100269/xslF345X06/marketforms-73992.xml ; https://investors.neonc.com/news-events/news-releases ; https://stockanalysis.com/stocks/nthi/history/
+CEO **Peter Luo** disclosed a discretionary open-market **code-P** purchase of **20,290 ADS at $3.1533**, spending **$63,980**. This is more meaningful than the dollar amount alone because Luo is a **repeat buyer**. An earlier SEC Form 4 shows him purchasing **22,966 ADS around $3.6465 plus 279 at $3.65** in early August.
 
-## 2. TENX — Tenax Therapeutics
+ADAG closed Wednesday at **$3.17, +6.73%**, almost exactly on the new CEO entry zone. Wednesday volume was **319k** versus a roughly **228k 3-month average**, about **1.4x normal**. The latest three sessions averaged roughly **366k/day, about 1.6x normal**. Tuesday fell 9.2% on heavy volume, then Wednesday rebounded 6.7% on still-elevated participation. That is better than low-volume stabilization, but it is not yet a clean breakout.
 
-TENX has a genuine **CEO + CFO cluster**. CEO Christopher Giordano bought **6,000 shares at $1.875** on Sep. 11 and **4,850 at $1.8221** on Sep. 15. CFO Thomas Staab II bought **5,675 shares at about $1.935**. Combined, the two executives bought roughly **16,525 shares for $31.1k**, weighted around **$1.88**. SEC filings show code P.
+Fresh company developments matter. On **Sep. 9**, Adagene announced a preclinical milestone under its Exelixis collaboration, triggering a **$2m milestone payment** and another candidate-selection payment. On **Sep. 10**, Third Arc Bio selected the first lead candidate under an amended strategic collaboration using Adagene's SAFEbody/NEObody platform. Management also participated in three healthcare investor conferences from Sep. 11 through Sep. 16.
 
-TENX was devastated after its Phase 3 LEVEL study missed its primary endpoint. Subsequent analyses showed a signal in sicker patients, including a **26.3-meter improvement versus placebo (p=0.0112)** in patients below the median baseline six-minute walk distance. Management is arguing there may be a narrower development/regulatory path.
+Dilution remains the main penalty. In April the company sold **18.666m ADS at $3.75**, raising about **$65.8m net**, and it retains an ATM program. The financing is not as fresh as NTHI's was, but dilution capacity remains a real overhang.
 
-Sep. 15 volume was about **1.63m** versus a 20-day average around **7.22m**, only **0.23x normal**. The latest three sessions averaged about **0.29x normal**. That is a warning: buyers have not returned in force.
+**Why this could pop today:** repeat CEO buying near the current price + clinical-stage biotech + fresh partnership milestones + elevated participation + a rebound already attempting to form.
 
-**Why this could pop:** CEO+CFO buying + ~$105m market cap + roughly 30% short float + extremely depressed chart + an active debate over a salvageable clinical subgroup signal.
+**Verdict: #2. Cleaner insider conviction than QXL, but financing history and less explosive beta keep it narrowly behind.**
 
-**Risks:** the primary endpoint failure is real, analyst downgrades followed, and subgroup/regulatory uncertainty remains high.
+## 3. BZUN — Baozun
 
-**Verdict: #2, but requires volume confirmation.**
+Chief Strategy Officer **Junhua Wu** disclosed a discretionary open-market **code-P** purchase of **13,900 ADS at $2.73**, spending **$37,947**. CEO **Wenbin Qiu** had already bought **14,600 ADS around $2.73** in transactions on Sep. 14-15, spending about **$39.9k**. The CEO filing itself was accepted before this overnight eligibility window, so it is not counted as a new overnight purchase, but Wu's fresh filing turns the recent activity into a **multi-senior-insider accumulation pattern**.
 
-Sources: https://finviz.com/insidertrading?tc=1 ; https://www.sec.gov/Archives/edgar/data/34956/000187171426000002/xslF345X06/primary_doc.xml ; https://stockanalysis.com/stocks/tenx/ ; https://stockanalysis.com/stocks/tenx/history/
+Combined recent CEO + CSO accumulation is roughly **28,500 ADS / $77.8k around $2.73**.
 
-## 3. NNOX — Nano-X Imaging
+BZUN closed Wednesday at **$2.76, +1.1%**, only about **1.1% above the cluster entry zone**. A reliable extended-hours quote around 07:00 ET showed about **$2.78**. Wednesday volume was **161k** against roughly **217k average volume**, about **0.74x normal**. The latest three sessions averaged roughly **145k/day, around 0.67x normal**. That is not volume confirmation.
 
-CEO **Erez Meltzer** disclosed a fresh **10,000-share open-market purchase at $0.69**, verified as code P. The $6.9k is small by itself, but it follows director **Dan Suesskind's 60,000-share purchase around $0.755** reported the prior morning. The pattern is now: director buys the collapse, then CEO adds at an even lower price.
+Baozun's Aug. 27 Q2 report was constructive: revenue rose **7.5% YoY**, operating income swung positive, Brand Management revenue rose **22.6%**, and management raised its **2028 non-GAAP operating-income target to at least RMB700m from RMB550m**, citing margin improvement, operating leverage and AI-powered automation.
 
-NNOX is around a $49m market cap and roughly 82% below its 52-week level. Recent weakness followed Q2 results containing a large impairment, wider losses, restructuring and financing concerns.
+**Why this could pop today:** CEO + CSO accumulation at almost identical prices + improving operating results + raised profitability target + stock sitting almost exactly on insider cost.
 
-Sep. 15 volume was roughly **845k** versus a 20-day average near **1.46m**, about **0.58x normal**. The last three sessions averaged roughly **0.63x normal**. The largest recent volume still occurred on the selloff, not the rebound.
+**Risk:** low beta, sub-normal volume, China/ADR risk and no identified immediate catalyst.
 
-**Why this could pop:** sub-$1 medical-tech microcap + CEO/director sequence + ~10% short float + extreme drawdown + insider entry near the lows.
-
-**Risks:** financing risk, weak fundamentals and weak volume confirmation.
-
-**Verdict: #3.**
-
-Sources: https://finviz.com/insidertrading?tc=1 ; https://www.sec.gov/Archives/edgar/data/1371973/000121390026100307/xslF345X06/ownership.xml ; https://stockanalysis.com/stocks/nnox/history/ ; https://stockanalysis.com/stocks/nnox/statistics/
-
-## 4. NAMS — NewAmsterdam Pharma
-
-CEO **Michael Davidson** bought **10,000 shares at $22.65**, investing **$226,500**, verified with code P. NAMS closed Sep. 15 at **$21.16, down 5.4%**, near its 52-week low. Volume was **1.72m versus a 20-day average around 1.26m, roughly 1.37x normal**; the last three sessions averaged roughly **1.16x normal**. Elevated volume has accompanied weakness, so it is not bullish confirmation yet.
-
-NewAmsterdam has multiple Phase 3 obicetrapib programs, including PREVAIL, REMBRANDT and RUBENS, with RUBENS topline data expected by year-end 2026, plus additional program data expected during 2026.
-
-**Why this could pop:** credible CEO buy near a fresh low in a late-stage biotech with substantial upcoming data. **Why only #4:** larger capitalization, low historical beta and no immediate binary event identified today.
-
-Sources: https://finviz.com/insidertrading?tc=1 ; https://www.sec.gov/Archives/edgar/data/1573785/000119312526391985/xslF345X06/ownership.xml ; https://ir.newamsterdampharma.com/ ; https://stockanalysis.com/stocks/nams/history/
-
-## 5. GIII — G-III Apparel Group
-
-CEO **Morris Goldfarb** bought **40,000 shares at $27.94**, a **$1.118m** open-market purchase verified with code P. G-III reported fiscal Q2 2027 results on Sep. 2: EPS exceeded guidance, earnings guidance was raised excluding Marc Jacobs, the Marc Jacobs acquisition closed, and go-forward portfolio sales grew high-single digits. The stock nevertheless sold off after earnings.
-
-GIII closed Sep. 15 around **$27.76**, just below the CEO's entry. Short float is roughly **21%**. Sep. 15 volume was about **807k** versus a 20-day average around **740k, ~1.09x normal**; the last three sessions averaged roughly **1.14x normal**.
-
-**Why this could pop:** $1m+ CEO buy + oversold chart + 20%+ short float + raised earnings guidance + strategic acquisition. **Why only #5:** apparel is less event-sensitive than biotech and the purchase looks more like valuation conviction than a same-day catalyst.
-
-Sources: https://finviz.com/insidertrading?tc=1 ; https://www.sec.gov/Archives/edgar/data/821002/000082100226000041/xslF345X06/form4.xml ; https://www.globenewswire.com/news-release/2026/09/02/3354961/0/en/g-iii-apparel-group-ltd-reports-second-quarter-fiscal-2027-results-and-raises-earnings-guidance.html ; https://stockanalysis.com/stocks/giii/history/
+**Verdict: #3, watch rather than chase unless volume expands.**
 
 # Discarded but notable
 
-**COO:** Three directors disclosed a substantial cluster totaling roughly **$1.33m** around $53-$54 after CooperCompanies' ugly post-earnings selloff. Real signal, but directors rather than operating C-suite, ~$10bn market cap and beta around 0.82 make it a weaker intraday-pop vehicle. Soft guidance, CooperVision destocking and the decision not to sell CooperSurgical remain overhangs.
+**ADC — Agree Realty:** President/CEO Joey Agree bought **7,360 shares at $68.06 for ~$501k**, while John Rakolta Jr. bought **20,000 at $68.78 for ~$1.376m**. This is today's strongest pure dollar/cluster signal, roughly **$1.88m combined**, but ADC is a large, relatively low-volatility REIT. Excellent insider signal, poor intraday-pop vehicle.
 
-**BZUN:** CEO Wenbin Qiu bought 7,300 shares at $2.74 and another 7,300 at $2.72, about **$39.9k total**. Genuine CEO buying and recent optimism around AI-driven cost savings are positives, but the commitment is small relative to existing ownership.
+**LXU — LSB Industries:** Jonathan Ackerman bought **1,000 shares at $11.30 for $11.3k**, but the filing is explicitly marked as a **10b5-1 plan**. Small and pre-arranged, so it gets almost no discretionary-insider weight.
 
-**FTK:** Director Matthew Wilks reported a huge **$34.3m** purchase. Eye-catching dollars, but buyer role is director rather than operating C-suite, and this screen intentionally prioritizes identity over raw amount.
+**WULF — TeraWulf:** Michael Bucella bought **6,085 shares at $14.785 for ~$90k**. The crypto/data-center theme and Wednesday's +6.2% move are attractive, but the filing is dated Sep. 16 and I could not verify from a primary timestamp that its SEC acceptance occurred after the required **16:00 ET cutoff**. Under the stricter timestamp rule, I am not promoting an ambiguous filing into the ranked list.
 
-**LMB:** Director Joshua Horowitz disclosed more than $390k across Sep. 11 and Sep. 15 purchases. Meaningful repeat director accumulation, but no C-suite cluster and a less event-sensitive industrial profile.
+**CTSO — Cytosorbents:** Multiple insiders, including CEO Phillip Chan and President/COO Vincent Capponi, disclosed purchases. The cluster structure is interesting, but the individual commitments are small and exact filing-time eligibility relative to the 16:00 ET cutoff was not cleanly verified in this run.
 
-**ROC:** new director Kathleen Kiernan bought only about $17.4k. Too small and low-seniority for today's screen.
-
-**GAM:** VP Administration Eugene Stark bought $120k. Respectable dollars, but lower-signal role and low event sensitivity.
+**FOX — Fox Corp:** Lachlan Murdoch disclosed a very large **~$10.3m CEO purchase**. Huge conviction by dollars, but it is a large, mature media company and filing-time eligibility relative to the overnight cutoff was not cleanly established here. Even if eligible, the intraday percentage-pop profile is weaker than the ranked small-cap names.
 
 # Today's priority
 
-**NTHI is the standout.** It is the only overnight setup combining a true top-management cluster, a sub-$100m biotech valuation, fresh positive clinical data, a sharp financing-driven repricing and above-normal recent participation. The volume was bearish on Tuesday, so the key confirmation is whether today's Form 4 attention can flip that participation upward.
+There is **no 9/10 call today**, deliberately. The correct approach is to distinguish an interesting filing from a trade that already has market confirmation.
 
-**TENX is the more explosive secondary watch** because CEO+CFO buying is paired with very high short interest and a stock still living in the wreckage of a failed Phase 3. It needs volume to return.
+**QXL** has the best immediate tape confirmation: two strong up days and roughly **4.6x normal Wednesday volume**, but the insider buy is small and dilution history is ugly.
 
-Practical hierarchy: **NTHI > TENX > NNOX > NAMS > GIII.**
+**ADAG** has the better insider-quality story: repeat CEO buying in a biotech with fresh partnership milestones, plus a rebound on elevated volume. Its financing history keeps the score capped.
 
-## Sources
+**BZUN** has an emerging senior-insider cluster and improving fundamentals, but volume is still below normal, so it stays a watch-only setup unless participation appears.
+
+### Practical hierarchy
+
+**QXL ≈ ADAG > BZUN**
+
+No candidate deserves an 8+/10 conviction label this morning.
+
+## Key sources
 
 - Finviz insider feed: https://finviz.com/insidertrading?tc=1
-- SEC EDGAR Form 4 filings linked above
-- Company investor-relations releases and StockAnalysis historical/statistical data linked above
-- Macro context: Reuters and AP reporting, Sep. 16, 2026
+- EdgarHawk live open-market Form 4 feed: https://edgarhawk.com/insider-buying
+- SEC EDGAR filings
+- Adagene investor relations: https://investor.adagene.com/
+- Baozun investor relations: https://ir.baozun.com/
+- Quantum X Labs: https://quantumxlabs.xyz/
 
 *This is a screening/trading-signal report, not a claim of certainty or personalized financial advice.*
