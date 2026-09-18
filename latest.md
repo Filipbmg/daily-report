@@ -1,98 +1,169 @@
-# Insider Buy Pop Watch — Thursday, September 17, 2026
+# Insider Buy Pop Watch — Friday, September 18, 2026
 
-**Screened filing window:** Wednesday Sep. 16 after 16:00 ET through the latest available filings in the Thursday premarket. Final refresh found no new higher-signal Thursday filing beyond the names ranked below.
+**Screened filing window:** Thursday Sep. 17 after 16:00 ET through the latest Friday premarket filings. Final Finviz refresh found no later filing that displaced the ranked names below.
 
-**Important model adjustment:** fresh dilution/warrant overhang and persistent distribution now receive a heavy penalty, and executive titles are cross-checked where possible. Elevated volume only helps when it confirms favorable price action.
+**Risk-control adjustment remains in force:** financing/PIPE/warrant overhang and persistent distribution receive heavy penalties. Executive roles and transaction codes are verified from SEC filings where possible. High volume only helps when the direction and context are constructive.
 
 ## Ranked actionable board
 
-| Rank | Ticker | Insider signal | Fresh qualifying buy | Entry | Recent volume vs ~3M avg | Pop score |
-|---|---|---|---:|---:|---|---:|
-| **1** | **QXL** | **Co-CEO** | **$24.4k / 5,000 sh** | **$4.88** | **1D ~4.6x; 3D ~2.9x** | **7.7/10** |
-| **2** | **ADAG** | **CEO, repeat buyer** | **$64.0k / 20,290 ADS** | **$3.1533** | **1D ~1.4x; 3D ~1.6x** | **7.5/10** |
-| **3** | **BZUN** | **CSO joining recent CEO buying** | **$37.9k / 13,900 ADS** | **$2.73** | **1D ~0.7x; 3D ~0.7x** | **6.6/10** |
+| Rank | Ticker | Insider signal | Fresh qualifying buy(s) | Weighted entry | Premarket | Recent volume vs ~3M avg | Pop score |
+|---|---|---|---:|---:|---:|---|---:|
+| **1** | **BWMX** | **CEO + Chairman + Mexico MD cluster** | **~$2.295m / 140k sh** | **~$16.39** | **$16.67, +4.4%** | **1D ~0.64x; 3D ~2.60x** | **8.3/10** |
+| **2** | **SKIL** | **CEO/Exec Chair + Director** | **~$161.6k / 30,929 sh** | **~$5.22** | **$6.65, +5.1%** | **1D ~1.04x; 3D ~1.27x** | **7.8/10** |
+| **3** | **TENX** | **Director joins recent CEO+CFO buying** | **$101.8k / 53k sh** | **$1.92** | **~$1.84, +0.6%** | **1D ~0.67x; 3D ~0.47x** | **7.0/10** |
+| **4** | **BZUN** | **CEO repeat buy, reinforcing CEO+CSO cluster** | **$40.2k / 14.4k ADS** | **~$2.79** | **around flat/slightly positive** | **1D ~0.66x; 3D ~0.72x** | **6.5/10** |
 
-**No high-conviction 8+/10 setup today. I would not force one.** The strongest raw insider cluster is ADC, but it is a low-beta REIT and fails the intraday-pop screen.
+The broader tape is mildly constructive rather than euphoric. S&P 500 futures were roughly +0.1%, Nasdaq futures +0.3%, oil was falling and Bitcoin was higher, while the 10-year Treasury yield remained close to 5%. That is a better environment for risk assets than earlier in the week, but high yields remain a headwind for speculative small caps.
 
-## 1. QXL — Quantum X Labs
+## 1. BWMX — Betterware de México
 
-SEC-derived Form 4 data show **Yakov Baranes, Co-CEO**, making a discretionary open-market **code-P** purchase of **5,000 shares at $4.88**, investing **$24,400**. The filing increased his reported holding to 358,177 shares. An earlier SEC Form 3 independently identifies Baranes as **Co-CEO**, even though the company's public team page uses the title Managing Director for Yaki Baranes and lists Nir Sharon as CEO. For ranking purposes I use the SEC-reported Co-CEO title but flag the public-title inconsistency rather than silently overstating it.
+This is the cleanest cluster of the day.
 
-QXL closed Wednesday at **$5.16, +5.74%**, about **5.7% above the insider entry**. Tuesday was already **+13.5%**. Wednesday volume was **234k shares** versus a current 20-day average around **50.5k**, roughly **4.6x normal**. The latest three sessions averaged roughly **145k/day, about 2.9x normal**. This is genuine positive volume confirmation because participation expanded sharply while price advanced.
+Three senior insiders disclosed genuine **SEC transaction-code P** purchases, with no 10b5-1 box checked:
 
-Quantum X Labs is a roughly $100m quantum/AI technology company with a high beta and small float. On Sep. 3 it announced a milestone in quantum simulation for complex nuclear environments, aimed at nuclear plants, medical devices and space applications. That is real thematic fuel, although it is not a newly scheduled binary catalyst for today.
+- **Andres Campos Chevallier, CEO:** 30,000 shares at $16.4097 on Sep. 15 plus 15,000 at $16.4996 on Sep. 16. Roughly **$739.8k** total.
+- **Luis Campos, Chairman and 10% owner:** 45,000 at $16.2588 plus 35,000 at $16.4416. Roughly **$1.307m** total.
+- **Santiago Campos Chevallier, Managing Director Betterware Mexico:** 15,000 at $16.4616. Roughly **$246.9k**.
 
-The major warning is dilution history. QXL's share count has expanded dramatically, with current statistics showing shares outstanding up roughly **104% YoY and 75% QoQ**. The insider purchase itself is also only $24.4k. Those factors cap the score despite the excellent tape.
+Combined, that is approximately **140,000 shares and $2.295m**, at a weighted average around **$16.39**. The SEC filings explicitly classify the trades as open-market code-P purchases.
 
-**Why this could pop today:** Co-CEO open-market buy + quantum/AI theme + two-session momentum + ~4.6x volume confirmation + small market cap.
+BWMX closed Thursday at **$15.97**, but Friday premarket was around **$16.67, +4.4%**, already about **1.7% above the cluster's weighted entry**. That is useful confirmation because the market is reacting in the same direction as the insider signal rather than immediately fading it.
 
-**Verdict: #1, but 7.7/10 rather than a must-trade signal.**
+### Volume / participation
 
-## 2. ADAG — Adagene
+Finviz lists average volume around **77.3k shares**. Thursday traded only about **49k**, roughly **0.64x normal**, but Wednesday traded ~222k and Tuesday ~332k. The latest three sessions therefore average roughly **201k/day, or 2.6x normal**.
 
-CEO **Peter Luo** disclosed a discretionary open-market **code-P** purchase of **20,290 ADS at $3.1533**, spending **$63,980**. This is more meaningful than the dollar amount alone because Luo is a **repeat buyer**. An earlier SEC Form 4 shows him purchasing **22,966 ADS around $3.6465 plus 279 at $3.65** in early August.
+This is constructive but not perfect. The elevated three-day participation was concentrated on Tuesday and Wednesday, while Thursday cooled sharply. Today's premarket +4.4% therefore needs regular-session volume to re-expand if this is going to become a sustained momentum move.
 
-ADAG closed Wednesday at **$3.17, +6.73%**, almost exactly on the new CEO entry zone. Wednesday volume was **319k** versus a roughly **228k 3-month average**, about **1.4x normal**. The latest three sessions averaged roughly **366k/day, about 1.6x normal**. Tuesday fell 9.2% on heavy volume, then Wednesday rebounded 6.7% on still-elevated participation. That is better than low-volume stabilization, but it is not yet a clean breakout.
+### Why insiders may be buying
 
-Fresh company developments matter. On **Sep. 9**, Adagene announced a preclinical milestone under its Exelixis collaboration, triggering a **$2m milestone payment** and another candidate-selection payment. On **Sep. 10**, Third Arc Bio selected the first lead candidate under an amended strategic collaboration using Adagene's SAFEbody/NEObody platform. Management also participated in three healthcare investor conferences from Sep. 11 through Sep. 16.
+The underlying operating picture is solid. Betterware/BeFra's Q2 update showed Betterware revenue growth, total group growth boosted by the Tupperware Latin America acquisition, strong cash conversion and updated 2026 guidance for **18%-22% net revenue growth** with an **EBITDA margin of at least 19%**. The company also continues quarterly dividends.
 
-Dilution remains the main penalty. In April the company sold **18.666m ADS at $3.75**, raising about **$65.8m net**, and it retains an ATM program. The financing is not as fresh as NTHI's was, but dilution capacity remains a real overhang.
+There is also a near-term visibility event: Betterware is scheduled to present at the **Water Tower Research Insights Conference on September 23, 2026**.
 
-**Why this could pop today:** repeat CEO buying near the current price + clinical-stage biotech + fresh partnership milestones + elevated participation + a rebound already attempting to form.
+This is not a distressed insider rescue trade. It is senior management and the chairman adding heavily while the company is profitable, integrating Tupperware Latin America and guiding for substantial revenue growth.
 
-**Verdict: #2. Cleaner insider conviction than QXL, but financing history and less explosive beta keep it narrowly behind.**
+### Risks
 
-## 3. BZUN — Baozun
+BWMX is not a classic high-beta biotech or meme stock. Beta is around 1.0 and short float is only about 1%, so squeeze mechanics are weak. The Tupperware acquisition increased leverage and integration risk. The company also has a small float, which can amplify both directions.
 
-Chief Strategy Officer **Junhua Wu** disclosed a discretionary open-market **code-P** purchase of **13,900 ADS at $2.73**, spending **$37,947**. CEO **Wenbin Qiu** had already bought **14,600 ADS around $2.73** in transactions on Sep. 14-15, spending about **$39.9k**. The CEO filing itself was accepted before this overnight eligibility window, so it is not counted as a new overnight purchase, but Wu's fresh filing turns the recent activity into a **multi-senior-insider accumulation pattern**.
+**Why this could pop today:** unusually strong multi-senior-insider cluster + ~$2.3m aggregate conviction + premarket already +4.4% + recent elevated participation + profitable growth/integration narrative + Sep. 23 investor event.
 
-Combined recent CEO + CSO accumulation is roughly **28,500 ADS / $77.8k around $2.73**.
+**Verdict: #1, 8.3/10. Strongest setup today, but the key confirmation is whether volume returns after the open.**
 
-BZUN closed Wednesday at **$2.76, +1.1%**, only about **1.1% above the cluster entry zone**. A reliable extended-hours quote around 07:00 ET showed about **$2.78**. Wednesday volume was **161k** against roughly **217k average volume**, about **0.74x normal**. The latest three sessions averaged roughly **145k/day, around 0.67x normal**. That is not volume confirmation.
+## 2. SKIL — Skillsoft
 
-Baozun's Aug. 27 Q2 report was constructive: revenue rose **7.5% YoY**, operating income swung positive, Brand Management revenue rose **22.6%**, and management raised its **2028 non-GAAP operating-income target to at least RMB700m from RMB550m**, citing margin improvement, operating leverage and AI-powered automation.
+The insider signal is smaller in dollars than BWMX but the stock has much more explosive trading characteristics.
 
-**Why this could pop today:** CEO + CSO accumulation at almost identical prices + improving operating results + raised profitability target + stock sitting almost exactly on insider cost.
+**Ronald Hovsepian, CEO & Executive Chair**, bought 4,508 shares at a weighted $5.4625 on Sep. 15 and another 1,421 at $5.8958 on Sep. 16. **Director Jim Frankola** separately bought **25,000 shares around $5.14**, spending about **$128.6k**. The CEO's SEC filing shows genuine code-P purchases and no 10b5-1 plan.
 
-**Risk:** low beta, sub-normal volume, China/ADR risk and no identified immediate catalyst.
+Combined CEO + director buying is roughly **30,929 shares / $161.6k**, with a weighted entry near **$5.22**.
 
-**Verdict: #3, watch rather than chase unless volume expands.**
+SKIL closed Thursday at **$6.33, +3.8%** and was around **$6.65, +5.1% premarket**. That places the stock roughly **27% above the cluster's weighted entry**, so the insiders have already caught a substantial rebound.
+
+### Volume / participation
+
+Finviz shows average volume around **97.7k**. Thursday traded about **101.7k, or 1.04x normal**. The latest three sessions averaged roughly **124.5k/day, about 1.27x normal**. Price has risen on sustained, above-normal participation.
+
+That is positive confirmation.
+
+### Catalyst and price context
+
+Skillsoft reported mixed fiscal Q2 results on Sep. 9. Adjusted EPS beat expectations, but revenue missed and management reduced full-year revenue guidance. The stock then crashed **34% on Sep. 10**. Since then it has rebounded violently, including +13.7% Monday, +17.9% Tuesday, +5.4% Wednesday and +3.8% Thursday.
+
+Management's thesis is a narrower, AI-native skills-management company following the sale of Global Knowledge. EBITDA margin improved, but consumer-business pressure drove the lower revenue outlook.
+
+This is exactly where caution matters. The insider purchases appear to have helped validate a post-earnings overshoot, but the stock is now up roughly **54% over one week**. Chasing a fifth straight rebound session carries real mean-reversion risk.
+
+**Why this could pop today:** CEO/Executive Chair + director buying after a 34% earnings crash + 2.4 beta + 4.7m float + ~13% short float + four-session rebound + positive premarket + above-normal multi-day volume.
+
+**Risk:** the underlying earnings report genuinely contained a revenue miss and guidance cut, and much of the insider signal may already be priced into the 50%+ rebound.
+
+**Verdict: #2, 7.8/10. Better percentage-pop vehicle than BWMX, but materially higher chase risk.**
+
+## 3. TENX — Tenax Therapeutics
+
+Director **Declan Doogan** bought **53,000 shares at $1.92 for $101,760**, a genuine code-P purchase. On its own a director buy would not rank this highly, but it joins the recent **CEO + CFO buying** already identified earlier this week.
+
+The broader recent pattern is therefore a real multi-insider cluster around the post-crash price zone.
+
+TENX closed Thursday at **$1.86, +2.2%**, and was roughly **$1.84** in the latest premarket quote, about 4% below Doogan's $1.92 entry.
+
+### Volume / participation
+
+Thursday volume was about **3.54m** against Finviz's roughly **5.25m average**, or **0.67x normal**. The last three sessions averaged about **2.47m/day, only 0.47x normal**.
+
+That is the main reason TENX is not ranked higher. The insider cluster is improving, but the market has not confirmed it with renewed participation.
+
+### Catalyst and risk
+
+TENX remains an extreme post-binary-failure setup. The Phase 3 LEVEL trial missed its primary endpoint, which destroyed the stock in August. Subsequent subgroup analysis showed a potentially encouraging signal in sicker patients, and the company presented LEVEL results at ESC Congress, but the regulatory path remains uncertain.
+
+Short float is roughly **30%**, which gives the stock real squeeze potential if volume returns. The balance sheet is comparatively liquid, but Tenax also has a **$300m shelf registration**, so future financing capacity is substantial even though there is no fresh NTHI-style offering immediately preceding today's signal.
+
+**Why this could pop today:** director adds a meaningful $102k to a recent CEO/CFO cluster + biotech + ~30% short float + deeply compressed valuation after a binary failure.
+
+**Why it may not:** sub-normal volume, failed Phase 3 primary endpoint and no clean near-term regulatory catalyst.
+
+**Verdict: #3, 7.0/10. Watch for volume first. I would not treat the insider cluster alone as sufficient confirmation.**
+
+## 4. BZUN — Baozun
+
+CEO **Wenbin Qiu** disclosed another two open-market purchases: **7,300 ADS at $2.74** and **7,100 at $2.84**, roughly **14,400 ADS / $40.2k** total. This reinforces the recent CEO + Chief Strategy Officer accumulation pattern identified yesterday.
+
+The combined recent senior-insider buying is now roughly **28,300 ADS and about $78k**, concentrated in the $2.73-$2.84 zone.
+
+Baozun closed Thursday around **$2.78**, essentially inside the insider cost zone.
+
+### Volume / participation
+
+Thursday traded about **146k shares** versus roughly **222k average**, or **0.66x normal**. The latest three sessions averaged about **160k/day, around 0.72x normal**.
+
+So the insider signal is strengthening, but participation still is not.
+
+Baozun's Q2 report was constructive, with improving revenue and profitability, and CLSA upgraded the stock to Outperform after earnings. But beta is only around 0.4, short interest is low, and there is no obvious immediate catalyst.
+
+**Verdict: #4, 6.5/10. Interesting accumulation, weak intraday-pop mechanics unless volume changes abruptly.**
 
 # Discarded but notable
 
-**ADC — Agree Realty:** President/CEO Joey Agree bought **7,360 shares at $68.06 for ~$501k**, while John Rakolta Jr. bought **20,000 at $68.78 for ~$1.376m**. This is today's strongest pure dollar/cluster signal, roughly **$1.88m combined**, but ADC is a large, relatively low-volatility REIT. Excellent insider signal, poor intraday-pop vehicle.
+**XBP:** The raw Finviz feed looks spectacular: CEO + CFO + director purchases totaling roughly **$694k** at $2.83. It is excluded. These were purchases pursuant to a **PIPE/private-placement Securities Purchase Agreement**, not ordinary discretionary exchange-market accumulation. XBP sold about **2.275m new shares** for roughly **$6.05m**, with resale registration rights. This is exactly the type of financing-linked insider transaction the tightened model is designed to reject. Liquidity is also extremely poor, with some recent sessions trading only a few thousand shares.
 
-**LXU — LSB Industries:** Jonathan Ackerman bought **1,000 shares at $11.30 for $11.3k**, but the filing is explicitly marked as a **10b5-1 plan**. Small and pre-arranged, so it gets almost no discretionary-insider weight.
+**INBX:** Director Jon Faiz Kayyem bought **5,000 shares at $100 for $500k**. Large and genuine-looking, but it is a single director in a higher-priced biotech rather than a senior operating-executive cluster. It loses on buyer hierarchy versus today's leaders.
 
-**WULF — TeraWulf:** Michael Bucella bought **6,085 shares at $14.785 for ~$90k**. The crypto/data-center theme and Wednesday's +6.2% move are attractive, but the filing is dated Sep. 16 and I could not verify from a primary timestamp that its SEC acceptance occurred after the required **16:00 ET cutoff**. Under the stricter timestamp rule, I am not promoting an ambiguous filing into the ranked list.
+**COO:** Another director, Lawrence Kurzius, bought **10,000 shares at $54.93 for ~$549k**, extending a broader recent director-buying pattern after the company's selloff. Meaningful long-term confidence signal, but CooperCompanies is a large, lower-beta medical-device company and remains a poor percentage-pop vehicle.
 
-**CTSO — Cytosorbents:** Multiple insiders, including CEO Phillip Chan and President/COO Vincent Capponi, disclosed purchases. The cluster structure is interesting, but the individual commitments are small and exact filing-time eligibility relative to the 16:00 ET cutoff was not cleanly verified in this run.
+**CORZ:** Director Eric Weiss bought **6,000 shares at $16.33 for ~$98k**. The crypto/AI infrastructure theme is attractive, but this is a single director buy and the commitment is modest relative to the company's scale. It does not outrank the operating-executive clusters.
 
-**FOX — Fox Corp:** Lachlan Murdoch disclosed a very large **~$10.3m CEO purchase**. Huge conviction by dollars, but it is a large, mature media company and filing-time eligibility relative to the overnight cutoff was not cleanly established here. Even if eligible, the intraday percentage-pop profile is weaker than the ranked small-cap names.
+**BENF:** CEO James Silk and a director bought shares, but the combined commitments are tiny, about **$30k** across the visible CEO/director purchases. Too symbolic for a microcap where dilution/liquidity risk is high.
+
+**GPUS:** Executive Chairman Milton Ault disclosed multiple sub-$0.20 purchases. The dollar amounts are small and the security is an extremely speculative penny-stock structure. Excluded on tradability/quality grounds.
+
+**CRBG:** Nippon Life bought another **$7.39m** as a 10% owner. Huge dollars, wrong buyer type and wrong volatility profile for this strategy.
 
 # Today's priority
 
-There is **no 9/10 call today**, deliberately. The correct approach is to distinguish an interesting filing from a trade that already has market confirmation.
+**BWMX is the best actual signal.** Unlike NTHI earlier this week, this is not a financing-driven collapse being rescued by insider buying. It is a profitable company with a three-person senior cluster, about **$2.3m** of buying, improving premarket price action and elevated multi-day participation. The downside is that it is not naturally a high-beta stock.
 
-**QXL** has the best immediate tape confirmation: two strong up days and roughly **4.6x normal Wednesday volume**, but the insider buy is small and dilution history is ugly.
+**SKIL is the higher-octane trade**, but the stock has already rebounded more than 50% in a week after its earnings crash. The setup can continue, but chase risk is substantial.
 
-**ADAG** has the better insider-quality story: repeat CEO buying in a biotech with fresh partnership milestones, plus a rebound on elevated volume. Its financing history keeps the score capped.
-
-**BZUN** has an emerging senior-insider cluster and improving fundamentals, but volume is still below normal, so it stays a watch-only setup unless participation appears.
+**TENX is watch-only until volume confirms.** The insider cluster is compelling, but the failed Phase 3 endpoint and sub-normal participation matter more than the short-interest story until buyers actually show up.
 
 ### Practical hierarchy
 
-**QXL ≈ ADAG > BZUN**
+**BWMX > SKIL > TENX > BZUN**
 
-No candidate deserves an 8+/10 conviction label this morning.
+If BWMX opens with strong relative volume and holds above the insider zone around **$16.39**, it is the cleanest continuation setup. If volume is weak and the premarket gain fades, the edge drops quickly.
 
 ## Key sources
 
 - Finviz insider feed: https://finviz.com/insidertrading?tc=1
-- EdgarHawk live open-market Form 4 feed: https://edgarhawk.com/insider-buying
-- SEC EDGAR filings
-- Adagene investor relations: https://investor.adagene.com/
-- Baozun investor relations: https://ir.baozun.com/
-- Quantum X Labs: https://quantumxlabs.xyz/
+- BWMX SEC Form 4, CEO: https://www.sec.gov/Archives/edgar/data/1788257/000121390026101012/xslF345X06/ownership.xml
+- BWMX SEC Form 4, Chairman: https://www.sec.gov/Archives/edgar/data/1788257/000121390026101014/xslF345X06/ownership.xml
+- BWMX SEC Form 4, MD Betterware Mexico: https://www.sec.gov/Archives/edgar/data/1788257/000121390026101015/xslF345X06/ownership.xml
+- Betterware Q2 2026 results: https://www.befra.com/news-events/press-releases/detail/105/befra-reports-second-quarter-2026-results
+- SKIL SEC Form 4, CEO/Executive Chair: https://www.sec.gov/Archives/edgar/data/1091482/000109148226000013/xslF345X06/form4-09172026_080916.xml
+- Tenax Q2 2026 10-Q: https://www.sec.gov/Archives/edgar/data/34956/000119312526327455/tennx-20260630.htm
+- XBP financing context: https://www.stocktitan.net/sec-filings/XBP/
 
 *This is a screening/trading-signal report, not a claim of certainty or personalized financial advice.*
