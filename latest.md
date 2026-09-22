@@ -1,154 +1,99 @@
-# Insider Buy Pop Watch — Monday, September 21, 2026
+# Insider Buy Pop Watch — Tuesday, September 22, 2026
 
-**Screened filing window:** Friday Sep. 18 after 16:00 ET through the latest Monday premarket filings. Final Finviz refresh at report completion did not reveal a later filing that displaced the ranked names.
+**Screened window:** Monday Sep. 21 after 16:00 ET through Tuesday premarket. Final Finviz refresh included filings through 07:28 ET and showed no later qualifying filing that displaced the leaders.
 
-**Risk controls:** financing/ATM/warrant overhang and persistent distribution receive heavy penalties. Executive roles are independently checked where possible. High volume only helps when its direction and context are constructive.
+## Actionable board
 
-## Ranked actionable board
+| Rank | Ticker | Insider signal | Vehicle quality | Fresh buy | Entry | Premarket / latest reaction | Recent volume | Score |
+|---|---|---|---|---:|---:|---|---|---:|
+| **1** | **HELP (Cybin/Helus)** | **CEO + broader executive cluster** | **Excellent: biotech, repeated 10-25% daily ranges** | **$1.347M / 100k** | **$13.47** | **$14.07 AH, +3.0% after +10.4% Monday** | **1D ~2.3x; 3D ~3.2x normal** | **9.0/10** |
+| **2** | **GME** | **CEO/Chair + director, repeat CEO accumulation** | **Excellent: meme/retail, beta ~1.7, options-heavy** | **$26.8M combined** | **~$22.94** | **~+3.3% premarket** | **1D ~1.3x; 3D ~1.3x normal** | **8.8/10** |
+| **3** | **SKIL** | **CEO/Exec Chair repeat buying** | **Excellent: ~$55M cap, recent ±10-34% sessions** | **$99.9k / 15,468** | **$6.46** | **$5.94 close Monday** | **1D ~0.47x; 3D ~0.79x normal** | **7.8/10** |
+| **4** | **GRAB** | **CEO + President/COO cluster** | **Moderate: liquid growth stock, lower % volatility** | **$30.74M / 10.65M** | **~$2.887** | **at least +5% premarket** | **Monday participation elevated** | **7.6/10** |
+| **5** | **VFF** | **CEO** | **Good: cannabis small-cap, beta ~1.4** | **$101.3k / 35k** | **$2.893** | **$2.88 Monday close** | **435k Monday; not abnormal** | **6.9/10** |
 
-| Rank | Ticker | Insider signal | Fresh qualifying buy | Entry | Friday close / AH | Recent volume | Pop score |
-|---|---|---|---:|---:|---|---|---:|
-| **1** | **THM** | **CEO, newly appointed** | **$200k / 83,682 sh** | **$2.39** | **$2.60 / $2.779** | **1D 3.62x; 3D 2.04x vs 20D** | **8.1/10** |
-| **2** | **TH** | **Chief Commercial Officer** | **$125k / 5,907 sh** | **$21.16** | **$21.19 / $21.58** | **1D 2.20x; 3D 1.39x vs 20D** | **7.5/10** |
+## 1. HELP — Cybin / Helus Pharma
 
-I am deliberately stopping at two actionable names. The remaining qualifying filings either have weak buyer quality, weak day-trade mechanics, preferred-stock rather than common-stock purchases, or serious financing/distribution problems.
+CEO Michael Halstead bought 100,000 shares at a weighted $13.4705, spending $1.347 million and increasing his direct position by roughly 146%. The filing is a discretionary open-market code-P purchase, not a 10b5-1 trade.
 
-The macro tape is supportive: U.S. futures are higher, Nasdaq futures roughly +1.1%, Bitcoin is up around 4%, crude is down more than 2%, and the 10-year Treasury yield has eased just below 5%. That is a better backdrop for risk assets and high-beta names than Friday.
+The fresh CEO buy sits inside a broader accumulation pattern. Executive Chair Eric So bought 100,000 shares around $12.39 earlier this month and Chief Growth Officer Paul Glavine bought 100,000 around $12.47 on Sep. 8 after another 100,000-share purchase around $11.78 on Sep. 3.
 
-## 1. THM — International Tower Hill Mines
+HELP is exactly the kind of stock this screen should prioritize. Monday it rose 10.43% to $13.66 on 2.87M shares, then traded around $14.07 after hours, another +3%. Friday it had fallen 11.77% with an intraday range around 25%. Reported average volume is roughly 1.25M, so Monday was about 2.3x normal and the last three completed sessions averaged roughly 3.2x normal.
 
-This is today's cleanest combination of insider quality, price confirmation, volume and near-term visibility.
+The company expects Q4 Phase 3 data for HLP003, its deuterated psilocin program for adjunctive major depressive disorder. HLP003 has Breakthrough Therapy designation.
 
-**David Victor Wiens, CEO and director**, bought **83,682 common shares at $2.39**, spending exactly **$200,000**. The SEC Form 4 confirms transaction code **P**, direct ownership, and no 10b5-1 plan. After the purchase he directly owned 684,047 shares.
+Cybin established an ATM program of up to $100M earlier in 2026 under a much larger shelf. That is a real dilution risk and prevents an even higher score, but this is not an NTHI-style just-completed registered direct with immediate warrant overhang.
 
-Wiens is also a very new CEO. International Tower Hill announced his appointment in late July, effective **August 17, 2026**. That makes a $200k open-market purchase roughly one month into the job more informative than a routine long-tenured-director buy.
+**Verdict: #1, 9.0/10. Biotech + $1.35M CEO buy + broader executive accumulation + Q4 Phase 3 catalyst + Monday +10.4% on ~2.3x volume + extreme realized volatility.**
 
-### Price and volume confirmation
+## 2. GME — GameStop
 
-THM closed Friday at **$2.60, +7.0%**, then traded as high as roughly **$2.779 after hours, another +6.9%**. Friday volume was **2.98 million shares** versus a 20-day average of about **822k**, or **3.62x normal**.
+CEO, President and Chairman Ryan Cohen bought 1,150,680 shares at $22.9375, spending $26.39M. Director Alain Attal added another 17,500 shares at $22.969, about $402k. Both were discretionary purchases.
 
-The last three completed sessions averaged about **1.68 million shares/day**, roughly **2.04x normal**. Crucially, this elevated participation has accompanied positive price action: Thursday +3.4%, Friday +7.0%, then a further after-hours response.
+This is repeat accumulation. Cohen bought 1 million shares at about $20.38 on Sep. 10, and three directors bought during that same week. Across Cohen's two September purchases alone, he has deployed roughly $46.8M.
 
-This is the opposite of the NTHI failure mode. The unusual volume is confirming accumulation/momentum rather than persistent distribution.
+GME passes the hard gate because it remains a uniquely reflexive retail/options vehicle. Beta is around 1.7, and the stock has risen about 25% over the last 20 trading days. Monday volume was about 9.0-9.2M versus roughly 7.1M average, around 1.3x normal. The filing is already getting a reaction: GME was about +3.3% premarket Tuesday.
 
-### Catalyst context
+GameStop has experienced meaningful recent dilution, and the stock already rallied strongly through September.
 
-THM owns the Livengood Gold Project in Alaska, one of the largest undeveloped gold deposits in the United States, with company materials citing a **9 million ounce gold reserve and 13.6 million ounce resource**.
+**Verdict: #2, 8.8/10. Less fundamentally catalytic than HELP, but arguably the strongest pure reflexivity setup.**
 
-There is also a concrete near-term visibility event: the company is scheduled to attend the **2026 Precious Metals Summit in Beaver Creek, September 22-25**, immediately after today's session. The company also presented at H.C. Wainwright September 14-16.
+## 3. SKIL — Skillsoft
 
-The business has no operating revenue, so this remains a gold-development optionality trade rather than an earnings story. But THM has approximately **$110m cash and no debt**, reducing immediate financing stress. Its 5-year beta is about **2.0**, and the stock is up roughly 76% over the past year, giving it the momentum profile this screen prefers.
+CEO and Executive Chair Ronald Hovsepian disclosed another 15,468 shares bought across Sep. 17-18 for about $99.9k, at a weighted average around $6.46. This follows his 5,929 shares bought Sep. 15-16 and director Jim Frankola's 25,000-share purchase at $5.14.
 
-### Risks
+SKIL is a superb percentage-move vehicle: market cap around $55M and recent sessions of -34%, +13.7%, +17.9%, +5.4%, +3.8%, -2.2%, -4.0%. The problem is participation. Monday volume was only 68k against roughly 147k average, about 0.47x normal.
 
-Shares outstanding have increased about **14.5% YoY** and 5.3% QoQ, so dilution history is not clean. The stock is also already roughly **16% above Wiens's $2.39 entry** using Friday's after-hours price, which creates chase risk. Short interest is only around 2.7% of float, so there is no meaningful squeeze engine.
+**Verdict: #3, 7.8/10. If relative volume suddenly expands, this can move violently. Without that, it stays behind HELP and GME.**
 
-### Why this could pop today
+## 4. GRAB — Grab Holdings
 
-**New CEO puts $200k of personal capital into common stock + code-P purchase + 2.0 beta + gold-development optionality + Friday +7% on 3.6x normal volume + further after-hours strength + investor conference beginning tomorrow.**
+CEO Anthony Tan bought 10.35M shares at $2.8866, spending $29.88M and increasing his direct position by more than 24x. President and COO Alexander Hungate bought another 299,571 shares at $2.8936, spending about $867k. Combined fresh senior-executive buying is about $30.74M.
 
-**Verdict: #1, 8.1/10. Strongest setup today, but do not chase a vertical gap if regular-session volume fails to confirm.**
+This is an exceptionally strong insider signal. Grab also recently agreed to acquire a 60% stake in Atome Financial for $1.49B. The reason GRAB ranks only fourth is the hard vehicle gate: it is liquid and event-sensitive, but historically less explosive on a percentage basis than HELP, GME or SKIL. Still, Barron's reported GRAB up at least 5% premarket.
 
-## 2. TH — Target Hospitality
+**Verdict: #4, 7.6/10. Strongest raw C-suite cluster of the day, weaker percentage-move mechanics than the top three.**
 
-**Troy C. Schrenk, Chief Commercial Officer**, bought **5,907 common shares at $21.16**, spending **$124,992**. The SEC Form 4 confirms transaction code **P**, direct ownership and no 10b5-1 election. He now directly owns 216,995 shares.
+## 5. VFF — Village Farms International
 
-This is weaker than THM on buyer hierarchy because Schrenk is CCO rather than CEO, but the operating backdrop and tape are strong.
+CEO Michael DeGiglio bought 35,000 shares at $2.8931, spending $101,259. It is a discretionary open-market purchase. VFF closed Monday at $2.88, essentially at his entry.
 
-### Price and volume confirmation
+VFF passes the vehicle gate because it is a roughly $350M cannabis small-cap with beta around 1.38. Recent operating news has been constructive, including positive first-year findings from the Netherlands regulated-cannabis program and expanding Dutch cultivation capacity.
 
-TH closed Friday at **$21.19, +2.07%**, almost exactly at Schrenk's entry, then traded around **$21.58 after hours, +1.84%**.
+The weakness is confirmation. Monday volume was about 435k, not an obvious abnormal-volume event, and the CEO buy represents only a 0.4% increase in his already-large holdings.
 
-Friday volume was about **4.94 million shares** versus a 20-day average of **2.24 million**, or **2.20x normal**. The last three sessions averaged about **3.11 million/day**, approximately **1.39x normal**.
+**Verdict: #5, 6.9/10. Good vehicle, real CEO buy, weaker conviction/confirmation than the top four.**
 
-Price and participation are aligned. Thursday was +10.7% on 2.53m shares, Friday added another 2.1% on nearly 5m. This is constructive continuation volume, not distressed selling.
+# Discarded but notable
 
-### Catalyst context
+**GSAT:** James Monroe III's apparent $29.8M purchase is not a clean market signal. The filing footnote says the shares were purchased from James Lynch in a private transaction for estate-planning purposes. Excluded.
 
-Target Hospitality has transformed its narrative through hyperscale data-center contracts. On **August 26**, it announced another multi-year contract expected to generate roughly **$250 million through August 2030** for a top-five hyperscaler's West Texas data-center project. That followed an April contract worth more than **$550 million** for another top-five hyperscaler.
+**ENHA:** Christian Angermayer/Apeiron disclosed roughly $7M of buying, but Enhanced recently completed a large PIPE structure with warrants. Financing context contaminates the signal.
 
-Including the August award, Target said it had secured more than **$1.7 billion of multi-year Workforce Hospitality Solutions contract awards since January 2026**. It raised 2026 guidance to **$435-$445m revenue and $105-$115m adjusted EBITDA**, and projects annualized revenue above $750m and adjusted EBITDA above $300m exiting 2027 based on its existing portfolio.
+**BOLT:** biotech vehicle is excellent, but the CEO/CFO and finance purchases were only about $4.4k combined and the underlying transactions date back to June. Too symbolic and stale.
 
-This gives the insider buy a credible explanation: a senior commercial executive is buying while the company's data-center/hyperscaler contract pipeline is materially repricing the business.
+**EU:** CEO Richard Little bought only $10.6k after William Sheriff bought ~$101k. EU remains volatile, but the $250M ATM and recent heavy distribution remain too large a financing overhang.
 
-### Risks
+**BZUN:** CEO Wenbin Qiu continues buying, but realized volatility and participation remain mediocre for this strategy.
 
-TH is already near a 52-week high after rising roughly **146% over the past year**. RSI is about 68. Market cap is roughly **$2.1bn**, so it is less capable of a huge percentage move than THM. The recent rally also followed a secondary offering by selling stockholders, although that offering was not a primary capital raise by the company. Short float is only around 6.6%.
+**LEN / CRM / GLP / GPI / RWT:** meaningful insider buying, but they fail the intraday-vehicle gate. Strong insider confidence is not enough when a 5-10% same-day move is structurally unlikely.
 
-### Why this could pop today
+# Bottom line
 
-**Senior commercial executive buys almost exactly at Friday's close + strong hyperscaler/data-center catalyst + 2.2x normal Friday volume + two-day positive momentum + beta around 1.5 + supportive broad tape.**
+**HELP > GME > SKIL > GRAB > VFF**
 
-**Verdict: #2, 7.5/10. Cleaner fundamentals than THM, but less explosive mechanics and already close to highs.**
+HELP is the best overall combination of insider quality, biotech/event sensitivity, realized volatility, volume and catalyst proximity. GME is the strongest reflexive retail setup. SKIL has the most extreme small-cap mechanics but currently lacks volume confirmation. GRAB has arguably the strongest raw C-suite cluster, but its normal percentage behavior is slower.
 
-# Watch-only / discarded but notable
-
-## EU — enCore Energy
-
-This is the most tempting raw filing and the one I am explicitly **not** promoting.
-
-William M. Sheriff bought **125,000 shares at $0.81**, about **$101,250** combined between direct and spouse ownership. The SEC Form 4 labels him Executive Chairman and director and confirms code-P purchases.
-
-However, enCore's own March 2 corporate release said Sheriff **retired as Executive Chair and director**, became Chairman Emeritus/Senior Advisor, and moved to Executive Chair of Verdera Energy. The new Form 4 therefore conflicts with the company's public leadership history. I will not give him full current Executive-Chair weighting without resolving that discrepancy.
-
-More importantly, the tape and financing structure are ugly. enCore established a **US$250 million ATM equity program** in August. Friday the stock fell **7.7%** on **29.9 million shares**, versus roughly 7.9m one-month average volume, around **3.8x normal**. The latest three sessions averaged 15.7m/day, roughly 2.0x the one-month norm, but the biggest participation came with selling.
-
-EU also has a near-term special-share-dividend catalyst: shareholders of record **September 25** are due Verdera shares on September 30. That can attract event interest, but it does not neutralize the ATM overhang and heavy distribution.
-
-**Verdict: WATCH ONLY. Insider purchase is real, but financing overhang + title discrepancy + high-volume selling prevent an actionable ranking. This is exactly the kind of setup the tightened model should refuse to chase.**
-
-## GAM — General American Investors
-
-President & CEO Jeffrey Priest bought **4,000 shares of GAM's 5.95% Preferred Stock** for about **$93,840**. Treasurer/PAO/PFO Samantha Jin also bought 3,000 preferred shares in a filing earlier Friday. Genuine insider conviction, but these are **preferred-stock purchases**, not common-stock accumulation, and GAM is a closed-end investment company. Poor fit for intraday-pop screening.
-
-## CV — Civeo
-
-A 10% owner disclosed about **$5 million** of buying. The dollar amount is large, but buyer type is lower signal than operating executives and the setup lacks the catalyst/volatility profile needed to beat THM or TH.
-
-## BPRE
-
-Trustee Ryan MacDonald disclosed roughly **$248k** of purchases, but BPRE is a private real-estate fund structure rather than a liquid high-beta common-equity setup. Excluded on tradability/profile.
-
-## LILA / LILAK
-
-John Malone disclosed roughly **$758k** of buying. Significant insider name and meaningful dollars, but he is Director Emeritus and the Liberty Latin America setup lacks the near-term catalyst and momentum profile sought here.
-
-## ELOG
-
-CEO Albert Wong's filing shows **$200k at $1.00**, but the actual transaction date was **August 27**. It is stale despite the Sep. 18 filing date, so it is excluded from today's signal set.
-
-## GPUS
-
-CEO William Horne bought only **$18k**. For a speculative microcap, that is too symbolic to carry meaningful weight.
-
-## TELA
-
-Director Joseph Capper bought roughly **$89k** across Sep. 16-17. Buyer hierarchy is weak and no sufficiently strong near-term catalyst displaced the operating-executive names.
-
-# Today's priority
-
-**THM is the only setup I would put in the top tier today.** The critical difference versus the NTHI mistake is that THM's abnormal volume is moving with price, the CEO purchase is a straightforward code-P common-stock buy, there is no fresh financing event attached to the purchase, and the company has substantial cash with no debt.
-
-**TH is the cleaner business-quality setup**, but its CCO buyer is lower in the hierarchy and the stock is already near its highs after a huge annual run.
-
-**EU is specifically not a rebound call.** A $101k insider purchase does not override a $250m ATM and a -7.7% session on roughly 3.8x normal volume.
-
-### Practical hierarchy
-
-**THM > TH**
-
-Then a large gap to **EU (watch only)**.
+The broad tape is roughly neutral. U.S. futures are near flat, oil is falling, the 10-year yield is around 4.93%, and Bitcoin is slightly lower. Today's ranked moves are therefore more likely to be idiosyncratic than broad risk-on beta.
 
 ## Key sources
 
 - Finviz insider feed: https://finviz.com/insidertrading?tc=1
-- THM SEC Form 4: https://www.sec.gov/Archives/edgar/data/1134115/000112329226001319/xslF345X06/form4.xml
-- THM investor site / events: https://www.ithmines.com/
-- THM CEO appointment 8-K: https://www.sec.gov/Archives/edgar/data/1134115/000110465926089254/tm2621754d1_8k.htm
-- TH SEC Form 4: https://www.sec.gov/Archives/edgar/data/1712189/000171218926000061/xslF345X06/form4.xml
-- Target Hospitality Aug. 26 contract: https://investors.targethospitality.com/news/news-details/2026/Target-Hospitality-Secures-New-Multi-Year-Contract-Expected-to-Generate-Approximately-250-Million-of-Revenue-to-Support-a-Top-Five-Hyperscaler-Data-Center-Project/default.aspx
-- EU SEC Form 4: https://www.sec.gov/Archives/edgar/data/1229379/000119312526396060/xslF345X06/ownership.xml
-- enCore Sheriff retirement release: https://encoreuranium.com/news/william-m-sheriff-retires-as-executive-chair-named-chairman-emeritus-and-accepts-appointment-as-executive-chair-of-verdera-energy-corp/
-- enCore Verdera distribution update: https://encore.mediaroom.com/2026-09-15-enCore-Energy-Provides-Update-on-Distribution-of-Verdera-Common-Shares-to-its-Shareholders
+- EdgarHawk open-market purchase feed: https://edgarhawk.com/insider-buying
+- HELP Form 4 / SEC accession 0000912282-26-001293
+- GME Form 4 / SEC accession 0000921895-26-002608
+- SKIL Form 4 / SEC accession 0001091482-26-000015
+- GRAB Form 4 filings / SEC accessions 0001896497-26-000009 and 0002026373-26-000010
+- VFF Form 4 / SEC accession 0001193125-26-397230
 
 *This is a screening/trading-signal report, not a claim of certainty or personalized financial advice.*
