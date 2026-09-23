@@ -1,99 +1,91 @@
-# Insider Buy Pop Watch — Tuesday, September 22, 2026
+# Insider Buy Pop Watch — Wednesday, September 23, 2026
 
-**Screened window:** Monday Sep. 21 after 16:00 ET through Tuesday premarket. Final Finviz refresh included filings through 07:28 ET and showed no later qualifying filing that displaced the leaders.
+**Screened window:** Tuesday Sep. 22 after 16:00 ET through Wednesday premarket. Final Finviz refresh showed no filing later than ADC at 07:00 ET that displaced the actionable board.
 
 ## Actionable board
 
-| Rank | Ticker | Insider signal | Vehicle quality | Fresh buy | Entry | Premarket / latest reaction | Recent volume | Score |
-|---|---|---|---|---:|---:|---|---|---:|
-| **1** | **HELP (Cybin/Helus)** | **CEO + broader executive cluster** | **Excellent: biotech, repeated 10-25% daily ranges** | **$1.347M / 100k** | **$13.47** | **$14.07 AH, +3.0% after +10.4% Monday** | **1D ~2.3x; 3D ~3.2x normal** | **9.0/10** |
-| **2** | **GME** | **CEO/Chair + director, repeat CEO accumulation** | **Excellent: meme/retail, beta ~1.7, options-heavy** | **$26.8M combined** | **~$22.94** | **~+3.3% premarket** | **1D ~1.3x; 3D ~1.3x normal** | **8.8/10** |
-| **3** | **SKIL** | **CEO/Exec Chair repeat buying** | **Excellent: ~$55M cap, recent ±10-34% sessions** | **$99.9k / 15,468** | **$6.46** | **$5.94 close Monday** | **1D ~0.47x; 3D ~0.79x normal** | **7.8/10** |
-| **4** | **GRAB** | **CEO + President/COO cluster** | **Moderate: liquid growth stock, lower % volatility** | **$30.74M / 10.65M** | **~$2.887** | **at least +5% premarket** | **Monday participation elevated** | **7.6/10** |
-| **5** | **VFF** | **CEO** | **Good: cannabis small-cap, beta ~1.4** | **$101.3k / 35k** | **$2.893** | **$2.88 Monday close** | **435k Monday; not abnormal** | **6.9/10** |
+| Rank | Ticker | Insider signal | Vehicle quality | Price reaction | Recent volume | Score |
+|---|---|---|---|---|---|---:|
+| **1** | **BFRG** | **CEO + CFO same-session cluster** | **Extreme: ~$11M microcap, beta ~3, AI/biopharma** | **~$0.75 premarket, +24.6%; ~31% above cluster entry** | **Tue ~68.6M vs ~107k 30D avg, ~640x; 3D ~215x** | **8.8/10 setup, but HIGH chase/dilution risk** |
+| **2** | **VFF** | **Fresh director + yesterday's CEO buy** | **Good: cannabis small-cap, beta ~1.38** | **$2.98 close / ~$3.03 AH; ~3.4% above broader cluster entry** | **Tue ~1.48M; recent baseline mostly ~0.4-1.0M** | **7.7/10** |
+| **3** | **FLNC** | **Two-director cluster** | **Excellent volatility: beta ~2.74, recent -15% day** | **$7.27 close / ~$7.43 overnight** | **Tue 8.17M vs 30D ~7.22M = 1.13x; 3D ~1.60x** | **6.8/10, reversal-only** |
 
-## 1. HELP — Cybin / Helus Pharma
+## 1. BFRG — BullFrog AI Holdings
 
-CEO Michael Halstead bought 100,000 shares at a weighted $13.4705, spending $1.347 million and increasing his direct position by roughly 146%. The filing is a discretionary open-market code-P purchase, not a 10b5-1 trade.
+This is the clear high-volatility signal today. CEO Vininder Singh bought **75,000 shares at a weighted $0.5989**, spending about **$44,918**, while CFO Joshua Blacher bought **50,000 shares at $0.5285**, spending about **$26,425**. Both are genuine SEC transaction-code-P open-market purchases, with no 10b5-1 box checked. Combined: **125,000 shares, ~$71,343, weighted entry ~$0.571**.
 
-The fresh CEO buy sits inside a broader accumulation pattern. Executive Chair Eric So bought 100,000 shares around $12.39 earlier this month and Chief Growth Officer Paul Glavine bought 100,000 around $12.47 on Sep. 8 after another 100,000-share purchase around $11.78 on Sep. 3.
+The insider signal is much stronger than the dollar amount alone suggests because it is a **same-session CEO+CFO cluster** in a tiny, highly reflexive AI/biopharma stock. Singh is also founder/CEO and already a large holder.
 
-HELP is exactly the kind of stock this screen should prioritize. Monday it rose 10.43% to $13.66 on 2.87M shares, then traded around $14.07 after hours, another +3%. Friday it had fallen 11.77% with an intraday range around 25%. Reported average volume is roughly 1.25M, so Monday was about 2.3x normal and the last three completed sessions averaged roughly 3.2x normal.
+The vehicle is exactly what this strategy is supposed to prioritize. BFRG closed Tuesday around **$0.61, +23.7%**, after trading roughly **$0.44-$0.82**, on about **68.6M shares**. Its recent 30-day average was only about **107k shares**, so Tuesday was roughly **640x normal volume**. The latest three completed sessions average roughly **215x that baseline**. Six-month beta is about **2.96** and one-year beta about **3.17**.
 
-The company expects Q4 Phase 3 data for HLP003, its deuterated psilocin program for adjunctive major depressive disorder. HLP003 has Breakthrough Therapy designation.
+The filing is already being recognized. BFRG was reported around **$0.75 premarket, +24.6%**, which is roughly **31% above the cluster's weighted entry**. That is strong confirmation, but it also creates severe chase risk.
 
-Cybin established an ATM program of up to $100M earlier in 2026 under a much larger shelf. That is a real dilution risk and prevents an even higher score, but this is not an NTHI-style just-completed registered direct with immediate warrant overhang.
+There is a same-day attention catalyst: CEO Vin Singh is scheduled for a **Water Tower Research fireside chat at 1:00 PM ET today, Sep. 23**. BullFrog also presents at BioTechX USA Sep. 29-30.
 
-**Verdict: #1, 9.0/10. Biotech + $1.35M CEO buy + broader executive accumulation + Q4 Phase 3 catalyst + Monday +10.4% on ~2.3x volume + extreme realized volatility.**
+### Financing/dilution warning
 
-## 2. GME — GameStop
+This is the reason BFRG is not a clean 9.5/10 despite the extraordinary tape. The June 30 10-Q showed only about **$7.0M cash**, an active ATM with roughly **$15M headline unused capacity** subject to float limits, roughly **$4.1M remaining ELOC capacity**, and **7.2M warrants**. Shares outstanding had already increased from about **11.4M at Dec. 31, 2025 to 18.5M at Jun. 30, 2026**. The company also disclosed going-concern/liquidity risk. This is a major dilution overhang.
 
-CEO, President and Chairman Ryan Cohen bought 1,150,680 shares at $22.9375, spending $26.39M. Director Alain Attal added another 17,500 shares at $22.969, about $402k. Both were discretionary purchases.
+**Why it could pop today:** CEO+CFO cluster + AI/biopharma narrative + tiny market cap + beta ~3 + already massive filing-driven premarket reaction + investor event today.
 
-This is repeat accumulation. Cohen bought 1 million shares at about $20.38 on Sep. 10, and three directors bought during that same week. Across Cohen's two September purchases alone, he has deployed roughly $46.8M.
+**Why it could fail hard:** the move is already extended ~31% above insider cost, Tuesday's 68M-share turnover is mania-level, and the ATM/ELOC/warrant structure means rallies can become financing opportunities. This is a momentum continuation setup, not a low-risk entry near insider cost.
 
-GME passes the hard gate because it remains a uniquely reflexive retail/options vehicle. Beta is around 1.7, and the stock has risen about 25% over the last 20 trading days. Monday volume was about 9.0-9.2M versus roughly 7.1M average, around 1.3x normal. The filing is already getting a reaction: GME was about +3.3% premarket Tuesday.
+## 2. VFF — Village Farms International
 
-GameStop has experienced meaningful recent dilution, and the stock already rallied strongly through September.
+Director Christopher Woodward filed a fresh open-market purchase of **10,000 shares at $3.058**, spending **$30,580**, just after 16:00 ET Tuesday. That follows CEO Michael DeGiglio's **35,000-share purchase at $2.8931 for $101,259** on Tuesday. The broader two-insider pattern is therefore **45,000 shares, ~$131.8k, weighted entry ~$2.930**.
 
-**Verdict: #2, 8.8/10. Less fundamentally catalytic than HELP, but arguably the strongest pure reflexivity setup.**
+VFF closed Tuesday at **$2.98, +3.47%**, after trading as high as $3.14, and was around **$3.03 after hours**. At $3.03 it is only about **3.4% above the broader insider weighted entry**, much less extended than BFRG.
 
-## 3. SKIL — Skillsoft
+Tuesday volume was about **1.48M shares**. Recent sessions had mostly traded roughly 0.4-1.0M, so participation clearly expanded with the CEO-buy reaction. The stock has beta around **1.38**, a ~$360M market cap, and cannabis-sector sensitivity. It has demonstrated double-digit moves around company/sector news, so it passes the vehicle gate even though it is less explosive than BFRG.
 
-CEO and Executive Chair Ronald Hovsepian disclosed another 15,468 shares bought across Sep. 17-18 for about $99.9k, at a weighted average around $6.46. This follows his 5,929 shares bought Sep. 15-16 and director Jim Frankola's 25,000-share purchase at $5.14.
+Fundamental context is constructive: Q2 results beat expectations, with stronger cannabis sales, improved margins and record international exports. The company has also been expanding in the Netherlands regulated-cannabis market.
 
-SKIL is a superb percentage-move vehicle: market cap around $55M and recent sessions of -34%, +13.7%, +17.9%, +5.4%, +3.8%, -2.2%, -4.0%. The problem is participation. Monday volume was only 68k against roughly 147k average, about 0.47x normal.
+**Why it could pop today:** fresh director buy reinforces a CEO buy at almost the same price zone, Tuesday volume expanded with positive price action, and the stock is still close to insider cost.
 
-**Verdict: #3, 7.8/10. If relative volume suddenly expands, this can move violently. Without that, it stays behind HELP and GME.**
+**Main risk:** the director buy is modest, DeGiglio already owns a very large position, and VFF's normal volatility is far below BFRG's. **7.7/10.**
 
-## 4. GRAB — Grab Holdings
+## 3. FLNC — Fluence Energy
 
-CEO Anthony Tan bought 10.35M shares at $2.8866, spending $29.88M and increasing his direct position by more than 24x. President and COO Alexander Hungate bought another 299,571 shares at $2.8936, spending about $867k. Combined fresh senior-executive buying is about $30.74M.
+Directors Herman Bulls and Harald von Heynitz each bought FLNC at **$7.36**: Bulls bought **10,000 shares for $73,600** and von Heynitz bought **7,000 for $51,520**. Combined: **17,000 shares / $125,120**, a genuine two-director cluster.
 
-This is an exceptionally strong insider signal. Grab also recently agreed to acquire a 60% stake in Atome Financial for $1.49B. The reason GRAB ranks only fourth is the hard vehicle gate: it is liquid and event-sensitive, but historically less explosive on a percentage basis than HELP, GME or SKIL. Still, Barron's reported GRAB up at least 5% premarket.
+FLNC is an excellent percentage-move vehicle on realized volatility. Beta is about **2.74** and the stock fell **15.4% on Sep. 17** after a severe guidance reset. Tuesday closed **$7.27, -1.62%**, with about **8.17M shares** versus a 30-day average around **7.22M**, or **1.13x normal**. The latest three sessions averaged about **11.5M**, roughly **1.60x normal**. Overnight trading around $7.43 put the stock slightly above the directors' $7.36 entry.
 
-**Verdict: #4, 7.6/10. Strongest raw C-suite cluster of the day, weaker percentage-move mechanics than the top three.**
+The problem is that the abnormal volume has largely accompanied a fundamental repricing. Fluence cut FY2026 revenue guidance from about $3.0B to $2.4B and projected an adjusted EBITDA loss around $200M, citing production/supply-chain delays. Several analysts cut targets afterward. This is not clean bullish participation.
 
-## 5. VFF — Village Farms International
+**Why it could pop:** high beta + two-director cluster almost exactly at current price + heavily washed-out post-guidance chart creates rebound potential.
 
-CEO Michael DeGiglio bought 35,000 shares at $2.8931, spending $101,259. It is a discretionary open-market purchase. VFF closed Monday at $2.88, essentially at his entry.
-
-VFF passes the vehicle gate because it is a roughly $350M cannabis small-cap with beta around 1.38. Recent operating news has been constructive, including positive first-year findings from the Netherlands regulated-cannabis program and expanding Dutch cultivation capacity.
-
-The weakness is confirmation. Monday volume was about 435k, not an obvious abnormal-volume event, and the CEO buy represents only a 0.4% increase in his already-large holdings.
-
-**Verdict: #5, 6.9/10. Good vehicle, real CEO buy, weaker conviction/confirmation than the top four.**
+**Why it ranks only #3:** directors rather than C-suite, and the catalyst backdrop is actively negative. I would require price/volume reversal confirmation rather than anticipating it. **6.8/10.**
 
 # Discarded but notable
 
-**GSAT:** James Monroe III's apparent $29.8M purchase is not a clean market signal. The filing footnote says the shares were purchased from James Lynch in a private transaction for estate-planning purposes. Excluded.
+**NTRP:** Director Andrew Kaplan's 52,910-share, ~$100k purchase at $1.89 more than doubled his direct holdings, and NTRP is a volatile ~$20-30M microcap. However, the underlying transaction occurred **Sep. 17** and was only filed late Sep. 22. The stock has already moved +19% on Sep. 15 and +13.5% on Sep. 21, while typical dollar liquidity is very poor. It is capable of popping but is too illiquid/stale for the main actionable board.
 
-**ENHA:** Christian Angermayer/Apeiron disclosed roughly $7M of buying, but Enhanced recently completed a large PIPE structure with warrants. Financing context contaminates the signal.
+**TPVG:** CEO James Labe's ~$1.48M purchase is large, but this is a business-development company and fails the percentage-move vehicle gate.
 
-**BOLT:** biotech vehicle is excellent, but the CEO/CFO and finance purchases were only about $4.4k combined and the underlying transactions date back to June. Too symbolic and stale.
+**ADC:** Chief Growth Officer Craig Erlich bought $67.6k, but Agree Realty is a REIT and fails the intraday-volatility gate.
 
-**EU:** CEO Richard Little bought only $10.6k after William Sheriff bought ~$101k. EU remains volatile, but the $250M ATM and recent heavy distribution remain too large a financing overhang.
+**BCBP:** CEO+CFO buying is strong in raw insider terms, but it is a bank and fails the high-percentage-move gate.
 
-**BZUN:** CEO Wenbin Qiu continues buying, but realized volatility and participation remain mediocre for this strategy.
+**BBD:** multiple executive purchases total several million dollars, but Bradesco is a huge conventional bank. Strong confidence signal, poor intraday-pop vehicle.
 
-**LEN / CRM / GLP / GPI / RWT:** meaningful insider buying, but they fail the intraday-vehicle gate. Strong insider confidence is not enough when a 5-10% same-day move is structurally unlikely.
+**RWAY/AFCG/NSLR:** financial/BDC structures with insufficient percentage-move potential for this strategy.
 
 # Bottom line
 
-**HELP > GME > SKIL > GRAB > VFF**
+**BFRG > VFF > FLNC.**
 
-HELP is the best overall combination of insider quality, biotech/event sensitivity, realized volatility, volume and catalyst proximity. GME is the strongest reflexive retail setup. SKIL has the most extreme small-cap mechanics but currently lacks volume confirmation. GRAB has arguably the strongest raw C-suite cluster, but its normal percentage behavior is slower.
+BFRG is by far the strongest match to the requested strategy today because it combines a same-session **CEO+CFO open-market cluster** with a tiny AI/biopharma vehicle, beta near 3, extreme realized volatility and a confirmed +24% premarket reaction. But it is also already extended and carries serious ATM/ELOC/warrant dilution risk. I would classify it as **highest pop potential and highest blow-up/chase risk**, not as a safe buy.
 
-The broad tape is roughly neutral. U.S. futures are near flat, oil is falling, the 10-year yield is around 4.93%, and Bitcoin is slightly lower. Today's ranked moves are therefore more likely to be idiosyncratic than broad risk-on beta.
+VFF is the cleaner price-relative-to-insiders setup. FLNC is a high-beta reversal candidate but has a materially worse fundamental backdrop.
 
 ## Key sources
 
 - Finviz insider feed: https://finviz.com/insidertrading?tc=1
-- EdgarHawk open-market purchase feed: https://edgarhawk.com/insider-buying
-- HELP Form 4 / SEC accession 0000912282-26-001293
-- GME Form 4 / SEC accession 0000921895-26-002608
-- SKIL Form 4 / SEC accession 0001091482-26-000015
-- GRAB Form 4 filings / SEC accessions 0001896497-26-000009 and 0002026373-26-000010
-- VFF Form 4 / SEC accession 0001193125-26-397230
+- BFRG CFO Form 4: https://www.sec.gov/Archives/edgar/data/1829247/000162828026063056/xslF345X06/wk-form4_1790109961.xml
+- BFRG CEO Form 4: https://www.sec.gov/Archives/edgar/data/1829247/000162828026063054/xslF345X06/wk-form4_1790109920.xml
+- BFRG Q2 10-Q: https://www.sec.gov/Archives/edgar/data/1829247/000162828026057121/bfrg-20260630.htm
+- BullFrog Sep. investor events: https://ir.bullfrogai.com/news-events/press-releases/detail/89/bullfrog-ai-to-participate-in-september-2026-investor-conferences
+- VFF market data: https://stockanalysis.com/stocks/vff/
+- FLNC market data: https://stockanalysis.com/stocks/flnc/
 
 *This is a screening/trading-signal report, not a claim of certainty or personalized financial advice.*
