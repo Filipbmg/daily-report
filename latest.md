@@ -1,91 +1,85 @@
-# Insider Buy Pop Watch — Wednesday, September 23, 2026
+# Insider Buy Pop Watch — Thursday, September 24, 2026
 
-**Screened window:** Tuesday Sep. 22 after 16:00 ET through Wednesday premarket. Final Finviz refresh showed no filing later than ADC at 07:00 ET that displaced the actionable board.
+**Window:** Wednesday Sep. 23 after 16:00 ET through Thursday premarket. Final Finviz refresh found no later filing that displaced the board.
 
 ## Actionable board
 
-| Rank | Ticker | Insider signal | Vehicle quality | Price reaction | Recent volume | Score |
-|---|---|---|---|---|---|---:|
-| **1** | **BFRG** | **CEO + CFO same-session cluster** | **Extreme: ~$11M microcap, beta ~3, AI/biopharma** | **~$0.75 premarket, +24.6%; ~31% above cluster entry** | **Tue ~68.6M vs ~107k 30D avg, ~640x; 3D ~215x** | **8.8/10 setup, but HIGH chase/dilution risk** |
-| **2** | **VFF** | **Fresh director + yesterday's CEO buy** | **Good: cannabis small-cap, beta ~1.38** | **$2.98 close / ~$3.03 AH; ~3.4% above broader cluster entry** | **Tue ~1.48M; recent baseline mostly ~0.4-1.0M** | **7.7/10** |
-| **3** | **FLNC** | **Two-director cluster** | **Excellent volatility: beta ~2.74, recent -15% day** | **$7.27 close / ~$7.43 overnight** | **Tue 8.17M vs 30D ~7.22M = 1.13x; 3D ~1.60x** | **6.8/10, reversal-only** |
+| Rank | Ticker | Insider signal | Vehicle quality | Recent volume | Score |
+|---|---|---|---|---|---:|
+| **1** | **INBX** | Fresh repeat director $500k; broader recent CEO + director cluster | **Excellent biotech: beta 3.67, 11M float, frequent 5-15% ranges** | **1D ~1.19x; 3D ~0.96x** | **8.8/10** |
+| **2** | **SKIL** | Repeat CEO/Exec Chair buy; director also buying recently | **Excellent microcap: ~$54M cap, beta 2.23, recent -34%/+18%/+14% days** | **1D ~1.03x; 3D ~0.80x** | **8.0/10** |
+| **3** | **DUOT** | New CEO establishes position with $84.6k buy | **Good AI/data-center small cap: ~$283M, 6M beta ~2.6** | **1D ~0.23x; 3D ~0.38x** | **7.1/10** |
 
-## 1. BFRG — BullFrog AI Holdings
+## 1. INBX — Inhibrx Biosciences
 
-This is the clear high-volatility signal today. CEO Vininder Singh bought **75,000 shares at a weighted $0.5989**, spending about **$44,918**, while CFO Joshua Blacher bought **50,000 shares at $0.5285**, spending about **$26,425**. Both are genuine SEC transaction-code-P open-market purchases, with no 10b5-1 box checked. Combined: **125,000 shares, ~$71,343, weighted entry ~$0.571**.
+Director Jon Faiz Kayyem bought **5,000 shares at exactly $100 for $500,000** on Sep. 23. This is not isolated. Kayyem also bought **5,000 at $100 on Sep. 16** and **5,000 at $113.52 on Sep. 8**. On Sep. 8, CEO Mark Lappe bought **25,000 shares for roughly $2.65M** and director Douglas Forsyth bought **2,500 for ~$286.6k**. Recent open-market buying is therefore roughly **$4.5M across four insiders**, heavily concentrated in CEO/director purchases.
 
-The insider signal is much stronger than the dollar amount alone suggests because it is a **same-session CEO+CFO cluster** in a tiny, highly reflexive AI/biopharma stock. Singh is also founder/CEO and already a large holder.
+The vehicle is excellent for this strategy. INBX is a clinical-stage oncology biotech with **beta ~3.67**, roughly **11.0M float**, and a 52-week range of about **$27-$155**. Wednesday it fell **9.34% to $100.33**, with an intraday range of **$98.56-$110.88**. That puts the close almost exactly on Kayyem's fresh $100 purchase.
 
-The vehicle is exactly what this strategy is supposed to prioritize. BFRG closed Tuesday around **$0.61, +23.7%**, after trading roughly **$0.44-$0.82**, on about **68.6M shares**. Its recent 30-day average was only about **107k shares**, so Tuesday was roughly **640x normal volume**. The latest three completed sessions average roughly **215x that baseline**. Six-month beta is about **2.96** and one-year beta about **3.17**.
+Wednesday volume was about **375k vs ~316k average = 1.19x normal**. The latest three sessions average about **305k, ~0.96x normal**. So the selloff was meaningful but not a panic-volume liquidation.
 
-The filing is already being recognized. BFRG was reported around **$0.75 premarket, +24.6%**, which is roughly **31% above the cluster's weighted entry**. That is strong confirmation, but it also creates severe chase risk.
+The fundamental backdrop is unusually strong for an insider-buy screen. On Sep. 8 Inhibrx reported randomized Phase 2 INBRX-106 data in first-line HNSCC: confirmed ORR **48.3% vs 26.5%** for pembrolizumab alone and interim median PFS **9.6 vs 4.9 months**. The HPV+ subgroup was stronger still. Management plans an expansion cohort and FDA alignment around a potential accelerated pathway. Ozekibart also has an FDA-accepted BLA, giving the company another regulatory catalyst. Reuters previously reported strategic interest from major pharma companies in INBRX-106, although any transaction remains speculation.
 
-There is a same-day attention catalyst: CEO Vin Singh is scheduled for a **Water Tower Research fireside chat at 1:00 PM ET today, Sep. 23**. BullFrog also presents at BioTechX USA Sep. 29-30.
+**Why this could pop today:** a repeat $500k director buyer stepped directly into a 9.3% selloff at $100, reinforcing a recent multi-insider cluster that includes a $2.65M CEO buy. The stock is exactly the high-beta biotech vehicle this screen is designed to find.
 
-### Financing/dilution warning
+**Risks:** clinical-stage biotech, high valuation, meaningful debt/cash burn, binary regulatory/clinical risk, and the recent insider cluster has not prevented sharp volatility. Do not treat insider buying as knowledge of blinded or future clinical outcomes.
 
-This is the reason BFRG is not a clean 9.5/10 despite the extraordinary tape. The June 30 10-Q showed only about **$7.0M cash**, an active ATM with roughly **$15M headline unused capacity** subject to float limits, roughly **$4.1M remaining ELOC capacity**, and **7.2M warrants**. Shares outstanding had already increased from about **11.4M at Dec. 31, 2025 to 18.5M at Jun. 30, 2026**. The company also disclosed going-concern/liquidity risk. This is a major dilution overhang.
+## 2. SKIL — Skillsoft
 
-**Why it could pop today:** CEO+CFO cluster + AI/biopharma narrative + tiny market cap + beta ~3 + already massive filing-driven premarket reaction + investor event today.
+CEO and Executive Chair Ronald Hovsepian bought another **8,325 shares at a weighted $6.0987 for ~$50.8k**. This extends a persistent sequence: Hovsepian bought **15,468 shares on Sep. 17-18 for ~$99.9k** and **5,929 shares Sep. 15-16 for ~$33k**, while director Jim Frankola bought **25,000 at $5.14 for ~$128.6k**. Hovsepian has bought repeatedly and sold none over the recent period.
 
-**Why it could fail hard:** the move is already extended ~31% above insider cost, Tuesday's 68M-share turnover is mania-level, and the ATM/ELOC/warrant structure means rallies can become financing opportunities. This is a momentum continuation setup, not a low-risk entry near insider cost.
+SKIL is a very good percentage-move vehicle despite being in a boring underlying business. Market cap is only about **$54M**, beta is **~2.23**, and recent daily moves include **-34.2%, +13.7%, +17.9%, +5.4%**. Wednesday closed at **$5.92**, just below the CEO's latest $6.10 entry, and premarket indications were around **$6.13, +3.6%**.
 
-## 2. VFF — Village Farms International
+Wednesday volume was about **100k vs ~97k average = ~1.03x**. The three-day average is roughly **79k = ~0.80x**. Participation is therefore the missing ingredient. If volume expands, the tiny float/cap and repeat CEO buying can produce a disproportionate move.
 
-Director Christopher Woodward filed a fresh open-market purchase of **10,000 shares at $3.058**, spending **$30,580**, just after 16:00 ET Tuesday. That follows CEO Michael DeGiglio's **35,000-share purchase at $2.8931 for $101,259** on Tuesday. The broader two-insider pattern is therefore **45,000 shares, ~$131.8k, weighted entry ~$2.930**.
+**Why this could pop today:** repeated CEO accumulation, recent director support, current price sitting near the newest CEO entry, and a stock that has already demonstrated 10-30% daily moves.
 
-VFF closed Tuesday at **$2.98, +3.47%**, after trading as high as $3.14, and was around **$3.03 after hours**. At $3.03 it is only about **3.4% above the broader insider weighted entry**, much less extended than BFRG.
+**Risks:** no fresh fundamental catalyst comparable with INBX, weak revenue/guidance backdrop after the Sep. earnings shock, and current volume is not yet confirming a breakout.
 
-Tuesday volume was about **1.48M shares**. Recent sessions had mostly traded roughly 0.4-1.0M, so participation clearly expanded with the CEO-buy reaction. The stock has beta around **1.38**, a ~$360M market cap, and cannabis-sector sensitivity. It has demonstrated double-digit moves around company/sector news, so it passes the vehicle gate even though it is less explosive than BFRG.
+## 3. DUOT — Duos Technologies
 
-Fundamental context is constructive: Q2 results beat expectations, with stronger cannabis sales, improved margins and record international exports. The company has also been expanding in the Netherlands regulated-cannabis market.
+New CEO Frank Douglas Recker bought **9,250 shares at a weighted $9.14 for ~$84.6k**, establishing a direct position. Recker became CEO in April as Duos pivoted harder toward Edge AI and high-density data-center infrastructure. The company previously announced an approximately **$200M LOI** tied to its Edge Data Center strategy.
 
-**Why it could pop today:** fresh director buy reinforces a CEO buy at almost the same price zone, Tuesday volume expanded with positive price action, and the stock is still close to insider cost.
+DUOT closed Wednesday at **$8.98, -2.18%**, slightly below Recker's entry. The stock has a roughly **$283M market cap**, 6-month beta around **2.6**, and has recently printed several 7-9% down days, so it passes the vehicle gate.
 
-**Main risk:** the director buy is modest, DeGiglio already owns a very large position, and VFF's normal volatility is far below BFRG's. **7.7/10.**
+Volume is the problem. Wednesday traded only about **264k vs ~1.15M 30-day average = 0.23x**. The three-day average is roughly **441k = 0.38x**. That is poor participation, so this is a watch-for-volume setup rather than an anticipation trade.
 
-## 3. FLNC — Fluence Energy
+Financing risk is manageable but not absent. Duos completed a **$55M registered direct in June at $9.50**, including pre-funded warrants, and has used ATM capacity historically. It now has materially more cash, so the June financing is less toxic than a fresh overnight offering, but the dilution history still deserves a penalty.
 
-Directors Herman Bulls and Harald von Heynitz each bought FLNC at **$7.36**: Bulls bought **10,000 shares for $73,600** and von Heynitz bought **7,000 for $51,520**. Combined: **17,000 shares / $125,120**, a genuine two-director cluster.
+**Why this could pop today:** first direct buy by a relatively new CEO, AI/data-center narrative, small cap and high realized volatility.
 
-FLNC is an excellent percentage-move vehicle on realized volatility. Beta is about **2.74** and the stock fell **15.4% on Sep. 17** after a severe guidance reset. Tuesday closed **$7.27, -1.62%**, with about **8.17M shares** versus a 30-day average around **7.22M**, or **1.13x normal**. The latest three sessions averaged about **11.5M**, roughly **1.60x normal**. Overnight trading around $7.43 put the stock slightly above the directors' $7.36 entry.
-
-The problem is that the abnormal volume has largely accompanied a fundamental repricing. Fluence cut FY2026 revenue guidance from about $3.0B to $2.4B and projected an adjusted EBITDA loss around $200M, citing production/supply-chain delays. Several analysts cut targets afterward. This is not clean bullish participation.
-
-**Why it could pop:** high beta + two-director cluster almost exactly at current price + heavily washed-out post-guidance chart creates rebound potential.
-
-**Why it ranks only #3:** directors rather than C-suite, and the catalyst backdrop is actively negative. I would require price/volume reversal confirmation rather than anticipating it. **6.8/10.**
+**Risks:** weak current participation and prior dilution. I would want a clear volume expansion before upgrading it.
 
 # Discarded but notable
 
-**NTRP:** Director Andrew Kaplan's 52,910-share, ~$100k purchase at $1.89 more than doubled his direct holdings, and NTRP is a volatile ~$20-30M microcap. However, the underlying transaction occurred **Sep. 17** and was only filed late Sep. 22. The stock has already moved +19% on Sep. 15 and +13.5% on Sep. 21, while typical dollar liquidity is very poor. It is capable of popping but is too illiquid/stale for the main actionable board.
+**AIAI:** Director Eric Affeldt bought **42,857 shares at $3.50 for $150k**, increasing his position substantially. The stock is volatile and AI/defense-themed, but AIAI just entered a **$200M equity financing facility with B. Riley** allowing newly issued shares to be sold at a VWAP-linked discount. Wednesday was -6.6% and recent high volume has often accompanied selling. The financing overhang overwhelms the otherwise interesting director buy.
 
-**TPVG:** CEO James Labe's ~$1.48M purchase is large, but this is a business-development company and fails the percentage-move vehicle gate.
+**DFDV:** Finviz shows CSO Daniel Kang buying ~$92k, but the security purchased was **Series C preferred stock (CHAD)**, not DFDV common. Excluded from the common-stock signal board.
 
-**ADC:** Chief Growth Officer Craig Erlich bought $67.6k, but Agree Realty is a REIT and fails the intraday-volatility gate.
+**RCT:** Finviz labels the CEO transaction as a buy, but the company disclosed it as a **private placement/subscription agreement** settled by offsetting liabilities owed to the CEO. It is not a qualifying discretionary open-market purchase.
 
-**BCBP:** CEO+CFO buying is strong in raw insider terms, but it is a bank and fails the high-percentage-move gate.
+**BCDA / PHIO / GOAI:** all have CEO purchases and volatile vehicles, but the purchases are only about **$2k, $2k and $37.5k**, respectively. GOAI's CEO already owns more than 23M shares, making the incremental buy relatively symbolic. They fail conviction sizing.
 
-**BBD:** multiple executive purchases total several million dollars, but Bradesco is a huge conventional bank. Strong confidence signal, poor intraday-pop vehicle.
+**INR:** repeat director buying totaling about **$364k** is meaningful, but reported beta is around **-0.4** and the stock behaves more like a conventional oil-and-gas producer than a 5-10% pop vehicle. Discarded under the hard vehicle gate.
 
-**RWAY/AFCG/NSLR:** financial/BDC structures with insufficient percentage-move potential for this strategy.
+**KBDC / CRBG / BPRE / BCBP:** meaningful raw insider dollars, but BDC/insurance/real-estate/bank structures are poor percentage-pop vehicles for this strategy.
 
 # Bottom line
 
-**BFRG > VFF > FLNC.**
+**INBX > SKIL > DUOT.**
 
-BFRG is by far the strongest match to the requested strategy today because it combines a same-session **CEO+CFO open-market cluster** with a tiny AI/biopharma vehicle, beta near 3, extreme realized volatility and a confirmed +24% premarket reaction. But it is also already extended and carries serious ATM/ELOC/warrant dilution risk. I would classify it as **highest pop potential and highest blow-up/chase risk**, not as a safe buy.
+INBX is the clear standout. It combines exactly what the revised model is supposed to find: **high-beta biotech mechanics, a fresh repeat $500k director buy on a 9% down day, a broader recent cluster including a $2.65M CEO purchase, and real oncology/regulatory catalysts**. At roughly $100, the market is sitting almost directly on the newest insider entry.
 
-VFF is the cleaner price-relative-to-insiders setup. FLNC is a high-beta reversal candidate but has a materially worse fundamental backdrop.
+SKIL remains the best pure microcap reflexivity candidate, but volume needs to wake up. DUOT has an interesting new-CEO signal and AI/data-center narrative, but participation is currently too weak for a high-conviction intraday call.
 
 ## Key sources
 
 - Finviz insider feed: https://finviz.com/insidertrading?tc=1
-- BFRG CFO Form 4: https://www.sec.gov/Archives/edgar/data/1829247/000162828026063056/xslF345X06/wk-form4_1790109961.xml
-- BFRG CEO Form 4: https://www.sec.gov/Archives/edgar/data/1829247/000162828026063054/xslF345X06/wk-form4_1790109920.xml
-- BFRG Q2 10-Q: https://www.sec.gov/Archives/edgar/data/1829247/000162828026057121/bfrg-20260630.htm
-- BullFrog Sep. investor events: https://ir.bullfrogai.com/news-events/press-releases/detail/89/bullfrog-ai-to-participate-in-september-2026-investor-conferences
-- VFF market data: https://stockanalysis.com/stocks/vff/
-- FLNC market data: https://stockanalysis.com/stocks/flnc/
+- INBX investor release, Sep. 8 Phase 2 data: https://inhibrxbiosciences.investorroom.com/2026-09-08-Inhibrxs-INBRX-106-Nearly-Doubles-Response-Rate-and-Achieves-Interim-Median-PFS-of-9-6-months-in-Phase-2-HNSCC-Study
+- INBX market data: https://stockanalysis.com/stocks/inbx/
+- SKIL Form 4 summary: https://www.stocktitan.net/sec-filings/SKIL/form-4-skillsoft-corp-insider-trading-activity-6bad94910446.html
+- SKIL market data: https://finance.yahoo.com/quote/SKIL/
+- DUOT June financing: https://ir.duostechnologies.com/sec-filings/all-sec-filings/content/0001079973-26-000851/ex99x1.htm
+- DUOT CEO/EDC strategy: https://www.nasdaq.com/press-release/duos-technologies-group-inc-signs-200m-loi-and-appoints-doug-recker-ceo-2026-02-27
 
 *This is a screening/trading-signal report, not a claim of certainty or personalized financial advice.*
