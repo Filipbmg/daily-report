@@ -78,7 +78,7 @@ The four Forms 4 were displayed by Finviz at **16:56-16:57 ET on October 22**, a
 
 | Ticker | Headline fresh filing | Reason for exclusion |
 |---|---|---|
-| **DOLE** | Pale Fire Capital **647,?** shares across October 20-22 for **~$8.55M** (45,676 + 438,900 + 163,780 = **648,356 shares**) | Genuine accumulation by one economic investment group, but mature produce distributor, low percentage-volatility vehicle; size alone cannot rescue it. |
+| **DOLE** | Pale Fire Capital **648,356** shares across October 20-22 for **~$8.55M** (45,676 + 438,900 + 163,780 = **648,356 shares**) | Genuine accumulation by one economic investment group, but mature produce distributor, low percentage-volatility vehicle; size alone cannot rescue it. |
 | **CRBG** | Nippon Life **$6.77M** | Conventional insurance, poor 5-10% intraday vehicle. |
 | **API** | CEO Bin Zhao four purchases totaling ~**$168K** | SEC Form 4 expressly says purchases were executed under a **June 15 Rule 10b5-1 plan**. Exclude as nondiscretionary. |
 | **UXIN** | CEO Dai Kun **7,000 ADS / $6,231** | Form 4 marks Rule 10b5-1; also very small. |
