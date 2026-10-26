@@ -1,100 +1,108 @@
-# Insider Buy Pop Watch | Friday, October 23, 2026
+# Insider Buy Pop Watch | Monday, October 26, 2026
 
-**Screening cutoff:** approximately 08:45 America/New_York (14:45 Europe/Copenhagen), with a second Finviz refresh before publication. **Eligible filing window:** Thursday, October 22 after 16:00 ET through the October 23 morning cutoff. Thursday was a regular U.S. trading session. Times below are Eastern, not UTC. This is a ranking of possible **large intraday percentage pops**, not a ranking of long-term investments.
+**Screening cutoff:** Monday premarket, with a final Finviz refresh. **Eligible filing window:** Friday October 23, 2026, strictly after 16:00 America/New_York (EDT, UTC-4), through Monday October 26 morning. Copenhagen is CET (UTC+1), so New York is five hours behind Copenhagen this week. **Goal:** fresh, discretionary open-market purchases in stocks structurally capable of a 5-10%+ intraday move, not generic insider-confidence ranking.
 
-**Executive conclusion:** RAPP is the clear #1. Its four-director cluster of $1.423 million is exceptionally strong, especially alongside the CFO's $143,550 buy filed the preceding evening. SNES is a distant, very speculative second on pure percentage-move mechanics. ANIX is a conditional third, with a genuinely broad, older management accumulation pattern but weak recent trading participation. No other new filing earns an actionable rank.
+## Actionable ranked screen
 
-## Ranked actionable candidates
+| Rank | Ticker | Fresh insider signal | Broader recent accumulation | Fresh weighted entry | Vehicle / percentage potential | Latest day / 3-day volume vs ~3-month average | Score |
+|---|---|---|---|---:|---|---|---:|
+| **1** | **RAPP** | **Director Ramiro (Raymond) Sanchez: 3,600 shares, $98,477.64**; filing Friday 16:01 ET | **6 distinct buyers, 61,694 shares, $1,664,824.35**, weighted **$26.9852** over Oct 21-23 | **$27.3549** | Biotech; ~$1.24B market cap; beta ~1.22; 14-day ATR ~$2.36 / **9.1%** of price; ~28.8M float; ~11.1% short float | **2.21x / 2.99x**, predominantly distribution/event-driven, NOT bullish confirmation | **7.7/10** |
 
-| Rank | Ticker / sector | Newly eligible insider signal | New shares / value | Weighted-average fresh entry | Intraday vehicle | Latest 1D / 3D volume vs ~3-month normal | Score |
-|---|---|---|---|---|---|---|---|
-| **1** | **RAPP** / CNS biotech | **Four distinct directors**, including founder/chairman; CFO bought earlier this week | **52,594 / $1,422,797** | **$27.0525** | **Excellent:** ATR ~8.9% of close; 11.09% short float; recent -14.7% and +5.9% sessions | **2.82x / 7.60x**; mixed, prior selling then reversal | **9.0/10** |
-| **2** | **SNES** / pest-control technology | One 10% owner, repeat accumulation | **103,875 / $74,838** | **$0.7205** | **Extreme but fragile:** $4.3M cap; ~12.5% ATR; ~5.2M float; low short interest | **0.40x / 0.42x**; benchmark distorted by earlier 59M-share day | **6.8/10** |
-| **3** | **ANIX** / oncology biotech | CEO repeat buy; four distinct insiders participated since September | **8,000 / $21,760** | **$2.7200** | **Adequate:** ~$103M cap; ~5.4% ATR; 4.12% short float | **0.56x / 0.51x**; weak confirmation | **6.5/10** |
+**Bottom line:** RAPP is the only name that passes both the discretionary-purchase test and the intraday vehicle gate with a meaningful recent cluster. The *new* purchase is only $98.5K by one director. Do not re-count last Thursday's $1.42M director cluster as today's fresh filings. No second candidate meets the full bar. **A no-trade outcome is preferable to forcing a weak setup.**
 
-Normal volume uses Finviz's approximately three-month average daily volume; the three-day figure averages the October 20, 21 and 22 completed sessions. No reliable apples-to-apples historical premarket-volume baseline was available, so premarket participation is not given a fabricated ratio.
+## 1. RAPP | Rapport Therapeutics | Clinical-stage CNS biotechnology
 
-## 1. RAPP | Rapport Therapeutics | 9.0/10
+### Fresh eligible purchase
 
-**Why this could pop today:** Four independent board members invested $1.42M immediately after an important positive Phase 2 readout and a sharp selloff, on top of a $143.6K CFO purchase reported the previous evening. A recent ~9% ATR, 11% short float and unusually high trading activity make a 5-10% intraday move entirely plausible. This is an unusually strong cluster, not simply a large investment by one shareholder.
+- **Buyer:** **Ramiro Sanchez**, director, also known as Raymond ("Ray") Sanchez, M.D.; formerly Chief Medical Officer at Cerevel Therapeutics and currently a Bain Capital Life Sciences adviser. Current board membership confirmed by company board materials and the SEC Form 4.
+- **Transaction:** October 23, **3,600 common shares**, Form 4 transaction code **P**, weighted-average price **$27.3549**, amount **$98,477.64**, direct ownership. SEC filing says executions ranged **$27.07-$27.47**. No 10b5-1 checkbox marked and no financing or option-exercise linkage shown.
+- **Filing acceptance:** **Friday October 23 at 16:01 EDT**, equivalent to **20:01 UTC**, thus *inside* the overnight window starting Friday after 16:00 EDT. The SEC raw Form 4 verifies shares, price and code; Finviz and the EDGAR filing tracker confirm filing time.
+- **Number of newly qualifying distinct buyers:** **1**. Cluster type: **one fresh director adding to a recent multi-director/CFO cluster**.
 
-### Newly eligible purchases, all traded October 22
+### Recent accumulation, with newly eligible transactions separated
 
-| Buyer | Verified position | Shares | Entry / price basis | Approx. value |
-|---|---|---:|---:|---:|
-| Steven M. Paul, M.D. | Founder, board chairman | 35,714 | $27.2800, weighted | $974,278 |
-| John Maraganore, Ph.D. | Director, former Alnylam founding CEO | 9,411 | $26.4483 weighted over two Form 4 lines | $248,891 |
-| Wendy B. Young, Ph.D. | Director, former Genentech discovery executive | 3,789 | $26.3900 | $99,992 |
-| Paul M. Silva | Director, former Vertex chief accounting officer | 3,680 | $27.0750 | $99,636 |
-| **Four directors** | **Four distinct economic buyers** | **52,594** | **$27.0525 weighted** | **$1,422,797** |
+| Buyer | Current role | Trade date | Shares | Dollar amount |
+|---|---|---|---:|---:|
+| Troy A. Ignelzi | CFO | Oct 21 | 5,500 | $143,550.00 |
+| Steven M. Paul | Founder, board chair | Oct 22 | 35,714 | $974,277.92 |
+| John Maraganore | Director | Oct 22 | 9,411 | $248,891.08 |
+| Wendy B. Young | Director | Oct 22 | 3,789 | $99,991.71 |
+| Paul M. Silva | Director | Oct 22 | 3,680 | $99,636.00 |
+| **Ramiro Sanchez** | **Director, newly eligible** | **Oct 23** | **3,600** | **$98,477.64** |
+| **Total (6 distinct people)** | | | **61,694** | **$1,664,824.35** |
 
-The four Forms 4 were displayed by Finviz at **16:56-16:57 ET on October 22**, after the previous trading session. The underlying filings report code-P purchases, with multi-price execution explicitly disclosed for Paul and Maraganore. Some purchases are held through personal trusts or investment vehicles; these are counted once per underlying buyer, not as extra insiders. No Rule 10b5-1 plan was indicated on the reviewed director filings. Young's primary Form 4 timed out on retrieval, so her line was cross-checked against Finviz and independent transaction trackers rather than represented as independently opened.
+**Weighted-average six-person entry: $26.9852** ($1,664,824.35 / 61,694). The first five were disclosed Oct 21-22 and were already eligible for earlier reports; **only Sanchez's filing is new today**. The board chair's $974K fund-linked purchase is the largest and should not be confused with six equally large independent commitments. The founder/chair and other directors have strong biotech credentials, but this is **not a new C-suite buying cluster**: the CFO's transaction is from last week.
 
-**Broader recent accumulation, not newly eligible:** CFO Troy A. Ignelzi bought **5,500 shares at $26.10, $143,550**, filed **October 21 at 17:46 ET**. That purchase was eligible for yesterday's report, not today's fresh window. Combining the five distinct insiders gives **58,094 shares, $1,566,347, weighted entry $26.9623**. Paul and Young also made purchases in 2025, but those are not part of the recent subtotal. Historical CEO and COO sales, including CEO Abraham Ceesay's October 6-7 selling, are important opposing context.
+### Vehicle / percentage-move potential
 
-**Vehicle / price:** October 22 close **$26.53, +5.87%**; premarket indication near **$27.55, +3.84%**, approximately **1.8% above the four-director entry** and **2.2% above the five-buyer subtotal entry**. Approximately **$1.3B market cap**, **28.81M float**, **11.09% short float**, **beta 1.30**, **ATR $2.36 or 8.9% of close**. October 21 fell **14.67%**; October 20 traded over 8.2M shares around the clinical release.
+- **Friday Oct 23 close $25.93**, down **2.26%**; high $27.76, low $25.70, on ~1.185M shares. The stock fell **14.67% Oct 21**, bounced **5.87% Oct 22**, then resumed declining on Friday. Recent volatility supports the 5-10% intraday-move *capability*, not the direction.
+- **Premarket indication:** ~$25.85 at 08:57 ET from Investing.com, **-0.31%** versus Friday close, **-5.50%** versus Sanchez's $27.3549 entry, and **-4.21%** versus the six-buyer $26.9852 entry. Premarket quote is indicative, not a guaranteed executable price. Reliable comparative premarket volume was not established.
+- **Structure:** ~$1.24B cap, ~28.81M float, ~11.09% short float, beta ~1.22, ~14-day ATR $2.36 or **9.1% of Friday's price**. The large ATR and event sensitivity pass the vehicle gate even though beta is not exceptionally high.
+- **Participation:** Friday **1.185M / 0.536M = 2.21x** approximate three-month average volume. Latest three completed sessions Oct 21-23: (2.158M + 1.458M + 1.185M)/3 = **1.600M/day**, or **2.99x** the ~536K average. **Warning:** much of this abnormal activity accompanied steep selling. It is not a positive confirmation variable.
+- **Price context:** Friday low $25.70, Oct 21 low $24.69, $26.985 cluster average, Friday high $27.76. Treat these as observational levels, not forecasts. A sustained recovery of ~$26.99 on increasing volume would be more convincing than merely touching the insider price.
 
-**Participation:** October 22 volume **1,459,476**, October 21 **2,149,166**, October 20 **8,201,938**, versus ~**517,740** average daily. **2.82x 1D, 7.60x 3D**. High participation is not unambiguously bullish because October 21 was a sharp distribution session. October 22's recovery is constructive, but a fresh opening-volume surge is still necessary.
+### Catalyst and why insiders may have bought
 
-**Confirmed catalyst:** October 20 Phase 2 RAP-219 bipolar mania data met the primary YMRS endpoint, with a **3.1-point placebo-adjusted benefit (p=0.045)**, and the CGI-BP secondary endpoint (**p=0.024**). A Q4 2026 focal-onset seizure open-label safety update is expected, an FDA bipolar meeting is planned for Q1 2027, and bipolar Phase 3 trials are targeted for H2 2027. The idea that insiders regard the post-readout selloff as excessive is an **inference**, not a disclosed reason. Analysts have disagreed about effect size and discontinuation/tolerability implications; Wells Fargo trimmed its target to $50 while Guggenheim increased its target to $70.
+**Confirmed:** On **October 20, 2026**, the company announced positive Phase 2 RAP-219 data for acute bipolar mania: 3.1-point placebo-adjusted improvement on YMRS at week 3 (**p=0.045**) and 0.4-point improvement on CGI-BP mania severity (**p=0.024**). Its focal-onset seizure Phase 3 FOCUS 1/2 trials are underway. Initial open-label focal-epilepsy safety data is expected **Q4 2026**. Management plans an FDA end-of-Phase-2 meeting for bipolar mania in **Q1 2027**, with bipolar Phase 3 planned for **H2 2027**. These are company expectations, not fixed near-term binary event dates.
 
-**Financing / dilution:** The June 30 10-Q reported **$436.1M cash and short-term investments** and an effective **$150M ATM** within a 2026 shelf registration. It reported no ATM sales through June 30. I did not verify later ATM usage, so **current issuance status remains unconfirmed**, not cleared. This is a much less urgent financing concern than for most microcap biotechs, but the ATM remains an overhang.
+**Interpretation, not a fact:** Six insiders may view the selloff after positive trial data as overdone. The efficacy margin (3.1 YMRS points, p=0.045) is statistically significant but relatively modest; commercialization and future trial execution remain uncertain. There is **no newly confirmed October 26 binary event**.
 
-**Counterarguments:** Prior substantial insider selling; marginal primary-endpoint p-value; modest placebo-adjusted effect; prior high-volume selloff; a $1B+ capitalization makes a 10% move harder than in a nano-cap. **Trade watch:** opening acceptance above ~$27.05 director cost basis and sustained activity toward October 22 high **$27.89**; losing $26.53 and then $25.81 would weaken the reversal.
+### Financing / dilution
 
-## 2. SNES | SenesTech | 6.8/10
+At June 30, the company reported approximately **$436.1M cash, equivalents and short-term investments**, giving it more breathing room than a cash-starved microcap. Nevertheless, the **March 2026 automatic shelf** permits future securities issuance, and the **$150M ATM** remains a potential dilution source. The company reported **no ATM shares sold through June 30**, but post-June usage was **not conclusively verified**. Do not claim there is no dilution risk.
 
-**New filing:** Glenbrook Capital Management, a single 10% owner, reported genuine code-P purchases of **36,375 shares at $0.6746 on October 20; 60,000 at $0.7385 on October 21; and 7,500 at $0.7986 on October 22**. The Form 4 was displayed at **18:45 ET October 22**. Total **103,875 shares, $74,838, weighted entry $0.72046**. No 10b5-1 plan indicated. One reporting owner, not an executive cluster.
+**Opposing insider evidence:** CEO Abraham Ceesay's separate **2,210-share sale (~$64,448)** was filed **Friday Oct 23 at 16:30 ET** and relates to an Oct 21 transaction. It was executed under a **Rule 10b5-1 plan adopted March 27**, so it is less informative than a discretionary sale, but it is still a real opposing transaction. Longer historical executive selling further tempers the enthusiasm.
 
-**Broader repeat accumulation:** An earlier filing, already eligible October 20, showed **983,804 shares for ~$706,057** bought October 15, 16 and 19. Combined selected October 15-22 purchases: **1,087,679 shares, ~$780,895, weighted entry $0.71795**. Do not mistake the whole amount for today's new filing.
+### Why this could pop today, and why it might not
 
-**Vehicle / price:** October 22 close **$0.799, +6.53%**, premarket near **$0.800**; approximately **11.0% above the new weighted entry**. Market cap ~$4.3M, float ~5.19M, short float only ~0.53%, beta ~0.21 but realized volatility extremely high: ATR ~$0.10, **~12.5% of price**, and recent +8.81% / +6.53% sessions. The low beta is not a meaningful veto in this nano-cap.
+**Bull case:** A *six-person* genuine buy cluster, including a founder/chairman and CFO, has just become more visible; an additional fresh director has joined; the stock's ATR is ~9% and the positive clinical catalyst is only six days old. If buyers reclaim the ~$27 insider-cluster area with improving intraday participation, a large percentage reversal is mechanically plausible.
 
-**Participation:** October 22 **414,659**, October 21 **499,131**, October 20 **414,011** versus ~**1.05M** average. **0.40x / 0.42x**. The three-month average is severely distorted by **58.99M shares on October 15**. Actual current participation is well below that spike, and the earlier spike's churn could have included distribution.
+**Bear case:** The new filing is just $98.5K; Friday closed **below every recent insider's approximate entry**; selling on 2-3x normal volume is a warning, not bullish confirmation; the FDA and Phase 3 milestones are not imminent; and the company has a sizable ATM authorization.
 
-**Catalysts:** Preliminary Q3 revenue around **$1.1M**, up ~40% sequentially, and an October 19 Chicago pilot announcement reporting an 88% reduction in rat activity. Glenbrook publicly described a large ownership stake and willingness to work with management. These are confirmed announcements; any future strategic transaction is speculation.
-
-**Financing / dilution:** On October 22 the company announced a Nasdaq minimum-bid deficiency, with a compliance period through **April 19, 2027**. Management said it is evaluating financing alternatives. No new October financing-linked purchase is claimed here, but outstanding warrants, potential ATM issuance and future share issuance were **not completely reconciled**. Severe delisting/reverse-split and liquidity risks persist.
-
-**Why it could pop today:** Extreme float/volatility mechanics and persistent shareholder accumulation. **Why it might fail:** no fresh executive buyer, little short squeeze fuel, weak recent volume, bid deficiency, financing uncertainty and a premarket price already 11% above fresh insider cost. This is a highly speculative conditional watch, not a clean scalp.
-
-## 3. ANIX | Anixa Biosciences | 6.5/10
-
-**New filing:** CEO and director **Amit Kumar** bought **8,000 shares at $2.72, $21,760**, traded October 22 and reported **17:44 ET October 22**. The SEC Form 4 shows code P, direct holdings rising to **680,000 shares**, with no indicated 10b5-1 plan. This is a single new CEO buyer, not a fresh C-suite cluster.
-
-**Broader multi-insider pattern:** From September 10 through October 22, the identified open-market purchases by **four distinct insiders** total **92,536 shares, ~$251,897, weighted entry $2.7222**: Kumar (8,000 new plus 15,000 in September), President/COO/CFO **Michael Catelani** (5,500 at $2.84), director **Arnold Baskies** (5,000 at $2.76), and director **Lewis Titterton Jr.** (49,036 at $2.69 and 10,000 at $2.73). **Only Kumar's 8,000 shares are newly eligible today.** These older purchases materially strengthen the qualitative signal but are spread over six weeks.
-
-**Vehicle / price:** October 22 close **$2.78, +2.58%**, premarket quote approximately **$2.96, +6.47%**, or **8.8% above the new and broader weighted entries**. Market cap ~$103M; float ~32.81M; short float ~4.12%; beta ~0.50; ATR ~$0.15, **~5.4% of close**. Recent sessions are mostly low single digits, so the vehicle is less explosive than RAPP or SNES. Premarket price was based on very limited displayed trading, not reliable broad participation.
-
-**Participation:** October 22 **156,812**, October 21 **115,720**, October 20 **158,099**, against ~**280,580** average. **0.56x 1D / 0.51x 3D**, weak. This is the main obstacle to a filing-driven pop.
-
-**Catalysts:** October 5 update described the first three-month stable-disease case in the ovarian cancer CAR-T Phase 1 trial; a higher-dose cohort continues, and the company is preparing further breast-cancer vaccine development. No specific near-term FDA or pivotal readout date was verified. A valuation-support / clinical-progress motivation is speculative.
-
-**Financing / dilution:** The July 31 10-Q reported **$13.864M cash and short-term investments**, **1.548M shares sold through an ATM during the first nine months of fiscal 2026** for ~$4.806M net, and approximately **$95M remaining ATM capacity**. This is a major potential selling overhang relative to the company's capitalization. No fresh October offering was verified, but active ATM availability is a meaningful negative.
-
-**Why it could pop today:** Real repeat CEO buying plus older CFO/director purchases in a small oncology biotech. **Why it might fail:** only $21.8K fresh, low short interest, below-normal volume, active ATM and no confirmed immediate catalyst. Conditional watch only, with $2.78 prior close and $2.96 thin premarket indication as reference levels.
+**Decision:** **Watch, not an automatic long.** Score **7.7/10** for a filing-driven percentage pop. Do not chase a thin premarket tick; require sustained price/volume confirmation.
 
 ## Discarded but notable
 
-| Ticker | Headline fresh filing | Reason for exclusion |
+| Ticker | Fresh filing / headline | Rejection |
 |---|---|---|
-| **DOLE** | Pale Fire Capital **648,356** shares across October 20-22 for **~$8.55M** (45,676 + 438,900 + 163,780 = **648,356 shares**) | Genuine accumulation by one economic investment group, but mature produce distributor, low percentage-volatility vehicle; size alone cannot rescue it. |
-| **CRBG** | Nippon Life **$6.77M** | Conventional insurance, poor 5-10% intraday vehicle. |
-| **API** | CEO Bin Zhao four purchases totaling ~**$168K** | SEC Form 4 expressly says purchases were executed under a **June 15 Rule 10b5-1 plan**. Exclude as nondiscretionary. |
-| **UXIN** | CEO Dai Kun **7,000 ADS / $6,231** | Form 4 marks Rule 10b5-1; also very small. |
-| **BZUN** | CEO Wenbin Qiu **11,400 ADS / $39,900**, weighted **$3.50** | Genuine two-day buying, but one small buyer, ~1.14% short float, three consecutive down days and no immediate independent catalyst. Despite ~6% ATR and some historic 9% sessions, poor filing-driven pop confidence. October 22 volume ~1.23x normal accompanied a -3.04% decline. |
-| **LIQT** | Director $50K | Transaction dated **June 5**, only filed October 22; stale as an intraday signal. |
-| **AMT** | Repeated small director purchases | Mature tower REIT, low-volatility vehicle; purchases appear periodic and small. |
-| **LEO / MXE / DSM / GF / ECF / XFLT** | Multiple purchases, some >$300K | Closed-end funds, poor percentage-move vehicles. |
-| **LOAN** | CEO $34.7K | Mortgage lending / slow intraday vehicle; no immediate catalyst. |
-| **GROW** | Two apparent $7.4K 10% owner filings | Same underlying economic position through Gator Capital and Derek Pilecki; not two independent buyers, and too small. |
+| **RENT** | STORY3, Nexus, CHS report **$6.12M** of code-P shares at **identical $3.55** | **Hard exclude: financing-linked rights offering/backstop**, not discretionary exchange-market purchases. Prospectus explicitly names the same three investors and anticipates backstop settlement **Oct 21** at **$3.55**. The identical Nexus and STORY3 quantities are separate economic allocations, not one filing duplicated, but neither qualifies as open-market conviction. |
+| **BPRE** | Director Ramin Kamfar **170,320 shares / ~$2.13M** disclosed Monday 08:44 ET | Bluerock private real estate fund, slow/unsuitable intraday vehicle. Its substantial repeat buying does not rescue the structure. |
+| **CRBG** | Nippon Life **$7.68M** | Mature conventional insurance company, fails percentage-move gate. |
+| **NXG** | Swank + fund CFO Nelson **$479K** | Closed-end fund, not a high-beta speculative equity; headline insider cluster misleading for this strategy. |
+| **CHCO** | Four directors bought a combined **480 shares / ~$68.2K** | Conventional regional bank; slow intraday vehicle, identical purchase prices and small amounts. |
+| **SAMG** | Equinox Partners, **34,126 shares / $352,684** across Oct 15-22 | Real, repeat institutional buying but asset manager has beta ~0.67 and limited ordinary percentage-pop mechanics. The **three latest trades** Oct 20-22 total 28,434 shares / $293,089; all transactions disclosed in one newly eligible Friday filing. |
+| **AIM** | CEO Thomas K. Equels, **31,250 shares at $0.163 / $5,093.75** | Microcap biotech passes raw volatility test, but commitment tiny; active ATM/shelf and a persistent downtrend overwhelm signal. |
+| **UXIN** | CEO Dai Kun, **6,000 shares / $5,083** | Too small to overcome uncertain near-term catalyst and trading context. |
+| **MSM** | Director **$50K** | Mature industrial distributor, not an explosive intraday vehicle. |
+| **PNI, LCU, MXE** | Fund-related buys | Municipal/closed-end fund structures unsuitable for the strategy. |
+| **CLF, THFF** | Purchases shown on Friday morning, **before** Friday 16:00 ET | Outside the overnight filing window, irrespective of merits. |
 
-**DOLE arithmetic:** 648,356 shares and approximately $8,554,411 based on displayed filing dollar values. The group includes multiple reporting entities but is **one economic accumulation program**, not a cluster of independently purchasing executives.
+### False-positive correction: RENT
 
-## Execution checklist and limitations
+The **September 11** backstop agreement and **September 30** prospectus for RENT's **$15M rights offering** establish a subscription price of **$3.55**, identify **CHS, Nexus and STORY3** by name, and anticipate October 21 backstop settlement. The October 23 Form 4 purchases at exactly $3.55 correspond to that financing, **not** fresh open-market purchases. Do not rank RENT or count the $6.12M as a discretionary three-buyer cluster.
 
-The actionable score is a **relative qualitative priority**, not a calibrated probability. Before entering, require actual opening liquidity, price/volume confirmation and no new dilutive filing. RAPP is the only strong signal; SNES and ANIX are conditional. No reliable normal-premarket-volume series was available. Historical beta, float and short interest may lag current conditions. Financing searches did not prove the absence of unreported ATM sales.
+### Screening / timestamp discipline
 
-**Sources:** [Finviz latest purchases](https://finviz.com/insidertrading?tc=1); [RAPP Paul SEC Form 4](https://www.sec.gov/Archives/edgar/data/1237564/000119312526429073/xslF345X06/ownership.xml); [RAPP Maraganore SEC Form 4](https://www.sec.gov/Archives/edgar/data/1180432/000119312526429071/xslF345X06/ownership.xml); [RAPP Silva SEC Form 4](https://www.sec.gov/Archives/edgar/data/1446372/000119312526429075/xslF345X06/ownership.xml); [RAPP Young SEC Form 4](https://www.sec.gov/Archives/edgar/data/2012593/000119312526429074/xslF345X06/ownership.xml); [RAPP CFO SEC Form 4](https://www.sec.gov/Archives/edgar/data/1579829/000119312526428018/xslF345X06/ownership.xml); [RAPP board](https://www.rapportrx.com/about/board-of-directors/); [RAPP Phase 2 company release](https://www.globenewswire.com/news-release/2026/10/20/3384169/0/en/rapport-therapeutics-announces-positive-topline-results-from-its-phase-2-trial-of-rap-219-for-the-treatment-of-bipolar-mania.html); [RAPP 10-Q](https://www.publicnow.com/view/001D1B4DAF38E0559C16AA9D2E5EAB883125BCD8); [SNES SEC Form 4](https://www.sec.gov/Archives/edgar/data/1273782/000090266426004257/xslF345X06/ownership.xml); [SNES listing notice](https://www.stocktitan.net/news/SNES/senes-tech-receives-nasdaq-minimum-bid-price-notification-and-34mv6n6bidfm.html); [ANIX SEC Form 4](https://www.sec.gov/Archives/edgar/data/715446/000149315226048144/xslF345X06/ownership.xml); [ANIX July 31 10-Q](https://ebs.publicnow.com/view/F9FD598B4D1D18361B64E389C88F4F3571FB72DD); [API SEC Form 4](https://www.sec.gov/Archives/edgar/data/1802883/000119312526429245/xslF345X06/ownership.xml); [DOLE SEC Form 4](https://www.sec.gov/Archives/edgar/data/1857475/000092189526002845/xslF345X06/form413335003_10222026.xml); [RAPP prices/volumes](https://stockanalysis.com/stocks/rapp/history/); [SNES prices/volumes](https://stockanalysis.com/stocks/snes/history/); [ANIX prices/volumes](https://stockanalysis.com/stocks/anix/history/); [BZUN prices/volumes](https://stockanalysis.com/stocks/bzun/history/); [Finviz RAPP metrics](https://finviz.com/stock?t=RAPP); [Finviz SNES metrics](https://finviz.com/stock?t=SNES); [Finviz ANIX metrics](https://finviz.com/stock?t=ANIX).
+Finviz was inspected at the beginning and refreshed again before publication. The latest listed filing in the refresh was **BPRE at Oct 26 08:44 ET**; no newer high-signal eligible filing displaced RAPP. All eligibility judgments use **America/New_York**. Where another source exposes **20:01 UTC** for RAPP's Oct 23 Form 4, convert to **16:01 EDT** before comparing with the Friday 16:00 cutoff. The window includes Friday evening and Monday morning, not Thursday evening. Friday was the previous actual US session.
 
-**Disclaimer:** Speculative, time-sensitive trading-signal screening. Not a guarantee of an intraday move or personalized investment advice. Positions in low-float stocks can gap, halt, or become impossible to exit at quoted prices.
+## Sources
+
+1. Finviz latest insider buys: https://finviz.com/insidertrading?tc=1
+2. RAPP Sanchez raw SEC Form 4: https://www.sec.gov/Archives/edgar/data/1830326/000119312526430397/xslF345X06/ownership.xml
+3. RAPP company SEC filings (all six buyer filings): https://rapportrx.gcs-web.com/financial-information/sec-filings
+4. RAPP six-buyer cluster and dollar calculations: https://www.desqlong.com/companies/RAPP
+5. RAPP directors and credentials: https://www.rapportrx.com/about/board-of-directors/
+6. RAPP October 20 Phase 2 company release: https://rss.globenewswire.com/news-release/2026/10/20/3384169/0/en/rapport-therapeutics-announces-positive-topline-results-from-its-phase-2-trial-of-rap-219-for-the-treatment-of-bipolar-mania.html
+7. RAPP June 30 10-Q, shelf and ATM: https://www.publicnow.com/view/001D1B4DAF38E0559C16AA9D2E5EAB883125BCD8
+8. RAPP historical closes and daily volume: https://finance.yahoo.com/quote/RAPP/history/
+9. RAPP current average volume/beta: https://finance.yahoo.com/quote/RAPP/
+10. RAPP Oct 26 premarket indication: https://www.investing.com/equities/rapport-therapeutics-historical-data
+11. RAPP CEO planned sale filing: https://form4.troubledyouth.org/filings/2012593/0001193125-26-430504
+12. RENT Sept 11 backstop 8-K: https://www.publicnow.com/view/9D63681C9673EC916B46737328F09F31BE92F77E
+13. RENT rights offering prospectus: https://www.streetinsider.com/SEC+Filings/Form++424B3+++++Rent+the+Runway%2C+Inc./27126434.html
+14. RENT STORY3 SEC Form 4: https://www.sec.gov/Archives/edgar/data/1468327/000101297526000982/xslF345X06/form4.xml
+15. SAMG SEC Form 4: https://www.sec.gov/Archives/edgar/data/933897/000101359426001082/xslF345X06/form4.xml
+16. AIM SEC Form 4: https://www.sec.gov/Archives/edgar/data/946644/000149315226048196/xslF345X06/ownership.xml
+17. AIM shelf/ATM filing overview: https://www.stocktitan.net/sec-filings/AIMI/424b.html
+
+*Disclaimer: This is a speculative intraday trading-signal screen, not personalized investment advice. Form 4 purchases do not guarantee price appreciation. Quotes, float, short interest and volume benchmarks may be delayed or revised. Liquidity, dilution, spreads, halts and adverse catalysts can produce severe losses.*
