@@ -25,8 +25,8 @@
 | Oct 23, Samsara Opportunity | 94,000 | $41.31 | $3,883,140 |
 | Oct 23, Samsara BioCapital | 500 | $41.82 | $20,910 |
 | Oct 23, Samsara Opportunity | 1,000 | $41.82 | $41,820 |
-| Oct 26, Samsara BioCapital | 48,988 | $41.59 | $2,037,? |
-| Oct 26, Samsara Opportunity | 97,982 | $41.59 | $4,075,? |
+| Oct 26, Samsara BioCapital | 48,988 | $41.59 | $2,037,411 |
+| Oct 26, Samsara Opportunity | 97,982 | $41.59 | $4,075,071 |
 | **Combined, using exact displayed price precision** | **289,470** | **$41.4548** | **$11,999,922** |
 
 The two Oct 26 dollar cells above are intentionally left approximate because the SEC reports rounded weighted-average execution prices. The verified total calculated from all six share counts and reported prices is $11,999,922.30. **Recent multi-day accumulation:** Oct 23 and Oct 26 are both in the *same newly eligible filing*, not older filings. A filing tracker shows additional purchases during the prior 12 months, but a precise recent aggregate beyond these six rows was not established, so none is added to the weighted average. Do not count the two Samsara funds as separate independent insiders.
@@ -50,8 +50,8 @@ The two Oct 26 dollar cells above are intentionally left approximate because the
 | Transaction | Shares | Entry | Dollars from displayed prices |
 |---|---:|---:|---:|
 | Oct 23 | 59,188 | $79.84 | $4,725,570 |
-| Oct 26 | 4,152 | $78.47 | $325,? |
-| Oct 26 | 90,856 | $78.44 | $7,126,? |
+| Oct 26 | 4,152 | $78.47 | $325,807 |
+| Oct 26 | 90,856 | $78.44 | $7,126,745 |
 | **Combined** | **154,196** | **$78.9782** | **$12,178,122** |
 
 This is a genuine two-day buying pattern in one newly accepted filing. It is not a multi-executive cluster. No other recent purchases by independent senior executives were verified.
@@ -75,7 +75,7 @@ This is a genuine two-day buying pattern in one newly accepted filing. It is not
 | Qualifying market transaction | Shares | Weighted price | Approx. amount |
 |---|---:|---:|---:|
 | Oct 23, two market blocks | 52,939 | mixed $25.68/$26.11 | $1,371,676 |
-| Oct 26, market block only | 8,261 | $26.97 | $222,? |
+| Oct 26, market block only | 8,261 | $26.97 | $222,799 |
 | **Oct 27, newly transacted market blocks** | **39,796** | **$26.6207** | **$1,059,396** |
 | **All qualifying market purchases in this new filing** | **100,996** | **$26.2770** | **$2,653,871** |
 
