@@ -1,143 +1,169 @@
-# Insider Buy Pop Watch | Wednesday, October 28, 2026
+# Insider Buy Pop Watch | Thursday, October 29, 2026
 
-**Research window:** Wednesday 14:45 Europe/Copenhagen = Wednesday 09:45 America/New_York (EDT). **Fresh SEC acceptance window:** strictly after Tuesday, October 27, 2026 at 16:00 EDT through Wednesday, October 28 at 09:45 EDT. October 27 was the previous actual U.S. trading session. Finviz was checked initially and refreshed before publication; the newest displayed filing on the final refresh was BBT at 08:33 EDT. The refreshed list did not introduce a material higher-ranked candidate. Price snapshots are from the early U.S. trading session, not premarket. Denmark is on CET while New York remains on EDT until November 1.
+**Screen cutoff:** approximately 09:45 America/New_York (EDT), equivalent to 14:45 Europe/Copenhagen (CET). **Filing window:** Wednesday, October 28, 2026 at 16:00 EDT through Thursday, October 29 at approximately 09:45 EDT. The U.S. market was already open at screening time because the European and U.S. daylight-saving transitions occur on different dates. Prices labeled "early-session" are **not premarket prices**. Finviz was checked initially and refreshed before completion; the latest visible filing on the final refresh was TFC at 09:40 EDT.
 
-**Strategy:** The first stage is a hard gate for credible 5%-10%+ intraday percentage-move capability. Only then are buyer seniority, cluster/repeat quality, catalysts, conviction, financing and participation ranked. Scores are subjective screening priorities, not probabilities or trading guarantees. **Today's order: SRRK > LRN > LYCA > NXTC.** AIOK is the most volatile rejected name because of a severe newly filed financing/resale overhang and an already extreme price run.
+**Objective:** Rank newly disclosed, genuinely discretionary open-market insider buys by their potential to contribute to a **5%-10%+ intraday percentage move**, not by long-term investment quality. Apply a hard intraday-vehicle gate before ranking insider quality. The scores below are judgment-based priorities out of 10, **not calibrated probabilities**.
 
-## Ranked actionable watchlist
+## Actionable ranking
 
-| Rank | Ticker / company | Fresh insider signal | Fresh shares / weighted entry | Vehicle / percentage-move potential | Last day / 3-day volume vs normal | Score |
-|---|---|---|---|---|---|---|
-| **1** | **SRRK / Scholar Rock** | Director Srinivas Akkaraju, Samsara funds, **$12.00M** across Oct 23/26 | **289,470 / $41.4548** | Biotech, 22.0% short float, 4.6% ATR, event-sensitive; ~5.4B cap | **0.70x / 0.81x**, weak confirmation | **8.1/10** |
-| **2** | **LRN / Stride** | Director Dylan Haggart through Fivespan, **$12.18M** across Oct 23/26 | **154,196 / $78.9782** | Online education, 18.45% short float, 3.6% ATR, recent 5.6% day; borderline vehicle exception | **1.01x / 1.06x**, neutral | **7.2/10** |
-| **3** | **LYCA / Lycia Therapeutics** | Venrock 10% owner, **$1.059M fresh Oct 27**; $2.654M genuine market buying Oct 23-27 | **39,796 / $26.6207** fresh; 100,996 / $26.2770 broader | Newly listed biotech, first-session 22.19-36.49 range, ~1.5B cap; no reliable ATR yet | **N/A / N/A** for 3-month normal; latest day **0.35x** three-day post-IPO average | **7.0/10** |
-| **4** | **NXTC / NextCure** | ADAR1 10% owner, **$53.7K** across Oct 23/26/27 | **10,851 / $4.9481** | Nano-cap biotech, 13.5% ATR, 3.83M float, 5.77% short float | **0.83x / 0.42x**, weak | **6.0/10** |
+| Rank | Ticker / industry | Newly eligible insider signal | Fresh weighted-average entry | Vehicle / percentage-move capacity | Last-day / 3-day volume vs ~3-month daily average | Score |
+|---|---|---|---:|---|---|---:|
+| **1** | **TTMI**, AI/defense electronic components | **CEO + director, 2 distinct insiders, 15,000 shares, $1,342,811** | **$89.5207** | **Excellent:** beta 2.19; ATR **9.8%** of price; recent -27.7%, +8.4%, +6.7% sessions | **1.33x / 1.69x**, mixed but recovering | **8.4** |
+| **2** | **NVA**, U.S. antimony and critical minerals | **Director, 6,780 shares, $20,001**; three insiders, $46,934 in October | **$2.9500 fresh**; $3.1047 broader | **Excellent:** ~$132M cap; ATR **9.4%**; ~11.6% short float; recent +8.5% and +6.7% | **1.12x / 1.21x**, constructive | **7.2** |
+| **3** | **LBRT**, oilfield services and data-center power | **Director, 14,500 shares, $223,300** | **$15.4000** | **Good:** ATR **5.7%**; ~11.4% short float; three consecutive positive sessions | **1.08x / 0.96x**, neutral | **6.4** |
 
-**Volume method:** Most recent completed session is October 27. The 3-day numerator uses October 23, 26 and 27. For SRRK, LRN and NXTC, the denominator is Finviz's approximately three-month average daily volume (1.67M, 911.15K and 171.53K respectively). For LYCA, which IPO'd on October 23, a three-month baseline does not exist. The 0.35x figure compares Oct 27 volume with its three-session post-IPO average, not a fabricated 3-month average. These ratios are participation context, not independent buy signals.
+**Volume method:** Finviz's current approximately three-month average daily volume is the denominator. Last-day and three-day numerators are *completed* October 28 and October 26-28 trading-session volumes from historical price tables, not today's partial volume. These approximate baselines can be distorted by event-driven spikes. Prices and volumes may differ modestly between providers. No reliable normal-premarket benchmark was available; the market had already opened.
 
-## 1. SRRK | Scholar Rock Holding Corporation | 8.1/10
+**Top decision:** TTMI is the only strong fresh CEO-led cluster in a demonstrably high-percentage-volatility vehicle. NVA has better small-cap mechanics and a timely catalyst but very small insider commitments. LBRT has a credible director purchase and a power-infrastructure catalyst, yet the price is already far above the insider entry.
 
-**Sector:** Neuromuscular-disease biotechnology. **Buyer:** Srinivas Akkaraju, a director who controls voting/investment decisions for Samsara BioCapital and Samsara Opportunity Fund. These are related vehicles under **one decision-maker**, not a two-insider management cluster. Current directorship is confirmed in the SEC Form 4. The filing was accepted **Oct 27 at 19:47 EDT**, so all listed transactions are newly reportable in this screen. All six rows are transaction code P, with no 10b5-1 plan indicated.
+---
 
-| Transaction date / economic vehicle | Shares | Reported weighted price | Approximate dollars |
-|---|---:|---:|---:|
-| Oct 23, Samsara BioCapital | 47,000 | $41.31 | $1,941,570 |
-| Oct 23, Samsara Opportunity | 94,000 | $41.31 | $3,883,140 |
-| Oct 23, Samsara BioCapital | 500 | $41.82 | $20,910 |
-| Oct 23, Samsara Opportunity | 1,000 | $41.82 | $41,820 |
-| Oct 26, Samsara BioCapital | 48,988 | $41.59 | $2,037,411 |
-| Oct 26, Samsara Opportunity | 97,982 | $41.59 | $4,075,071 |
-| **Combined, using exact displayed price precision** | **289,470** | **$41.4548** | **$11,999,922** |
+## 1. TTMI | TTM Technologies | 8.4/10
 
-The two Oct 26 dollar cells above are intentionally left approximate because the SEC reports rounded weighted-average execution prices. The verified total calculated from all six share counts and reported prices is $11,999,922.30. **Recent multi-day accumulation:** Oct 23 and Oct 26 are both in the *same newly eligible filing*, not older filings. A filing tracker shows additional purchases during the prior 12 months, but a precise recent aggregate beyond these six rows was not established, so none is added to the weighted average. Do not count the two Samsara funds as separate independent insiders.
+**Sector:** Technology, electronic components, printed circuit boards, defense electronics, AI/data-center networking.
 
-**Vehicle:** October 27 close **$42.49 (+1.87%)**; early-session indication **$44.39 (+4.47%)** around 09:07 EDT, **7.1% above the insider average**. Market cap ~$5.4B, float ~100.76M, short float **22.01%**, beta **0.77**, ATR(14) **$1.95 = 4.59% of prior close**. Recent realized daily volatility is around 4.4% on the longer Finviz lookback, with an Oct 21 +3.97% day. This is not a tiny float, but it can move 5%-10% when FDA/commercial catalysts and short-covering combine.
+### Newly qualifying Form 4 purchases
 
-**Participation:** Oct 27 volume **1,161,010 / 1.67M = 0.70x**. The latest three sessions (1,161,010; 1,678,241; 1,207,039) average 1,348,763, or **0.81x** normal. No trustworthy comparable historical premarket-volume baseline was available. The price reaction is favorable but volume has not yet confirmed a broad breakout.
+| Insider | Independently verified role | Transaction date | Shares | Price | Dollars |
+|---|---|---|---:|---:|---:|
+| **Edwin Roks** | **President and CEO**, director | Oct 28 | 5,000 | $88.0700 | **$440,350** |
+| **Wajid Ali** | Director | Oct 28 | 5,000 | $89.8571 | $449,285.50 |
+| **Wajid Ali** | Director | Oct 28 | 5,000 | $90.6350 | $453,175.00 |
+| **Fresh total** | **2 distinct economic buyers** | | **15,000** | **$89.5207** | **$1,342,810.50** |
 
-**Confirmed catalyst and likely rationale:** FDA approved **ISEMBYLD (apitegromab)** for spinal muscular atrophy on **September 11, 2026**; the U.S. launch is underway. Scholar Rock also announced a September 2 Fast Track/Orphan designation and Phase 2 FORGE dosing for the FSHD program. It resubmitted its European application on October 8, with an expected CHMP opinion in **H1 2027**, and has an **November 10, 2026** earnings update scheduled. An experienced biotech director's $12M purchase could reflect confidence in commercial launch economics, but that motivation is **speculation**. The FDA approval is already known, not a new Oct 28 approval.
+The CEO's Form 4 was accepted **October 28 at 20:54 EDT**, and Ali's at **20:52 EDT**, both after the previous session's 16:00 EDT cutoff. The SEC documents identify both insiders' current positions, code **P** purchases, direct holdings and **no checked Rule 10b5-1 plan**. There is no indication that these purchases were company stock grants, exercises, conversions, or equity-financing subscriptions. The filings support ordinary discretionary purchases, although Form 4 code P alone does not prove exchange venue.
 
-**Financing/dilution:** The Q1 2026 filing disclosed **$111.8M of net proceeds from ATM issuance**, and the June 30 10-Q still reported approximately **10.56M pre-funded warrants** outstanding and $200M of term-loan borrowing. Pre-funded warrant exercise is share issuance, but not equivalent to a new cash offering. No new October equity sale was verified in the sources reviewed. Financing capacity and the historical ATM activity are real valuation/overhang negatives.
+Primary SEC: [Roks Form 4](https://www.sec.gov/Archives/edgar/data/1116942/000119312526436562/xslF345X06/ownership.xml); [Ali Form 4](https://www.sec.gov/Archives/edgar/data/1116942/000119312526436557/xslF345X06/ownership.xml).
 
-**Counterarguments:** Large market cap, modest ATR relative to microcaps, short interest may reflect hedging, commercialization can disappoint, and the early move has already put price above the director's entry. **Why it could pop today:** $12M of fresh open-market director-controlled accumulation, a recently approved first product, 22% short float and early positive reaction provide a credible path to a 5%-10% biotech session. Watch sustained participation above the Oct 27 close of $42.49 and the early ~$44.39 area; avoid treating an isolated opening print as confirmation.
+**Broader recent insider history, explicitly not newly eligible today:** Roks bought 10,000 shares at approximately $111.77 on August 25 (~$1.118M), and director Rex Geveden bought 5,000 at $104.90 on August 24 ($524,500). Including today's fresh cluster, the identified late-August-to-October discretionary buys total **30,000 shares, approximately $2,985,011, weighted-average entry $99.5004, across three distinct insiders**. The CFO's September withholding and prior officer sales should not be misclassified as discretionary purchases. The August buying is older historical support, **not a new October 29 filing**. The CEO has now bought twice.
 
-**Primary/source links:** [SEC Form 4](https://www.sec.gov/Archives/edgar/data/1253170/000125317026000014/xslF345X06/form4-10272026_111033.xml) | [Finviz metrics](https://finviz.com/stock?t=SRRK) | [October 27 daily prices](https://stockanalysis.com/stocks/srrk/history/) | [FDA approval reporting](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-scholar-rocks-muscle-weakness-drug-2026-09-11/) | [Scholar Rock FORGE announcement](https://scholarrock.gcs-web.com/news-releases/news-release-details/scholar-rock-receives-fda-fast-track-designation-apitegromab) | [June 2026 10-Q coverage](https://www.publicnow.com/view/448D60C113253F4C717201126BC062BC3E6A3139).
+History: [TTMI insider activity](https://monitorinsiders.com/TTMI); [SEC Tracker](https://sectracker.app/en/TTMI).
 
-## 2. LRN | Stride, Inc. | 7.2/10
+### Vehicle and participation
 
-**Sector:** Online education / education software. **Buyer:** Dylan G. Haggart, board director and co-founder/managing partner/CIO of Fivespan Partners. The Form 4 is a joint filing with the investment manager; **one economic buyer**. SEC acceptance **Oct 27, 19:50 EDT**. All rows are code P; no 10b5-1 plan is indicated.
+At approximately **09:42 EDT**, Finviz showed **$89.39**, down **1.55%** from the October 28 close of **$90.79** and **0.15% below the fresh $89.5207 entry**. The current price was approximately **10.2% below the broader $99.5004 insider average**. These are early-session snapshots, not guaranteed executable quotes.
 
-| Transaction | Shares | Entry | Dollars from displayed prices |
-|---|---:|---:|---:|
-| Oct 23 | 59,188 | $79.84 | $4,725,570 |
-| Oct 26 | 4,152 | $78.47 | $325,807 |
-| Oct 26 | 90,856 | $78.44 | $7,126,745 |
-| **Combined** | **154,196** | **$78.9782** | **$12,178,122** |
+- Market cap approximately **$9.42B**, float **102.98M**, short float **4.83%**, beta **2.19**.
+- ATR(14) **$8.73**, approximately **9.77%** of the $89.39 snapshot price. Recent realized volatility is unusually high for a multi-billion-dollar electronics manufacturer.
+- Recent closes: **October 22 -27.67%**, October 23 **+8.42%**, October 26 **+6.73%**, October 27 **+1.50%**, October 28 **+4.62%**. The stock is recovering after a violent earnings-driven repricing.
+- Completed-session volumes: **Oct 28 ~4.212M; Oct 27 ~3.651M; Oct 26 ~8.255M**. Finviz average daily volume ~**3.17M**. **1-day 1.33x; three-day 1.69x**. This confirms active participation in the rebound, but the **Oct 22 17.48M-share collapse** warns that heavy volume can also mean distribution.
+- Yesterday's trading range: **$86.68-$92.07**. Immediate reference points are the fresh insider average ~$89.52 and yesterday's high ~$92.07, not arbitrary targets.
 
-This is a genuine two-day buying pattern in one newly accepted filing. It is not a multi-executive cluster. No other recent purchases by independent senior executives were verified.
+Price/vehicle: [Finviz TTMI](https://finviz.com/stock?t=TTMI); [completed-session volume](https://www.financecharts.com/stocks/TTMI/summary/volume-averages); [historical prices](https://www.investing.com/equities/ttm-technologies-historical-data).
 
-**Vehicle gate exception:** Stride is a mature $3.5B education provider, normally less attractive than biotech. It nevertheless has **18.45% short float**, 40.60M float, ATR **$2.82 / $79.21 = 3.56%**, and an actual **+5.62%** session on October 22. Beta is only **0.16**, which understates its episodic event sensitivity. Early October 28 indication was **$83.00 (+4.78%)** around 09:09 EDT, **5.1% above the director's weighted entry**. The stock is still far below its 52-week high, leaving a potential rebound narrative, but this is a *borderline* 5%-10% vehicle and receives a material vehicle penalty.
+### Catalyst, explanation, financing and counterarguments
 
-**Participation:** October 27 volume **918,375 / 911,150 = 1.01x**. Latest three completed sessions averaged **970,350 / 911,150 = 1.06x**. This is neutral rather than unusually strong. Reliable premarket-volume normalization was unavailable.
+**Confirmed developments:** October 22 Q3 results showed revenue approximately **$1.204B**, non-GAAP EPS **$1.46**, a **2.13x book-to-bill ratio** and **$2.0B aerospace/defense backlog**. Preliminary 2027 guidance was **$6.5B-$6.75B sales** and **$8.10-$8.90 adjusted EPS**. On October 27, the company announced completion of an existing **$100M share buyback** and authorization of another **$100M**. The Oct 28 10-Q says approximately **1.2M shares were repurchased Oct 26-27**. That company buying likely contributed to the rebound, and must not be mistaken for independent market accumulation. [TTMI investor relations](https://investors.ttm.com/); [October 28 10-Q](https://investors.ttm.com/sec-filings/all-sec-filings/content/0001193125-26-435875/ttmi-20260928.htm).
 
-**Catalyst / why bought:** On October 20 Stride reported fiscal Q1 2027 revenue of **$639.4M** and adjusted EPS **$1.37**, ahead of consensus, but enrollment fell **2.5%** and management described technology-related enrollment/retention friction. Q2 guidance disappointed some analysts. The large director purchase may be a bet that the operational issues are fixable and the stock is undervalued, **not a disclosed reason**. There is no verified new same-day company catalyst.
+**Why insiders may have bought (hypothesis, not a disclosed motivation):** The CEO and director may view the **October 22 ~28% selloff** as excessive relative to strong full-year guidance and defense/AI exposure. The bear case is real: the data-center/networking business was below expectations, a major program ramp was delayed, Q4 guidance disappointed, and the stock is exposed to AI-capex sentiment. [Context on the October 22 selloff](https://www.investing.com/news/stock-market-news/why-is-ttm-technologies-stock-sliding-today-93CH-4965637).
 
-**Financing check:** The September 30 balance sheet included about **$884M of cash and marketable securities**. No fresh registered direct, PIPE, ATM issuance or new warrant overhang was identified in the earnings materials reviewed. This is not a comprehensive negative assurance about all filings.
+**Financing/dilution review:** The company's acquisition program is primarily **debt-financed**, not a freshly identified dilutive PIPE. Its 10-Q details a **$500M 6.75% senior note issue** and additional facilities supporting the approximately **$1.1B Epiq acquisition**, plus the earlier STG acquisition. The company reported approximately **$1.64B of debt as of September 28**, before subsequent acquisition financing. It also plans large AI capacity expenditures. No fresh October common-share offering, ATM sale or new warrant issue was identified in the reviewed primary filing. **Leverage and integration risk are material**, even if immediate equity dilution is not the main concern. [TTMI 10-Q](https://investors.ttm.com/sec-filings/all-sec-filings/content/0001193125-26-435875/ttmi-20260928.htm).
 
-**Counterarguments:** Earnings are already a week old, operating execution and enrollment remain issues, normal realized volatility is below ideal, and price is already above the insider's entry. **Why it could pop:** A director committing $12.18M plus nearly 18.5% short float and a +4.8% early reaction can produce a squeeze/repricing session if buyers follow through. Avoid chasing if volume fails to expand beyond its ~911K normal full-day benchmark.
+**Why it could pop today:** A verified **CEO + independent director** $1.34M cluster arrived after a violent selloff, while realized daily ranges approach 10%, participation is above normal and a $100M follow-on buyback authorization is fresh. **Key risk:** a four-session rebound may already have priced in the filing, and today's early quote was negative. Prefer a convincing reclaim of the ~$89.52 insider average with sustained participation; do not chase a thin opening spike.
 
-**Sources:** [SEC Form 4](https://www.sec.gov/Archives/edgar/data/1157408/000121390026113031/xslF345X06/ownership.xml) | [Finviz](https://finviz.com/stock?t=LRN) | [daily price and volume](https://stockanalysis.com/stocks/lrn/history/) | [company SEC earnings release](https://www.sec.gov/Archives/edgar/data/1157408/000117184326006722/exh_991.htm).
+---
 
-## 3. LYCA | Lycia Therapeutics | 7.0/10
+## 2. NVA | Nova Minerals | 7.2/10
 
-**Sector:** Newly public biotechnology / extracellular protein degradation. **Buyer:** Venrock Healthcare Capital Partners-related funds, **one economic owner group**, not a C-suite cluster. The filing was accepted **Oct 27 at 18:38 EDT**. Critically, its Form 4 mixes genuine exchange purchases with a large **IPO allocation** and **preferred conversion**. These must be separated.
+**Sector:** Critical minerals, Alaska antimony and gold exploration; speculative U.S. strategic-materials developer.
 
-| Qualifying market transaction | Shares | Weighted price | Approx. amount |
-|---|---:|---:|---:|
-| Oct 23, two market blocks | 52,939 | mixed $25.68/$26.11 | $1,371,676 |
-| Oct 26, market block only | 8,261 | $26.97 | $222,799 |
-| **Oct 27, newly transacted market blocks** | **39,796** | **$26.6207** | **$1,059,396** |
-| **All qualifying market purchases in this new filing** | **100,996** | **$26.2770** | **$2,653,871** |
+### Newly qualifying and broader insider purchases
 
-All of the above are code-P exchange purchases. The **1,944,444 shares at $18.00 ($35M)** on October 26 are the **IPO subscription**, not an open-market buy, and are **excluded** from the signal and weighted entry. The **4,779,793-share code-C preferred conversion** is also excluded. Finviz's $35.2M headline for October 26 misleadingly combines the IPO allocation with the small qualifying market block. The fresh filing itself is eligible today, while the Oct 27 transactions represent the newest $1.059M tranche; older market transactions in the same filing form the broader three-day accumulation.
+**Newly eligible:** Independent director **Joshua I. Girnun** purchased **6,780 common shares at $2.95**, **$20,001**, on October 26. His Form 4 was accepted **October 28 at 18:55 EDT**. It shows code P, direct ownership, no indicated Rule 10b5-1 plan and a newly established 6,780-share position. [SEC Form 4](https://www.sec.gov/Archives/edgar/data/1852551/000122520826008548/xslF345X06/doc4.xml).
 
-**Vehicle:** Listed October 23. First trading day ranged **$22.19-$36.49** and closed $30 against an $18 IPO price. October 26 closed **$28.85**, October 27 **$26.11 (-9.50%)**. Early October 28 indication ~$26.13, **1.8% below the newest insider average**, 0.6% below the broader market-buy average. Approximately **$1.51B cap**, **57.68M shares outstanding** after the IPO. The 20.286M newly issued IPO shares are an initial publicly tradable supply reference, not a verified continuously updated float. No meaningful 14-day ATR, 3-month volume or stable short-interest series exists yet; do not manufacture them. Actual opening-day range demonstrates ample percentage volatility.
+**Earlier October purchases, NOT newly eligible today:** CEO **Christopher Gerteisen** bought **2,500 shares at $3.10** and **4,237 shares at $3.3473**, totaling approximately **$21,932.51**; director **Avi Geller** bought **1,600 at $3.1252**, approximately **$5,000.32**. Those filings arrived October 20. Combining them with Girnun's filing gives **three distinct insiders, 15,117 shares, approximately $46,933.83, weighted-average $3.1047**. The fresh filing accounts for **$20,001**, not the whole $46,934. [Earlier cluster details](https://www.desqlong.com/cards/cluster-NVA-2026-10-16-9862181828db); [insider history](https://insidervault.app/ticker/NVA).
 
-**Volume:** Oct 27 **426,754**, Oct 26 **965,456**, Oct 23 about **2.29M**. Latest day is **0.35x the average of those three completed IPO sessions**. This is falling participation while price is falling, a warning rather than bullish confirmation. A 1D/3D versus 3-month metric is unavailable because the company has traded only three completed sessions.
+### Vehicle and participation
 
-**Catalyst:** Lycia completed a **$365.1M upsized IPO** on October 26, including full exercise of the underwriters' option. Its lead LCA-0061 IgE degrader is in Phase 1 testing for food allergies and related conditions. Preliminary first-cohort data demonstrated substantial IgE reductions, but additional participant/patient data is expected **in 2027**, not on a confirmed October 28 date. The likely explanation for Venrock's market purchases is continued support of a portfolio company around listing; **speculation**, not a stated motivation.
+- Market cap **~$132M**, float **20.50M**, short float **11.62%**.
+- ATR(14) **$0.32**, approximately **9.38%** of the **$3.41 early-session quote**. Beta was not reliably available.
+- October 28 close **$3.45 (+8.49%)**; October 27 **$3.18 (+6.71%)**; October 26 **$2.98 (+3.83%)**. The move has already been underway for three sessions.
+- At roughly **09:05 EDT**, Finviz displayed **$3.41**, approximately **+15.6%** versus Girnun's $2.95 entry and **+9.8%** versus the three-insider $3.1047 average. Do not confuse this with an untouched insider-entry setup.
+- Completed-session volumes: **496,280 Oct 28**, **731,400 Oct 27**, **382,010 Oct 26** versus Finviz ~**443,080** average daily. **1-day 1.12x; three-day 1.21x**. This is moderately constructive because volume accompanied positive price action, though not an extreme abnormal-volume event.
 
-**Financing/dilution:** The IPO itself issued 20.286M new shares at $18. This is **fresh financing** and a significant price anchor well below the market price, even though it provides capital. Most pre-IPO holders face a roughly **180-day lock-up**, with exceptions and possible early release by underwriters. The preferred conversion is not a fresh cash investment. There is no verified additional registered-direct/PIPE beyond the IPO. **Why it could pop:** New biotech IPOs can have sharp intraday moves and a $1.06M market buy from an existing specialist holder may attract attention. **Why it could fail:** A $26 stock versus an $18 offering price, falling volume, falling price and no near-term binary event make a renewed IPO unwind plausible.
+Sources: [Finviz NVA](https://finviz.com/stock?t=NVA); [NVA historical prices/volumes](https://www.investing.com/equities/nova-minerals-adr-historical-data).
 
-**Sources:** [Venrock SEC Form 4](https://www.sec.gov/Archives/edgar/data/1615979/000123191926001503/xslF345X06/form4-10272026_101057.xml) | [IPO closing announcement](https://www.globenewswire.com/news-release/2026/10/26/3388557/0/en/index.html) | [IPO/lock-up SEC S-1/A](https://ir.lyciatx.com/node/6736/ixbrl-viewer) | [daily IPO price/volume](https://www.marketbeat.com/stocks/NASDAQ/LYCA/chart/) | [Lycia quote](https://stockanalysis.com/stocks/lyca/).
+### Catalyst, explanation, financing and risks
 
-## 4. NXTC | NextCure | 6.0/10
+**Confirmed catalyst:** On **October 27**, Nova announced receipt of final Alaska permits for its U.S. Department of War-supported antimony project. The approvals permit construction and development toward **targeted 2027 production**. The project is supported by a previously awarded **$43.4M government program**. This is not proof of near-term commercial revenue or completed production. A separate October 21 announcement concerned U.S. infrastructure funding for the Port MacKenzie rail extension, not a direct cash grant of that entire amount to Nova. [Primary SEC-hosted October 27 release](https://www.sec.gov/Archives/edgar/data/1852551/000149315226048631/ex99-1.htm).
 
-**Sector:** Clinical-stage oncology biotechnology. **Buyer:** ADAR1 Capital Management, with Daniel Schneeberger as related reporting person, **one economic buyer**. SEC accepted Oct 27 at **19:36 EDT**. Three code-P open-market buys with no 10b5-1 plan indicated.
+**Possible buyer motivation (speculative):** Directors and the CEO may believe the permitting and strategic-materials milestones reduce project execution risk. The latest director purchase preceded the public permit announcement, but no claim about inside knowledge or causation is warranted.
 
-| Transaction | Shares | Price | Amount |
-|---|---:|---:|---:|
-| Oct 23 | 5,626 | $4.8294 | $27,170 |
-| Oct 26 | 1,672 | $5.0344 | $8,418 |
-| Oct 27 | 3,553 | $5.0953 | $18,104 |
-| **Total** | **10,851** | **$4.9481** | **$53,691** |
+**Financing/dilution review:** The September 30 FY2026 10-K reported approximately **$26.8M cash at June 30**, no production revenue and **substantial doubt about continuing as a going concern** absent additional financing, revenue or cost measures. Outstanding warrants and the need for future project capital remain significant. I did not verify a new equity offering announced in this specific overnight window. Government funding does not eliminate the going-concern warning. [FY2026 10-K summary](https://www.stocktitan.net/sec-filings/NVA/10-k-nova-minerals-corp-files-annual-report-9dc4a243e5b1.html); [SEC filing index](https://www.sec.gov/Archives/edgar/data/1852551/).
 
-All three days are reported together in the newly eligible Form 4. This is genuine multi-day accumulation, but the total dollar commitment is **small**, with no independently verified C-suite participation.
+**Why it could pop today:** An already-moving **small-cap, ~9% ATR, ~12% short-float** critical-minerals stock has a fresh third independent insider filing and an actual regulatory milestone. **Key risk:** The new purchase is just $20K, the stock is already up sharply from the insider's entry, and financing overhang could overwhelm momentum. Watch for a volume-supported hold above the $3.10 broader entry and breakout through the previous day's ~$3.47 high.
 
-**Vehicle:** About **$26.6M market cap**, **3.83M float**, **5.77% short float**, beta **1.27**, ATR(14) **$0.77 / $5.72 prior close = 13.46%**. October 27 closed about **$5.72 (+9.4%)**, following +4.9% Oct 26 and +5.5% Oct 23; Oct 22 fell **12.8%**. An early thin-trading quote around **$5.81** was **17.4% above the weighted insider entry**. This is a real 5%-10%+ percentage vehicle, but execution risk is high.
+---
 
-**Participation:** Oct 27 volume **142,083 / 171,530 = 0.83x**. Latest three sessions average **72,009 / 171,530 = 0.42x**. Positive price action on below-normal three-day participation is not strong confirmation.
+## 3. LBRT | Liberty Energy | 6.4/10
 
-**Catalysts / financing:** The company has SIM0505 and LNCB74 development programs, but no verified imminent clinical readout or regulatory date for Oct 28. The March 2026 10-Q reported **$29.7M** cash/securities, substantial doubt about going concern and need for financing to advance programs beyond H1 2027. No fresh October offering was verified, but financing risk is material. The purchases may reflect a speculative turnaround thesis, **not disclosed**.
+**Sector:** Oilfield services, distributed power generation and data-center energy infrastructure.
 
-**Why it could pop:** Tiny capitalization, 13.5% ATR and repeated specialist-fund buying can amplify a retail-driven biotech move. **Why it could fail:** $54K is not enough conviction to outweigh funding uncertainty, and the stock already traded well above the insider average. Only a low-priority momentum watch, not a high-conviction setup.
+### Newly qualifying Form 4
 
-**Sources:** [SEC Form 4](https://www.sec.gov/Archives/edgar/data/1661059/000194027226000029/xslF345X06/primary_doc.xml) | [Finviz](https://finviz.com/stock?t=NXTC) | [Oct 27 daily volume](https://www.financialcontent.com/quote/NQ%3ANXTC/historical) | [10-Q financing discussion](https://www.marketscreener.com/news/nextcure-quarterly-report-for-quarter-ending-march-31-2026-form-10-q-ce7f5bdadc8cf127).
+Director **Ken Babcock** bought **14,500 shares at $15.40**, investing **$223,300**, via a trust on **October 26**. His Form 4 was accepted **October 28 at 16:24 EDT**, just after the overnight window opened. The filing shows transaction code P, no checked 10b5-1 plan and a weighted execution price spanning roughly $15.395-$15.40. **One newly eligible buyer; no fresh C-suite cluster.** [SEC Form 4](https://www.sec.gov/Archives/edgar/data/1694028/000162828026067906/xslF345X06/wk-form4_1793219078.xml).
 
-## Discarded but notable
+**Broader context:** Director Arjun Murti had bought approximately **$250K in July 2026** and earlier in February. Those purchases are not part of an immediate multi-day October cluster. CFO Michael Stock reported earlier sales under a prearranged trading plan. The newest director purchase is meaningful but should not be misrepresented as coordinated executive accumulation. [LBRT insider history](https://www.insiderflow.io/stock/LBRT).
 
-| Ticker | Newly reported insider signal | Specific reason rejected |
+### Vehicle and participation
+
+- Market cap **~$2.87B**, float **159.66M**, short float **11.40%**, beta **0.72**.
+- ATR(14) **$1.02**, approximately **5.69%** of the **$17.92 early-session quote**. It passes the vehicle gate on **realized volatility**, despite ordinary beta.
+- Completed closes: **$16.07 Oct 26 (+3.08%)**, **$16.94 Oct 27 (+5.41%)**, **$17.61 Oct 28 (+3.96%)**. The latest early quote of ~$17.92 was **+16.4% above the insider's $15.40 entry**.
+- Completed-session volume **4.451M Oct 28**, **3.737M Oct 27**, **3.682M Oct 26** versus Finviz ~**4.12M** average daily: **1-day 1.08x; three-day 0.96x**. Participation is neutral rather than a fresh bullish volume surge.
+
+Sources: [Finviz LBRT](https://finviz.com/stock?t=LBRT); [LBRT completed trading sessions](https://www.thnews.marketminute.com/quote/NY%3ALBRT/historical).
+
+### Catalyst, explanation, financing and risks
+
+**Confirmed:** On October 21, Liberty reported **$1.2B Q3 revenue**, a **$39M net loss**, and a strategic development agreement involving a frontier AI lab and infrastructure partner to deliver **1.2 GW of integrated power services at data-center campuses**. That is a credible AI-power thematic catalyst, not a new October 29 contract. [SEC-hosted earnings release](https://www.sec.gov/Archives/edgar/data/1694028/000169402826000055/q32026-earningsrelease.htm).
+
+**Potential motivation (speculative):** Babcock may view the post-earnings selloff and new data-center power opportunity as mispriced. The purchase occurred after the October 22 **-7.85%** session, before the three-day recovery.
+
+**Financing check:** September 30 balance sheet showed approximately **$119M cash** and **$1.29B combined current and long-term debt**, sharply higher than at year-end 2025. The reviewed release does not establish a fresh October PIPE, ATM draw, warrant issue or common-stock financing, but substantial leverage and capital intensity are genuine risks. [SEC balance sheet](https://www.sec.gov/Archives/edgar/data/1694028/000169402826000055/q32026-earningsrelease.htm).
+
+**Why it could pop today:** A credible director buy, a major AI-power theme, ~11% short float and recent 3%-5% daily gains make another 5% session plausible. **Main concern:** The stock is already ~16% above the insider's entry, with no above-normal three-day participation. This is a lower-conviction momentum continuation watch, not a clean new-entry scalp.
+
+---
+
+## Discarded but notable, and timing exclusions
+
+| Ticker | Headline filing | Decision and specific reason |
 |---|---|---|
-| **AIOK** | **CEO Petros Panagiotidis, 130,000 shares, $1,059,604 at $8.1508**, one insider | **Massive financing/resale risk despite extraordinary volatility:** Oct 20 **$500M F-3 shelf** and **3,206,185 shares registered for resale by CEO-controlled Pani Corp**. Shares already rose **46.5% Oct 27** and around **29% by 09:36 EDT Oct 28** to ~$17.35, **113% above CEO entry**. A newly announced $3.50 special dividend and vessel sale are real catalysts, but a due-bill period, control concentration, a possible ~10M-share long-dated preferred conversion and resale overhang make it a dangerous momentum vehicle rather than a clean insider-driven long. It is a shipping company, not an AI software stock. |
-| **MSM** | Director/large holder Mitchell Jacobson bought **250,000 shares, ~$28.98M** | Genuine large discretionary buy, but mature ~$6.7B industrial distributor, beta ~0.81, ATR ~$4.41 (~3.7% of prior close). Normally too slow for the 5%-10% intraday objective. |
-| **ACN** | Chair/CEO Julie Sweet **$3.001M** plus director Paula Price **$199.8K** | Genuine **two-insider senior cluster**, but a ~$138B mature IT-services company, enormous float, low short float (~3.4%) and no verified same-day extraordinary catalyst. A strong long-term confidence signal is not automatically an intraday percentage-pop vehicle. |
-| **NPB** | Chairman/CEO Charles Williams **$1.537M** across two days, director Carrie Boer **$184.8K**, COO Joseph Long **$49.8K** | Real **three-insider C-suite/board cluster**, roughly **$1.77M**, but conventional bank; fails vehicle hard gate without an exceptional event. |
-| **STC** | CEO Frederick Eppinger **$133K**, director Deborah Matz **$43.9K**, plus other directors | Insurance/title-services company; genuine management/board buying but insufficient intraday percentage-volatility mechanics. |
-| **DAIO** | Red Oak reported **373,133 shares, ~$1M** at $2.68 | **Exclude as financing-linked.** Same Form 4 also reports purchase of **$3M of 5% convertible debentures** in an Oct 20 private placement. Do not treat associated equity as an independent discretionary open-market signal. |
-| **LYCA $35M IPO component** | Venrock 1,944,444 shares at $18 | **Excluded from LYCA's qualifying signal** because this is an IPO subscription. The $1.059M Oct 27 market purchase remains included. Also exclude code-C preferred conversions. |
-| **CRBG** | Nippon Life **$20.23M** | Mature conventional insurer; fails volatility gate. |
-| **CTEV** | Ares-related **$1.68M** duplicated across two Form 4 presentations | Do not double-count identical economic purchases; not prioritized over qualifying high-volatility vehicles. |
-| **PDI, LEO, DSM, GRX, NMCO, NUV, NXP, ECF, KIO** | Fund trustees / institutional buyers | Closed-end funds, poor 5%-10% intraday percentage vehicles. |
-| **UXIN, BBT, BHRB, INM** | Small filings | Too small and/or slow without an independent immediate catalyst. |
+| **GOLD** | Tether-related 10% owner purchased **100,000 shares, ~$3.927M** across Oct 26-28; average ~$39.27 | **Vehicle gate fail:** beta **0.61**, ATR **$1.27/~$39 = 3.25%**, recent daily volatility only ~2%-3%; even ~17.7% short float and Nov 4 earnings do not create a confirmed immediate 5%-10% catalyst. Strong repeat accumulation, poor *today* percentage-pop mechanics. [Form 4](https://www.sec.gov/Archives/edgar/data/1591588/000110465926119719/xslF345X06/tm2628406-1_4seq1.xml) |
+| **TFC** | CEO Michael Lyons bought **25,000 at $48.362, ~$1.209M**, filed Oct 29 09:40 EDT | **Vehicle gate fail:** conventional large-cap bank. Strong executive conviction alone does not rescue low-percentage-volatility mechanics. [Form 4](https://www.sec.gov/Archives/edgar/data/92230/000153457426000018/xslF345X06/f4_a1eus00000anuuzmad-live.xml) |
+| **ACTU** | CEO Daniel Schmitt apparently bought **140,844 shares, $50K**, filed Oct 29 09:35 EDT | **Not qualifying:** Form 4 footnotes explicitly state the shares and **70,422 warrants** were obtained **in connection with the October 28 public offering**. The offering issued **30.99M shares plus 15.49M warrants**. Financing-linked purchase, heavy immediate dilution. [Form 4](https://www.sec.gov/Archives/edgar/data/1318470/000168316826008147/xslF345X06/ownership.xml); [offering 8-K](https://www.stocktitan.net/sec-filings/ACTU/8-k-actuate-therapeutics-inc-reports-material-event-f72546a1ea52.html) |
+| **LONA** | Apparent **$15.62M** purchase by David Portman, filed Oct 28 20:43 EDT | **Not qualifying:** the Form 4 footnote describes **exercise/assignment of pre-existing Sermonix warrants**, not a discretionary market buy. Finviz's headline price/value is misleading. [Form 4](https://www.sec.gov/Archives/edgar/data/1620463/000212618626000002/xslF345X06/primary_doc.xml) |
+| **BPRE** | Director Ramin Kamfar, **~$2.23M** | **Vehicle gate fail:** real-estate investment structure, insufficient evidence of large daily percentage volatility. |
+| **CRBG** | Nippon Life, **~$6.39M** | **Vehicle gate fail:** conventional insurer, not an explosive intraday stock. |
+| **BBT** | Several directors, including a new **$96.7K** buy | **Vehicle gate fail:** conventional bank, despite genuine cluster characteristics. |
+| **HXL** | Director Neal Keating, **$242K** | **Vehicle gate fail:** mature aerospace materials, ATR **~3.8%**, short float **~6.2%**, no extreme same-day catalyst. |
+| **NBIS / API** | Small director/CEO buys shown in today's feed | Prior reports documented automatic-plan activity; **these latest Form 4 plan flags were not independently rechecked** in this run. Do not treat them as validated discretionary signals. The amounts are also modest relative to the stocks' size. |
+| **UXIN / THM** | Small CEO purchases | Weak standalone conviction, no verified immediate catalyst that overrides the structural gate. |
+| **DSM / GF / GRX / ECF** | Fund-related accumulation | Closed-end funds; structurally poor percentage-pop vehicles. |
+| **HYMC / RCT** | HYMC director ~$50K; RCT director ~$425K | **Outside today's filing window:** Finviz shows **15:56 EDT** and **15:52 EDT**, respectively, on October 28, *before* the required 16:00 EDT cutoff. Do not rank them as fresh today. |
+| **XBIT** | John Simard ~$711K | **Outside today's filing window:** accepted October 28 **14:37 EDT**. Additionally, the purchase was reportedly **from another insider, Thorpe McKenzie**, not a conventional open-market execution. [Filing discussion](https://www.stocktitan.net/sec-filings/XBIT/form-4-x-biotech-inc-insider-trading-activity-ddb1ca8d041e.html) |
 
-**AIOK details worth checking before *any* trade:** The Oct 20 F-3 is a *registration*, not proof that $500M was sold or that Pani has already sold 3.206M shares. The CEO's Oct 23 Form 4 is a genuine code-P open-market buy. Nevertheless, the possibility of future registered resale of roughly three-quarters of existing common shares overwhelms the filing as a clean bullish signal. The special dividend has a Nov 2 record date, expected Nov 25 payment, and expected Nov 26 ex-date; Nasdaq due bills mean the Nov 2 record date is **not** a simple dividend-capture cutoff. Toro retained 5M Series A convertible preferred shares with conversion rights ordinarily starting on the third anniversary or earlier on certain change-of-control events. The early Oct 28 price and huge volume reflect a speculative squeeze/mania, not evidence that the shelf has been neutralized. The stock's Oct 27 volume was ~30.30M, compared with a short, listing-to-date average around 3.88M, or ~7.8x; this is **not** a valid 3-month comparison.
+**Timestamp integrity:** Finviz's displayed Form 4 times above are Eastern. If using UTC acceptance times from third-party filing databases, subtract **four hours** on October 28-29, 2026 (New York is still EDT). For example, LBRT **20:24 UTC = 16:24 EDT**, eligible. HYMC at **15:56 EDT** is ineligible even though the transaction occurred October 28. Never count the transaction date alone as the filing-window date.
 
-**AIOK primary and context:** [CEO Form 4](https://www.sec.gov/Archives/edgar/data/2095591/000114036126040923/xslF345X06/form4.xml) | [F-3 registration text](https://www.stocktitan.net/sec-filings/AIOK/f-3-ai-okto-corp-foreign-issuer-shelf-registration-6b5c7d8fe535.html) | [October spin-off 6-K](https://www.stocktitan.net/sec-filings/AIOK/6-k-ai-okto-corp-current-report-foreign-issuer-42741791a0b3.html) | [special dividend issuer release](https://www.nasdaq.com/press-release/ai-okto-corp-declares-special-dividend-350-share-2026-10-23) | [Oct 27 historical volume](https://stockanalysis.com/stocks/aiok/history/) | [early Oct 28 quote](https://finviz.com/stock?t=AIOK).
+## Final decision
 
-## Decision summary
+**#1 TTMI:** Best verified fresh insider *cluster* and strongest combination of buyer seniority, 9%-10% realized daily range, above-normal recovery participation and a clear earnings-driven dislocation. But recent **company buybacks**, a debt-heavy acquisition program and a sharp recovery complicate the bullish reading.
 
-**SRRK is the best balanced insider-plus-percentage-pop setup:** $12M director-controlled open-market accumulation, 22% short float, approved neuromuscular product and an early positive response. The missing piece is abnormal *positive* volume. **LRN is the conviction-driven exception:** $12.18M from a director and high short interest, but a lower-volatility underlying vehicle. **LYCA is a high-variance IPO reversal:** $1.059M fresh market buying is real, but do not include the $35M IPO allocation as open-market conviction; falling volume and a large premium to the offering price are important. **NXTC is the low-conviction microcap watch:** excellent volatility, weak buying size and serious funding risk.
+**#2 NVA:** Better small-cap event sensitivity and an independently confirmed permitting milestone. Its **three-person October cluster** is real, but only **$20K is newly disclosed today**, and balance-sheet risk is serious.
 
-**No 9/10 trade today.** Avoid chasing opening spikes merely because a filing was noticed. Watch whether actual buying volume confirms the catalyst and whether the stock holds above meaningful recent levels. This is a speculative intraday screening report, **not personalized financial advice**.
+**#3 LBRT:** Plausible 5% vehicle and a real AI-power development, but a single director filing and neutral three-day participation make it materially weaker.
 
-**Source index:** [Finviz latest insider filings](https://finviz.com/insidertrading?tc=1), [SEC Form 4: SRRK](https://www.sec.gov/Archives/edgar/data/1253170/000125317026000014/xslF345X06/form4-10272026_111033.xml), [SEC Form 4: LRN](https://www.sec.gov/Archives/edgar/data/1157408/000121390026113031/xslF345X06/ownership.xml), [SEC Form 4: LYCA](https://www.sec.gov/Archives/edgar/data/1615979/000123191926001503/xslF345X06/form4-10272026_101057.xml), [SEC Form 4: NXTC](https://www.sec.gov/Archives/edgar/data/1661059/000194027226000029/xslF345X06/primary_doc.xml), [SEC Form 4: DAIO](https://www.sec.gov/Archives/edgar/data/351998/000132553326000012/xslF345X06/primary_doc.xml).
+**No forced trade:** None of these filings guarantees a pop. Watch opening liquidity, sustained volume, bid/ask spread and whether the stock holds above meaningful insider-entry/reference levels. High volume on renewed selling should be interpreted negatively, not as automatic bullish accumulation.
+
+### Primary source directory
+- [Finviz insider-trading feed](https://finviz.com/insidertrading?tc=1)
+- [TTMI CEO Form 4](https://www.sec.gov/Archives/edgar/data/1116942/000119312526436562/xslF345X06/ownership.xml)
+- [TTMI director Form 4](https://www.sec.gov/Archives/edgar/data/1116942/000119312526436557/xslF345X06/ownership.xml)
+- [TTMI Oct 28 10-Q](https://investors.ttm.com/sec-filings/all-sec-filings/content/0001193125-26-435875/ttmi-20260928.htm)
+- [NVA director Form 4](https://www.sec.gov/Archives/edgar/data/1852551/000122520826008548/xslF345X06/doc4.xml)
+- [NVA October 27 permitting announcement, SEC exhibit](https://www.sec.gov/Archives/edgar/data/1852551/000149315226048631/ex99-1.htm)
+- [LBRT director Form 4](https://www.sec.gov/Archives/edgar/data/1694028/000162828026067906/xslF345X06/wk-form4_1793219078.xml)
+- [LBRT Q3 results and balance sheet, SEC exhibit](https://www.sec.gov/Archives/edgar/data/1694028/000169402826000055/q32026-earningsrelease.htm)
+
+*Disclaimer: This is a research screen for speculative intraday trading signals, not personalized investment advice, a prediction of future returns, or a guarantee of liquidity or execution. Filing timestamps, live quotes and volume can update after screening.*
