@@ -1,97 +1,87 @@
-# Insider Buy Pop Watch | Friday, November 6, 2026
+# Insider Buy Pop Watch | Monday, November 9, 2026
 
-**Screen:** Thursday, November 5, 2026 after 16:00 EST to Friday, November 6, approximately 08:45 EST. Both New York and Copenhagen are on standard time. All qualifying filings were checked against this ET window. **Purpose:** rank the likelihood of a large positive intraday percentage move, not long-term quality or insider confidence alone.
+**Window:** Friday November 6, 16:00 EST to Monday November 9, approximately 08:45 EST. Copenhagen date November 9. **Objective:** likelihood of a large *positive intraday percentage move*, not long-term value or dollar-size ranking. Scores are qualitative /10, not calibrated probabilities. Latest completed trading day: Friday November 6. Finviz was checked at the beginning and refreshed before publication.
 
 ## Ranked actionable candidates
 
-| Rank | Ticker | Fresh verified insider signal | Vehicle quality | Nov 5 volume / recent 3-day vs normal | Score |
+| Rank | Ticker | Fresh eligible insider signal | Vehicle / percentage-move quality | Friday volume / 3-day versus ~3-month normal | Score |
 |---|---|---|---|---|---|
-| 1 | **GLXY** | CEO Michael Novogratz: **760,000 shares, $9,864,346, $12.9794 WAP** | **Excellent:** crypto/AI data centers, 14% ATR indication, ~18% short float, -17% then -7% sessions | **2.68x / 2.18x**, negative distribution warning | **8.2/10** |
-| 2 | **COUR** | Pale Fire Capital: **8,355,251 shares, ~$31.45M, $3.7642 WAP**, one economic buyer | **Strong event-driven:** -25.5% earnings session, +9.2% rebound, ~10% short float | **1.68x / 2.10x**, mixed/negative | **7.2/10** |
-| 3 | **ETRA** | OrbiMed: **472,571 shares, ~$3.605M, $7.6285 WAP**, one economic buyer despite two Form 4 reporters | **Excellent volatility, weaker signal:** biotech, recent +10.4% and -8.5% sessions | **529K Nov 5 / 3-day ~631K**; reliable 3-month baseline unavailable | **6.7/10** |
-| 4 | **AGMB** | Director David Epstein: **15,000 shares, $103,500, $6.90 WAP** | **High-risk biotech:** recent wide daily ranges, limited liquidity | **33.5K Nov 5 / 3-day ~51.3K**; baseline uncertain | **6.2/10** |
+| 1 | **KOD** | Baker Bros., one economic buyer, **247,090 shares, $24.34M at $98.51** | **Excellent:** biotech, Friday +9.1%, Thursday -7.6%; $91–100 Friday range | **1.05M / 1.05M shares**; comparable 90-day baseline not independently established | **8.0** |
+| 2 | **LXRX** | CEO Michael Exton, **30,064 shares, $49,999 at $1.6631** | **Strong:** biotech, Friday +10.6%, 5.9% ATR, 12% short float on one float estimate | **1.33x / 1.15x** versus 2.70M 90-day average | **7.6** |
+| 3 | **MDGL** | Baker Bros., one economic buyer, **91,806 shares, $35.02M at $381.49** | **Good event-driven:** 5.9% ATR, sharp post-earnings reversal, but $9B+ cap | **2.97x / approximately 3x**; 3-day ratio indicative, not independently reconstructed | **7.2** |
+| 4 | **AUDC** | CEO Shabtai Adlersberg, **15,939 shares, $126,140 at $7.914** | **Conditional:** small cap, -21.8% earnings session, 0.96 beta, low short float | **1.13x / 1.77x** versus 113,273 90-day average | **6.6** |
 
-**Scoring caveat:** All four are conditional watches. Elevated volume in GLXY and COUR largely accompanies price declines and is *not* bullish confirmation. No live 08:45 EST premarket price/volume was reliably verified, so prices below are November 5 completed-session closes. Scores are relative rankings, not estimated probabilities.
+**Caution:** KOD's and MDGL's 2–3-day participation comparisons are incomplete against verified 90-day baselines. No reliable same-time premarket volume comparison was obtained; do not interpret the last closing prices as live quotes.
 
-## 1. GLXY: Galaxy Digital
+## 1. KOD: Kodiak Sciences, specialist accumulation plus extreme realized movement
 
-**Industry:** digital assets, trading, crypto infrastructure and AI data centers. **Fresh filing:** CEO, director and controlling shareholder **Michael Novogratz**, via an entity he controls, bought **528,757 shares at $12.694** and **231,243 shares at $13.632**, total **760,000 shares for $9,864,345.93** and **$12.9794 weighted-average entry**. SEC acceptance **November 5, 16:46 EST**, confirmed independently by the SEC record and its 21:46 UTC acceptance time (UTC minus five hours = EST). Form 4 code **P**; no 10b5-1 checkbox. This is **one economic buyer**, not an executive cluster. The filing also reports existing direct stock/RSUs, which must not be counted as new purchases. No comparable recent multi-day discretionary open-market cluster was established.
+**New filing:** Baker Bros. Advisors and affiliated funds filed Friday November 6 at **16:55 EST**, reporting November 4 and 5 discretionary code-P purchases. November 4: **160,658 shares**; November 5: **86,432 shares**. Both at **$98.51**. **Total 247,090 shares / $24,340,836 / $98.51 weighted entry.** Multiple legal reporters and two funds are **one controlled economic buying group**, not an independent executive cluster. Baker-affiliated Felix Baker has board representation. SEC primary source: https://www.sec.gov/Archives/edgar/data/1087939/000119312526451994/xslF345X06/ownership.xml
 
-**Vehicle:** November 5 close approximately **$12.98**, essentially **flat versus insider entry**. November 4 closed $13.97 after a ~17% decline; November 5 lost another ~7%. Estimated market capitalization ~$2.5B, beta ~3.9, indicative ATR around 14% of price, and October 15 short interest **34.6M shares**, around 18% of one float estimate (different vendors report materially different float denominators). A 5-10% day is structurally credible. November 5 volume ~**17.5M** versus ~**6.54M** 90-day normal = **2.68x**; latest three sessions 17.5M, 16.39M, 8.96M average ~14.28M = **2.18x**. This is **distribution volume**, not confirmed buying.
+**Broader pattern:** Baker funds bought about 1.94 million KOD shares in September at approximately $79.63–81.92, making November's purchases repeat specialist accumulation at a materially higher price. This earlier buying is not newly eligible today. Do not merge the September dollars into today's fresh amount. The November entry is ~0.8% below Friday's $99.30 close.
 
-**Context/catalyst:** October 27 Q3 release: $323M net income, $455M adjusted EBITDA, $4.9B cash/stablecoins/Treasuries; Helios data-center segment $69M quarterly adjusted EBITDA, 133 MW delivered to CoreWeave, Phase II deliveries expected starting Q2 2027. Board approved another $200M repurchase authorization. The CEO may view the 40%+ monthly decline as excessive; that is speculation, not an announced catalyst. **Financing check:** $3.5B secured notes to fund Helios Phase II; debt and capital intensity are substantial. No new overnight common-stock PIPE identified in reviewed primary release. **Risks:** crypto sensitivity, leverage and AI infrastructure valuation pressure, persistent selling, recent director sale, gap risk. **Pop thesis:** a nearly $10M genuine founder/CEO purchase at the current price could trigger a high-beta short-covering rebound, but require a real positive reversal in price and volume.
+**Vehicle:** Friday Nov 6 closed **$99.30 (+9.10%)**, after Thursday **$91.02 (-7.60%)**. Friday range $91.00–100.17, a >9% high-low span. Wednesday $98.51. Three completed sessions averaged about **1.05M shares** (1.004M, 1.101M, 1.050M); 90-day baseline was not independently verified, so no fabricated relative-volume ratio. The stock is an exceptionally responsive clinical biotech. Its short-float and exact ATR% were not independently verified.
 
-Primary SEC: https://www.sec.gov/Archives/edgar/data/1380615/000138061526000013/xslF345X06/wk-form4_1793915203.xml
-Company Q3: https://galaxydigital.gcs-web.com/news-releases/news-release-details/galaxy-announces-third-quarter-2026-financial-results
-Volume: https://www.financecharts.com/stocks/GLXY/summary/volume
-Volatility/shorts: https://siliconfloor.com/stocks/glxy/technicals
+**Catalysts and risks:** Kodiak is an ophthalmology drug developer with clinical trial and regulatory event sensitivity. A recent Jefferies price-target cut to $112 from $156 is a caution, not a bullish catalyst. No verified November 9 binary clinical readout. Baker's concentration/ownership may make the purchase a portfolio decision, not independent management conviction. The filing's fixed $98.51 price for all lines is unusual enough that the transaction context deserves continued monitoring, although Form 4 codes P and the fund ownership descriptions support reported purchases. No specific new registered direct/PIPE was established from the sources checked; this is **not** proof that no dilution risk exists.
 
-## 2. COUR: Coursera
+**Why it could pop:** Huge specialist capital commitment combined with verified 7–9% daily moves and Friday's positive reversal. **Do not chase a gap without volume and sustained price strength above Friday's $100.17 high.**
 
-**Industry:** online education/software. **Fresh filing:** 10% shareholder **Pale Fire Capital** and affiliated entities, **one economic buyer**, purchased **2,526,702 shares at $3.7209 Nov 3**, **2,698,400 at $3.8537 Nov 4**, and **3,130,149 at $3.7220 Nov 5**. The newly eligible Form 4 was accepted **November 5, 17:26 EST**. Total **8,355,251 shares**, approximately **$31,450,844**, weighted-average **$3.7642**. The Form 4 explicitly codes all three as **P**; no automatic-plan box. Do not multiply the purchases by the five jointly reporting persons. This is meaningful **multi-day accumulation**, not a C-suite cluster. Pale Fire also made substantial earlier purchases, but those are excluded from the precisely calculated fresh filing total.
+Sources: https://finance.yahoo.com/quote/KOD/history/ ; https://www.quantisnow.com/articles/baker-bros-buys-24-3m-of-kodiak-at-98-51-20-above-its-september-price-as-jefferies-cuts-target-to-112
 
-**Vehicle:** November 5 close **$3.75-$3.77** across vendors, approximately **-0.4% to +0.2%** versus insider entry. Market capitalization about $1.07B, beta ~1.25, short float around 10%. October 30 fell **25.54%**, November 2 rose **9.22%**, November 4 rose **5.12%**. The stock is event-sensitive enough to clear the gate despite a normally quieter education sector. November 5 volume **10.77M** vs ~**6.41M** average = **1.68x**; latest three sessions 10.77M/12.71M/16.94M average ~13.47M = **2.10x**. Selling remains a concern.
+## 2. LXRX: Lexicon Pharmaceuticals, CEO purchase into positive momentum
 
-**Catalyst/context:** October 29 earnings triggered the October 30 collapse; a large specialist investor may be positioning for a reversal, which is speculation. No verified near-term scheduled binary catalyst. **Financing check:** No specific fresh equity offering/ATM confirmed in reviewed sources; this is not a certification that none exists. **Risks:** poor earnings reception, AI disruption of online education, large existing float, fund ownership concentration, continued institutional distribution. **Pop thesis:** extraordinary ~$31M real market accumulation near current price could attract attention if the post-earnings stock stabilizes. Require positive tape and volume confirmation.
+**New filing:** CEO and director **Michael Exton, Ph.D.** bought **30,064 common shares at $1.6631 weighted average**, **$49,999**, November 6. SEC filing accepted Monday November 9 at **08:13 EST**. Genuine code-P, no automatic plan indicated, direct ownership; **one insider**, not a cluster. Post-buy direct ownership **328,496 shares**, so the purchase increases direct holdings by ~10.1%. No additional recent independent senior-management purchase was confirmed. Primary: https://www.sec.gov/Archives/edgar/data/1062822/000106282226000130/xslF345X06/form4.xml
 
-SEC: https://www.sec.gov/Archives/edgar/data/1651562/000092189526002941/xslF345X06/form413335011_11052026.xml
-Prices/volume: https://stockanalysis.com/stocks/cour/history/
-Shorts: https://www.chartmill.com/stock/quote/COUR/ownership/short-interest
+**Vehicle and volume:** Friday Nov 6 closed **$1.78 (+10.56%)**, 7.0% above the CEO's $1.6631 entry; Thursday +8.78%, Wednesday +1.37%. Friday high/low $1.84/$1.61 (14% high-low relative to low). ATR approximately **5.9%**; beta approximately **1.0**. One vendor estimates short float **12.2%** and another ~6%, reflecting inconsistent float denominators. Friday volume **3,601,340 / 2.70M 90-day average = 1.33x**. November 4–6 mean (1.950M, 3.796M, 3.601M) **3.116M = 1.15x**. Friday's positive price/above-normal volume is confirmation, but the two-day rally is extended.
 
-## 3. ETRA: Electra Therapeutics
+**Confirmed catalyst:** November 5 quarterly update: Phase 3 SONATA-HCM topline expected **Q1 2027**, ZYNQUISTA NDA resubmission planned **Q1 2027**, and two sotagliflozin presentations at the **November 6–9 American Heart Association scientific sessions**. This last event is contemporaneous, but a presentation is not equivalent to new pivotal trial results. Cash/investments September 30 **$183.2M**. Historical share count has grown materially, so dilution/financing remains a structural risk; no fresh offering was verified in the reviewed November 5 release. Sources: https://lexiconpharma.gcs-web.com/news-releases/news-release-details/lexicon-pharmaceuticals-reports-third-quarter-2026-financial ; https://stockanalysis.com/stocks/lxrx/history/ ; https://chartexchange.com/symbol/nasdaq-lxrx/
 
-**Industry:** clinical-stage biotech. **Fresh filing:** OrbiMed-controlled investment vehicles, reported by director **Carl Gordon** and **OrbiMed Advisors**. **Do not double count their mirrored Form 4 filings.** Actual market transactions: November 3 **245,113 shares**, November 4 **71,367**, November 5 **156,091**. Combined **472,571 shares**, approximately **$3,605,007**, **$7.6285 weighted-average entry**. Form 4 accepted November 5 around **17:39-17:47 EST**. All ten transaction lines are code **P** purchases by two OrbiMed funds, but they represent **one controlling investment organization**, not ten separate buys or two independent directors. No 10b5-1 checkbox. Newly eligible filing covers the three-day accumulation; earlier unrelated IPO allocations are not counted.
+**Why it could pop:** The CEO purchased after a two-day upside reversal in a biotech with a live scientific conference. Watch for a confirmed hold above $1.78 and break of Friday's $1.84 high; the small dollar commitment and very large share count reduce conviction.
 
-**Vehicle:** November 5 close **$7.29**, approximately **4.4% below** OrbiMed's three-day weighted entry. Recent completed sessions: Nov 3 **+10.40%**, Nov 4 **-1.24%**, Nov 5 **-8.53%**. Nov 5 volume **529,177**, latest three-day average **~631,183**. No reliable three-month baseline exists because trading began in September; ratios to 3-month normal are **N/A**, not fabricated. The November 5 intraday range $6.96-$7.99 was ~14% of the closing price. Short interest and float not independently verified.
+## 3. MDGL: Madrigal Pharmaceuticals, $35M repeat biotech specialist purchase
 
-**Catalyst/context:** Lead program **ipsoprubart (ELA026)** for sHLH and T-cell malignancies, with active clinical development; no confirmed immediate November 6 trial readout. IPO in September created new public supply and lock-up considerations. **Financing check:** recent IPO is the key supply event; no separately verified November PIPE. **Risks:** persistent downtrend, recent IPO selling, single institutional buyer, trial and cash-burn risk. **Pop thesis:** sizeable real open-market accumulation by a specialist healthcare investor in a highly volatile newly listed biotech can support a sharp reversal, but current price/volume action is negative.
+**New filing:** Baker Bros. affiliated entities, represented on the board by Julian Baker and Raymond Cheong, reported November 6 at **17:30 EST**. November 4: **15,666 shares / $5,760,602 / $367.71**; November 6: **76,140 shares / $29,262,431 / $384.32**. Combined **91,806 shares / $35,023,033 / $381.49 weighted entry**. SEC primary code-P transactions; one investment group, not multiple independent executives. Friday close **$399.63**, **+4.76% versus combined entry**. Earlier August 2025 purchases of approximately $61.9M indicate historical repeat buying but are not today's fresh signal. Source: https://www.sec.gov/Archives/edgar/data/1087939/000119312526452132/xslF345X06/ownership.xml
 
-SEC: https://www.sec.gov/Archives/edgar/data/1282930/000094787126000986/xslF345X06/ownership.xml
-History: https://stockanalysis.com/stocks/etra/history/
-Clinical background: https://www.globenewswire.com/news-release/2026/05/05/3287473/0/en/electra-therapeutics-announces-first-patient-dosed-in-phase-1-study-of-ipsoprubart-ela026-in-t-cell-malignancies.html
+**Vehicle and participation:** Friday range **$378.28–401.61**, close **$399.63 (-0.12%)**; 14-day ATR **$23.50 / 5.88%**; capitalization ~$9.2B, substantially larger than preferred micro/small-cap vehicles. Friday volume **1.086M / 366,036 average = 2.97x**. Elevated volume accompanied a slightly negative close and should **not** be automatically scored bullish. The 3-day average relative to a verified 90-day baseline was not fully reconstructed.
 
-## 4. AGMB: AgomAb Therapeutics
+**Catalyst:** Nov 3 Q3 results included Rezdiffra net sales of approximately **$431.3M**, up 50% year over year, and first reported quarterly profitability. Stock nevertheless sold off sharply after earnings. A whistleblower-related lawsuit alleging retaliation over internal data/reporting concerns was disclosed in the quarterly filing; company disputes allegations. This is a meaningful risk and not a confirmed accounting violation. No fresh post-earnings financing transaction was verified in the sources reviewed. Sources: https://www.filingexplorer.com/news/mdgl-insider-trading-nov-2026 ; https://swingtradebot.com/equities/MDGL
 
-**Industry:** clinical-stage biotech. **Fresh filing:** director **David R. Epstein** purchased **15,000 shares at $6.90**, total **$103,500** on November 5; filing accepted **November 6, 06:39 EST**, SEC code **P**. One independent director; no fresh C-suite cluster or verified multi-day accumulation. The latest purchase increases his reported position from 25,000 to 40,000 shares, **60%** on that basis.
+**Why it could pop:** Exceptionally large institutional specialist buying into a volatile post-earnings reversal, but the $9B size and distribution warning lower the percentage-pop ranking below KOD/LXRX.
 
-**Vehicle:** November 5 close approximately **$6.52**, **5.5% below** the insider entry. Daily range $6.49-$7.46 (~15% of closing price); November 5 decline **4.8%**. Latest volume approximately **33.5K**, versus 80K November 4 and 40K November 3, a three-day average ~51.3K. Three-month normal and premarket participation were not independently verified. Thin liquidity amplifies both upside and execution risk.
+## 4. AUDC: AudioCodes, CEO buying after a 22% earnings collapse
 
-**Catalyst/context:** clinical biotech with no independently verified immediate binary catalyst. **Financing:** IPO-era supply/cash-runway diligence remains necessary; no fresh financing event was confirmed in this screen. **Risks:** weak volume, wide spreads, clinical failure, director rather than executive signal. **Pop thesis:** meaningful percentage increase in director holdings plus thin, volatile trading, but **lower conviction** without renewed volume.
+**New filing:** President and CEO **Shabtai Adlersberg** bought **10,000 shares / $79,389 on Nov 5**, and **5,939 shares / $46,751 on Nov 6**, reported Monday Nov 9 **07:55 EST**. Combined **15,939 shares / $126,140 / $7.914 weighted average**. One CEO, repeat buying across two days within a single newly eligible filing; not a multi-person cluster. SEC filing linked by Finviz: https://finviz.com/insidertrading?tc=1
 
-SEC: https://www.sec.gov/Archives/edgar/data/1445826/000144582626000018/xslF345X06/primary_doc.xml
-History: https://finance.yahoo.com/quote/AGMB/history/
+**Vehicle and volume:** Friday close **$7.85**, ~0.8% below CEO entry. Wednesday Nov 4 **-21.84%**, Thursday **-5.44%**, Friday **+2.61%**. 90-day volume baseline **113,273**. Friday **127,684 = 1.13x**; November 4–6 average **200,683 = 1.77x**. But Wednesday's abnormal volume accompanied the severe decline, not bullish accumulation. Market cap ~$183M, float ~13.5M, beta ~0.96, short interest ~2%; recent realized movement, rather than beta or squeeze, is the only strong vehicle justification.
+
+**Catalyst/financing:** November 4 earnings: $64.1M quarterly revenue (+4.2%), $3.6M GAAP net income, voice AI business momentum. The firm repurchased $15.1M of its own shares during Q3. No fresh dilutive placement was identified in its earnings announcement, but cash/investments declined to $47.1M from $75.7M at year-end. Source: https://www.audiocodes.com/news/press-releases/financial/audiocodes-reports-third-quarter-2026-results ; https://chartexchange.com/symbol/nasdaq-audc/
+
+**Why it could pop:** CEO bottom-fishing after an exceptional one-day dislocation in a $183M tech company. **Weak short-squeeze structure, small incremental CEO purchase and selling-driven volume make this a conditional reversal watch only.**
 
 ## Discarded but notable
 
-| Ticker | Reported signal | Decision |
+| Ticker | Signal | Rejection |
 |---|---|---|
-| **LYEL** | ARCH ~**$25M**, duplicated across two related filers | **EXCLUDE:** company's November 4 release confirms an **$80M private placement at $10.77**. Not an open-market signal. |
-| **MTDR** | Four senior executives including president and CFO, ~**$223.7K**, 4,315 shares, ~$51.84 WAP | **EXCLUDE from percentage-pop ranking:** genuine impressive executive cluster but mature oil producer with less compelling 5-10% daily mechanics. Watch as sector reversal only. |
-| **BXMT** | CEO ~$1.035M plus director ~$114K | **EXCLUDE:** mortgage REIT/slow vehicle despite strong executive cluster. |
-| **SYNX** | CEO and VP, two days each, ~$39.4K nominal | **EXCLUDE:** overlapping family/beneficial ownership and previously documented ATM/shelf dilution; do not count as four independent insiders. |
-| **PMN** | Director Eugene Williams $90,895 | **EXCLUDE:** severe recent clinical-sector readthrough/distribution and financing concerns outweigh the signal. |
-| **LBRT** | CEO + chief accounting officer ~$422K | **EXCLUDE:** conventional oilfield-services vehicle, no immediate exceptional percentage catalyst verified. |
-| **FLOC** | Director ~$293K | **EXCLUDE:** low-volatility vehicle not verified as capable of 5-10% day. |
-| **MTUS** | Director ~$166K | **EXCLUDE:** conventional steel producer. |
-| **BOLD** | Tang ~11,162 shares over three days, ~$26.8K | **EXCLUDE:** modest buying and merger/financing complexities. |
-| **AWRE** | CEO ~34,511 shares over two days, ~$32.4K | **EXCLUDE:** very small commitment, penny-stock liquidity and financing diligence unresolved. |
-| **SHEN** | CEO + SVP ~$14.9K | **EXCLUDE:** tiny purchases and telecom vehicle. |
-| **CRBG, CBAN, SYY, CLX, GRX, MXE** | Various purchases | **EXCLUDE:** insurers, banks, slow consumer stocks and closed-end funds. |
-| **TTMI** | Director ~$632K | **INELIGIBLE:** filing at **13:59 EST Nov 5**, before overnight cutoff, despite semiconductor exposure. |
-| **LBTYA/LBTYK** | CEO + CTO ~$3.03M | **INELIGIBLE:** filings at **09:20 EST Nov 5**, before cutoff; two share-class ticker listings do not imply four purchases. |
-| **TRAD** | CEO/CFO apparent $2.12M | **EXCLUDE:** transaction dates in February/April, not fresh purchases despite newly reported filing. |
+| **ANVS** | Director Michael Hoffman apparent **$5M** at $1 | **Financing-linked**: November 5 $21M public offering, shares plus 1-for-1 $1 warrants, not discretionary open market. SEC Form 4 footnote explicitly identifies bundled warrants. |
+| **NTHI** | CEO Amir Heshmatpour **70,000 shares / $230,510 / $3.293**, two days | **Financing override**: Nov 5 10-Q states substantial going-concern doubt despite PIPE, registered direct and ATM proceeds. Strong vehicle (float ~6.35M, Friday +9.1%), but supply risk overwhelms signal. |
+| **API** | CEO Bin Zhao 28,665 ADS / ~$123K | Purchases tied to an established **Rule 10b5-1 plan**; not discretionary. |
+| **MTDR** | Chairman/CEO Joseph Foran $256.8K plus director Paul Harvey $26.4K; recent other senior officers bought | Genuine management cluster, but mature oil producer lacks compelling 5–10% percentage-move mechanics. |
+| **KMI** | Executive chairman Richard Kinder **$14.99M** | Mature pipeline company; slow vehicle despite extraordinary dollar value. |
+| **CVS** | EVP/Group President Prem Shah **$2.00M** | Mature large-cap healthcare retailer, insufficient vehicle advantage. |
+| **TSM** | Director Michael Splinter **$299.9K** | Huge mature semiconductor foundry; small insider purchase unlikely to produce 5–10% move. |
+| **GFS** | Director Ganesh Moorthy **$93.7K** | Modest director signal in mature semiconductor foundry. |
+| **DGICA** | Donegal Mutual ~$621.5K over two dates | Conventional insurer, slow vehicle. |
+| **JOF/MXE/ECF/DSM/GRX** | Saba Capital purchases | Closed-end funds, structurally poor percentage-pop vehicles. |
+| **FICO** | Tiny 8-share trades, including historical dates | De minimis/old transactions; mature large cap. |
+| **FFAI** | One share at $100 | De minimis and unusual transaction, no meaningful signal. |
 
-**MTDR calculation:** CFO 2,000/$105,140; accounting officer 500/$25,760; president 915/$46,473; reservoir engineering EVP 900/$46,332. Total **4,315 shares, $223,705, weighted entry $51.8436**. The CEO's earlier 2026 purchases are historical accumulation, not fresh overnight transactions. Company Q3 reported record production and raised annual dividend, but this is insufficient to override the slower vehicle classification.
-
-**LYEL primary financing evidence:** https://www.globenewswire.com/news-release/2026/11/04/3395403/0/en/lyell-immunopharma-announces-80-million-private-placement-to-advance-ronde-cel-toward-planned-bla-submission.html
-**MTDR primary earnings:** https://matadorresources.gcs-web.com/news-releases/news-release-details/matador-resources-company-reports-third-quarter-2026-results
+ANVS primary: https://www.sec.gov/Archives/edgar/data/1290208/000110465926123905/xslF345X06/tm2629219-1_4seq1.xml ; offering: https://www.stocktitan.net/sec-filings/ANVS/8-k-annovis-bio-inc-reports-material-event-852806f0c6be.html . NTHI primary: https://www.sec.gov/Archives/edgar/data/1443035/000121390026117150/xslF345X06/marketforms-74251.xml ; financing/going-concern: https://equibles.com/stocks/nthi/summary . API trading plan: https://www.stocktitan.net/sec-filings/API/form-4-agora-inc-insider-trading-activity-fdf3baa733b3.html .
 
 ## Decision
 
-**GLXY is the clear first watch** because of CEO conviction, large percentage volatility, crypto/AI-infrastructure sensitivity and meaningful short interest. **COUR is second** for an unusually large *actual open-market* three-day purchase, but it is still in a post-earnings downtrend. **ETRA and AGMB are conditional biotech reversal watches**, not clean confirmed momentum longs.
+**KOD > LXRX > MDGL > AUDC.** KOD has the best combination of genuine specialist capital and demonstrable large daily percentage moves. LXRX has the better fresh *executive identity* and current scientific conference catalyst, but a much smaller dollar purchase. MDGL's $35M is meaningful but the much larger capitalization and heavy selling volume limit today's percentage-pop thesis. AUDC is a speculative earnings reversal with poor squeeze mechanics. **Do not treat any as an automatic buy; require sustained positive price/volume confirmation.**
 
-**Do not treat abnormal selling volume as bullish.** Prefer a visible positive intraday reversal, sustained participation, and a spread/liquidity check before considering a trade. Where a metric could not be verified, it is explicitly marked unavailable rather than invented.
+**Data limitations:** live November 9 premarket quotes and reliable same-time premarket participation were not independently established. KOD's 90-day average volume and MDGL's precise three-day volume ratio remain unverified. These are intentionally marked unavailable rather than fabricated. Filing times above are Finviz's SEC Form 4 times in New York local time, not UTC.
 
-**Sources:** [Finviz fresh insider screen](https://finviz.com/insidertrading?tc=1), SEC Form 4 links and company releases above. Finviz was refreshed again before publication; no newly appearing high-signal candidate changed the ranking.
+**Sources:** https://finviz.com/insidertrading?tc=1 ; SEC Form 4 primary filings linked above; company IR releases and cited historical price/volume pages.
 
-*Disclaimer: speculative trading research, not personalized financial advice. Filings can be amended; market data can change rapidly. Scores do not guarantee returns.*
+*This is a speculative intraday screening report, not a guarantee or personalized investment advice. Small-cap and biotech shares can gap sharply and experience losses, especially where liquidity and financing risk are significant.*
