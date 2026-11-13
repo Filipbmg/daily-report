@@ -1,54 +1,89 @@
-# Insider Buy Pop Watch | Thursday, 12 November 2026
+# Insider Buy Pop Watch | Friday, 13 November 2026
 
-**Research window:** Wednesday 11 November 2026, 16:00 EST through Thursday 12 November 2026, approximately 08:45 EST (14:45 CET). All newly qualifying SEC Form 4 filing times are New York local time. The NYSE traded November 11 despite Veterans Day. Finviz refreshed again before publication; no ranking-changing additions visible.
+**Screening cutoff:** approximately 08:45 EST / 14:45 CET, Friday 13 November. **Eligible filing window:** Thursday 12 November 16:00 EST through screening cutoff. The New York Stock Exchange traded Thursday. All Finviz Form 4 times shown below are New York local time. Finviz was checked again before publication, without a ranking-changing addition.
 
-**Trading objective:** largest plausible positive intraday percentage move, not investment quality. Rankings are conditional watchlists, not guaranteed longs. No reliable live November 12 premarket tape was independently established; yesterday's completed close is used and explicitly labeled.
+**Objective:** fresh discretionary open-market buys in stocks structurally capable of large positive intraday percentage moves. Scores are qualitative screening priorities, not probabilities. No live, reliably verified premarket quotes or relative premarket volume were established. Completed November 12 closes are used instead. Some financing searches and 90-day volume baselines remain incomplete, so these are conditional watches, not clean buy signals.
 
-## Ranked actionable watchlist
+## Ranked actionable candidates
 
-| Rank | Ticker | Fresh insider signal | Vehicle quality | Nov 11 volume / ~3-month normal; 3-day | Score |
+| Rank | Stock | Fresh insider signal | Vehicle / percentage-move context | Latest volume vs ~3-month normal; 3-day | Score |
 |---|---|---|---|---|---|
-| 1 | MP | COO + CFO + director, 3 independent buyers, 92,476 shares / ~$3.35M | High: beta 2.33, ~25% short float, 5-7% daily moves | 0.87x / 0.98x | 8.3/10 |
-| 2 | FIP | CEO 400,000 shares / $1.53M; prior CFO 5,000 shares / $18,950 | Excellent: beta 1.91, +14.1% yesterday, ~$518M cap | 1.29x / 2.11x | 8.0/10 |
-| 3 | XGN | 10% holder 71,315 shares / ~$373K; recent repeat buying | Extreme: -25.9% and +22.2% days, sharp distribution | 1D baseline unavailable; 3D ~1.37M shares | 6.7/10 |
-| 4 | HOS | Founder/CEO 280,866 shares / ~$1.50M across two dates | Conditional: +6.7% yesterday, offshore cyclicality, limited squeeze | ~1.98x / ~1.71x | 6.4/10 |
-| 5 | CATX | CEO 47,000 shares / $37,943 | Explosive speculative radiopharma, small purchase | Baseline unavailable | 6.0/10 |
+| 1 | **LRMR** | 7 distinct insiders: CEO, COO, CFO, CDO and 3 directors; ~382,086 / 140,810 shares | Small-cap biotech, recent -15.9% and +15.1% sessions, ~18% short float | **0.88x / 0.75x** | **8.7/10** |
+| 2 | **EQPT** | Founder/CEO + director; 56,212 shares / ~$804K | Recent -16.5%, +18.1%; ~ $3.9B market cap | **3.10M latest; 3-day 6.01M** (90-day baseline not confirmed) | **7.8/10** |
+| 3 | **ECX** | CEO 300,000 shares / $233,670 | Sub-$1 automotive software technology, volatile and speculative | **1.094M / 1.135M shares** (baseline not confirmed) | **7.0/10** |
+| 4 | **VISN** | Repeat director buying; 250,000 shares / $1.029M across Nov 9-12 | Networking technology, beta ~2.05, ~ $814M market cap | **0.97x / 1.20x** | **6.6/10** |
 
-**MP transaction math:** 92,476 shares, $3,353,606, weighted average **$36.2657** (using Finviz reported amounts, which round the underlying SEC prices). Fresh COO Rosenthal 32,000 shares ($1,175,090); director Weisenburger 55,000 ($1,980,000); CFO Corbett 5,476 ($198,516). Three economically separate buyers. SEC filings: [COO](https://www.sec.gov/Archives/edgar/data/1801368/000183205026000010/xslF345X06/wk-form4_1794484251.xml), [director](https://www.sec.gov/Archives/edgar/data/1031609/000103160926000009/xslF345X06/wk-form4_1794483689.xml), [CFO](https://www.sec.gov/Archives/edgar/data/1801368/000183168626000010/xslF345X06/wk-form4_1794483446.xml).
+## 1. LRMR | Larimar Therapeutics | Biotech | 8.7/10
 
-### 1. MP Materials (MP), rare earths and magnets
-**Why pop:** Strongest independent management cluster. Three separate insiders including operating and finance chiefs, buying after a sharp rare-earth sector selloff. Nov 11 close $36.73, **+1.28% vs combined entry**. Nov 11 +0.74%, Nov 10 -3.42%, Nov 9 +6.61%; Nov 5 -6.04%. 90-day volume ~5.91M; Nov 11 5.15M = 0.87x; last three 5.80M = 0.98x. Beta 2.33, float ~144.5M, short interest 35.77M / ~24.8% of float (some vendors estimate ~21.9%). Market cap ~$6.5B. The stock is not a microcap, but its realized volatility and short structure clear the vehicle gate. Latest earnings showed Q3 revenue growth of 176%, $147.7M revenue, $41.3M adjusted EBITDA and 4-cent adjusted EPS, with domestic rare-earth and magnet-production catalysts. Confirmed long-term DoD price-floor/offtake framework and GM magnet qualification, not a new overnight contract. Risks: substantial capital expenditures, negative free cash flow, geopolitical sensitivity, equity/strategic financing complexity, and recent sector distribution. No newly announced November 12 offering independently confirmed. **Trade condition:** needs actual positive premarket/regular-session participation; avoid treating a below-normal volume cluster as an automatic breakout. [Market data](https://chartexchange.com/symbol/nyse-mp/) · [Daily history](https://stockanalysis.com/stocks/mp/history/).
+**Fresh filings:** seven distinct buyers filed between November 12 17:55 and 21:32 EST. President/CEO Carole Ben-Maimon 18,050 shares / $49,953; president/COO John B. Harlow Jr. 17,800 / $49,918; CFO Michael Celano 18,460 / $49,992; chief development officer Gopi Shankar 5,000 / $13,549; directors Frank E. Thomas 8,000 / $21,800, Joseph Truitt 3,500 / $9,792, and Thomas Edward Hamilton 70,000 / $187,082. **Combined 140,810 shares, approximately $382,086, weighted entry $2.7135.** The Hamilton purchase is held indirectly through Cure FA Foundation, so it is one additional economic buyer, not an executive purchase. The other six bought November 11 and Hamilton bought November 12; all filings newly entered the overnight window. Finviz displays code-P buys; primary SEC Forms 4 were directly inspected for CEO and Hamilton, including a caution that the CEO Form 4 contains an unusual RSU footnote on its code-P line. The SEC source still identifies the line as P and reports a cash price, but this discrepancy merits further issuer confirmation.
 
-### 2. FTAI Infrastructure (FIP), transportation/energy infrastructure
-**Fresh:** CEO/president Kenneth Nicholson bought **400,000 shares at $3.825**, $1,530,000, filed 07:06 EST Nov 12, code P, not marked 10b5-1. [SEC Form 4](https://www.sec.gov/Archives/edgar/data/1672945/000189988326000044/xslF345X06/wk-form4_1794485202.xml). **Broader recent:** CFO/CAO Carl Fletcher bought 5,000 shares at $3.79 for $18,950, filed Nov 10 17:10 EST, outside today's fresh window. Combined 405,000 shares / $1,548,950, average **$3.8246**, two executives over recent days, but only the CEO filing is new. Nov 11 close $4.38, **+14.5% versus CEO entry**; +14.06% yesterday, +3.5% Nov 10, +6.9% Nov 9, +18% Nov 6. Market cap ~$518M; beta 1.91; stock clearly moves 5-15%+. Volume Nov 11 1.846M vs ~1.434M average = **1.29x**; three days 3.019M average = **2.11x**. Recent momentum and volume support participation, but entry is already far above insider cost. Nov 5 earnings and substantial infrastructure assets are confirmed; no distinct new Nov 12 contract established. Financing caution: large losses (~$595M TTM reported) and capital-intensive leveraged infrastructure structure; current ATM/shelf/warrant overhang not exhaustively verified. **Trade condition:** don't chase yesterday's 14% rally without sustained volume and a hold above prior breakout. [History](https://finance.yahoo.com/quote/FIP/history/) · [Quote](https://finance.yahoo.com/quote/FIP/).
+**Vehicle:** November 12 close $2.70, approximately -0.5% against aggregate insider entry. November 12 traded $2.51-$2.76; recent sessions included -15.94% Nov 5 and +15.09% Oct 20. Float ~57.9M, short interest ~10.54M (~18% of float by one provider), market cap ~$280M. Reported five-year beta varies widely across vendors (0.69 vs 1.98), so realized percentage ranges are more useful.
 
-### 3. Exagen (XGN), autoimmune diagnostics
-**Fresh:** 10% holder Jorey Chernett purchased 71,315 shares at SEC-rounded $5.23 (~$372,977 on Finviz), filed Nov 12 08:15 EST. [SEC Form 4](https://www.sec.gov/Archives/edgar/data/1274737/000119380526001456/xslF345X06/e665883_4-xgn.xml). **Critical nuance:** Form 4 explicitly says matchable short-swing transactions and that the holder intends to disgorge short-swing profits. This complicates the interpretation of bullish discretionary accumulation. Previous Nov 9-10 purchases: 15,585 shares for $91,242; combined **86,900 shares, ~$464,219, $5.342 weighted average**, one buyer only. Nov 11 close ~$5.04, **-3.6% vs fresh entry**, -5.7% vs broader entry. Nov 10 -25.92%, Nov 9 +22.20%, Nov 6 -23.55%. Nov 11 ~1.20M shares; 3-day average ~1.37M. A robust 3-month volume baseline is not established; don't fabricate RVOL. Very high percentage volatility passes the vehicle gate, but selling and the Form 4 short-swing note materially reduce conviction. Recent financing/dilution not fully cleared. **Trade condition:** speculative reversal only with strong verified positive price/volume, not a blind insider-buy scalp. [History](https://www.financialcontent.com/quote/NQ%3AXGN/historical).
+**Volume:** 1.21M November 12 / ~1.37M 90-day = 0.88x. Last three sessions (1.212M, 1.157M, 0.739M) averaged 1.036M = 0.75x. **No bullish volume confirmation yet.**
 
-### 4. Hornbeck Offshore Services (HOS), offshore services
-**Fresh:** president/CEO Todd Hornbeck purchased 189,569.877 shares at $5.275 Nov 10 and 91,295.972 shares at $5.477 Nov 11, filed Nov 12 08:02 EST. Combined ~280,866 shares / **$1,500,009**, weighted entry **$5.3407**. One CEO across two days, not two insiders. [SEC Form 4](https://www.sec.gov/Archives/edgar/data/866829/000128459126000002/xslF345X06/form4-11122026_011104.xml). Nov 11 close $5.57, **+4.3% versus entry**, +6.7% yesterday after -3.0% Nov 10. Nov 11 volume 5.00M, Nov 10 4.36M, Nov 9 3.60M, compared with ~2.53M 3-month average: **1.98x / 1.71x**. Market cap ~$1.2B, short interest ~4.4% of shares, weaker squeeze. Recent November 4 earnings: $293M revenue, $106M adjusted EBITDA, five-year Shell agreements starting 2027, North Sea contract beginning Q2 2027, 2027 adjusted EBITDA guidance $500-550M. Strong fundamental context, but conventional offshore-services vehicle and merger-influenced capital structure make 10% intraday upside less dependable than MP/FIP. No fresh offering confirmed in reviewed sources; merger integration and leverage remain risks. [IR release](https://ir.hornbeckoffshore.com/news-releases/news-release-details/hornbeck-offshore-announces-third-quarter-2026-results) · [History](https://finance.yahoo.com/quote/HOS/history/).
+**Catalyst:** Larimar is developing nomlabofusp for Friedreich's ataxia. The FDA previously granted Breakthrough Therapy Designation; the company has discussed accelerated-approval plans and confirmatory development. These are genuine development catalysts but no immediate November 13 FDA decision was verified. Earlier $115M February 2026 public offering is a dilution precedent; a complete fresh shelf/ATM/warrant audit was not possible. Biotech trial and regulatory uncertainty remains substantial.
 
-### 5. Perspective Therapeutics (CATX), radiopharmaceutical biotech
-**Fresh:** CEO Johan M. Spoor bought **47,000 shares at $0.8073**, $37,943, reported Nov 12 08:30 EST. Direct holdings increased to 106,383, a meaningful relative increase. [SEC Form 4](https://www.sec.gov/Archives/edgar/data/728387/000119312526457093/xslF345X06/ownership.xml). This is one CEO and a small dollar commitment. The clinical-stage radiopharmaceutical structure can support extreme percentage moves, but a credible imminent readout, 90-day volume comparison, short float, premarket price and recent ATM/warrant status were **not independently verified**. This is a lower-confidence watch, not a recommended immediate entry. Treat dilution risk as unresolved.
+**Why it could pop today:** An unusually broad, independently reported C-suite-plus-director cluster in a biotech that routinely produces 5-15% sessions, with meaningful short interest. **Trade condition:** require positive price response and expanding participation; the 0.75x three-day volume argues against chasing a thin premarket spike.
+
+Sources: [Finviz](https://finviz.com/insidertrading?tc=1), [CEO SEC Form 4](https://www.sec.gov/Archives/edgar/data/1374690/000119312526458853/xslF345X06/ownership.xml), [Hamilton SEC Form 4](https://www.sec.gov/Archives/edgar/data/1374690/000119312526459008/xslF345X06/ownership.xml), [volume history](https://www.financecharts.com/stocks/LRMR/summary/volume), [market structure](https://chartexchange.com/symbol/nasdaq-lrmr/), [company FDA/financing history](https://investors.larimartx.com/news-releases/news-release-details/larimar-therapeutics-reports-fourth-quarter-and-full-year-2025).
+
+## 2. EQPT | EquipmentShare.com | Construction technology / rental | 7.8/10
+
+**Fresh:** Founder/CEO Jabbok Schlacks purchased 16,212 shares at $15.42, ~$249,989; director W. Bryan Hill purchased 40,000 at $13.8529, ~$554,116. Both filings accepted November 12 after 17:00 EST. **56,212 shares, approximately $804,105, weighted entry $14.3049; two distinct insiders.** Primary Forms 4 show code-P, direct acquisitions, no checked automatic-plan box. This is a CEO-plus-director cluster, not multiple C-suite officers. No other recent insider accumulation was established.
+
+**Vehicle:** November 12 close $15.43, 7.9% above the insider average. Shares moved -16.50% Nov 10, +18.14% Nov 11, -3.50% Nov 12. November 12 volume 3.10M; three-day average (3.10M, 6.67M, 8.28M) 6.01M. Reliable 90-day volume baseline, float and short interest were not independently established. ~$3.92B market cap, but unusually high realized percentage volatility offsets the size.
+
+**Catalyst:** November 9 third-quarter results: revenue +55% to $1.468B, net income $20M, rental-segment EBITDA +52%. The volatile earnings reaction offers an immediate event-sensitive context. Financing risk includes its 2026 IPO and substantial debt/capital spending; no new overnight equity offering confirmed, but no exhaustive shelf/ATM review.
+
+**Why it could pop:** CEO and director bought into a post-earnings stock capable of double-digit days. **Counterargument:** $3.9B capitalization, high leverage and volatile earnings reassessment; not as structurally explosive as LRMR.
+
+Sources: [CEO Form 4](https://www.sec.gov/Archives/edgar/data/1693736/000095010326017397/xslF345X06/ownership.xml), [director Form 4](https://www.sec.gov/Archives/edgar/data/1232293/000162828026073491/xslF345X06/wk-form4_1794521420.xml), [November 9 earnings](https://ir.equipmentshare.com/news-releases/news-release-details/equipmentshare-reports-third-quarter-2026-results-accelerated), [price history](https://stockscan.io/stocks/EQPT/price-history).
+
+## 3. ECX | ECARX Holdings | Automotive software / technology | 7.0/10
+
+**Fresh:** CEO Ziyu Shen purchased 300,000 shares at **$0.7789**, total **$233,670**, on November 11. Filing accepted November 13 06:25 EST. The SEC Form 4 shows code-P, direct shares, and no automatic-plan checkbox. It is a single CEO buyer, not a cluster. No additional recent discretionary insider buys were established.
+
+**Vehicle:** November 12 close ~$0.824, **+5.8% versus insider entry**. The latest session ranged $0.765-$0.865, a ~12% high-low span versus the close. November 12 +4.7%; November 4 closed -21% from the previous session. Volume Nov 12 1.094M, last three 1.135M average; a reliable three-month baseline, float and short float were not independently verified. Sub-dollar trading raises spread, liquidity, Nasdaq compliance and financing risk.
+
+**Catalyst:** No verified near-term product, contract or earnings catalyst explains the CEO purchase. Opportunistic buying after the recent decline is speculation, not confirmed motive. Recent shelf, PIPE and warrant exposure could not be conclusively cleared. **Why it could pop:** Direct CEO purchase in an event-sensitive, volatile sub-$1 technology stock; **why it might fail:** no catalyst and potential dilution or delisting risk.
+
+Sources: [SEC Form 4](https://www.sec.gov/Archives/edgar/data/1861974/000110465926126498/xslF345X06/tm2629710-1_4seq1.xml), [price/volume history](https://finance.yahoo.com/quote/ECX/history/).
+
+## 4. VISN | Vistance Networks | Communications infrastructure | 6.6/10
+
+**Fresh:** Director Claudius E. Watts IV reported 25,000 shares purchased November 12 at $3.9988, $99,970, and another 25,000 November 10 at $3.929, $98,225. His separately filed November 9 purchase was 200,000 shares, $831,060. **Broader 250,000 shares / $1,029,255, weighted entry $4.1170**, one repeat buyer, no independent executive cluster. These were newly filed overnight, but the transactions themselves span multiple days. Primary Form 4 confirms code-P acquisitions.
+
+**Vehicle:** November 12 close $4.00, ~2.8% below broader insider entry; beta ~2.05, market cap ~$814M. Volume November 12 7.56M / 3-month 7.80M = **0.97x**. Three-day (7.56M, 8.41M, 12.02M) average 9.33M = **1.20x**. The stock has suffered a substantial decline.
+
+**Critical price adjustment:** Vistance distributed a **$1.50 special dividend** with **November 9 ex-dividend date**. A large apparent raw-price decline across this date is not entirely an economic trading loss. Do not rank this as a pure oversold reversal without dividend-adjusted comparisons. Recent business divestitures and special distributions also complicate valuation and capital structure. No new overnight equity offering was confirmed; a complete financing audit was not completed.
+
+**Why it could pop:** Repeat buying by a director in a volatile networking stock. **Counterargument:** one insider, dividend-distorted chart, modest recent volume and unclear immediate catalyst.
+
+Sources: [SEC Form 4](https://www.sec.gov/Archives/edgar/data/1408738/000119312526458974/xslF345X06/ownership.xml), [dividend IR announcement](https://ir.vistancenetworks.com/news-releases/news-release-details/vistance-networks-board-approves-special-distribution-1), [historical prices](https://finance.yahoo.com/quote/VISN/history/), [volume and beta](https://finance.yahoo.com/quote/VISN/).
 
 ## Discarded but notable
-- **NTHI:** CEO Amir Heshmatpour $294.5K across Nov 10-11 plus CMO ~$20K across Nov 9-10. High-volatility biotech, but previously disclosed going-concern concerns and PIPE/ATM/registered-direct financing risk overwhelm the cluster. [Finviz](https://finviz.com/insidertrading?tc=1).
-- **TNXP:** CEO Seth Lederman bought 5,000 shares / $20,275, code P. High-volatility biotech but tiny commitment and dilution/financing history require a stronger catalyst. [SEC](https://www.sec.gov/Archives/edgar/data/1430306/000149315226051200/xslF345X06/ownership.xml).
-- **API:** CEO Zhao Bin's repeated small buys ($116.8K total across Nov 9-11) are lower signal; previous similar purchases may be under an automatic trading program, so discretionary status remains insufficiently verified.
-- **AUDC:** CEO Shabtai Adlersberg bought 17,000 shares / $143,409 across Nov 9-11, repeat accumulation, but weaker intraday mechanics than leaders and prior earnings-driven distribution.
-- **COHR:** CEO bought ~$997K and director ~$223K, but mature large-cap optical semiconductor/AI hardware vehicle; filings arrived today but purchase dates Nov 9-10. Not clearly superior to MP/FIP for today's percentage-pop objective.
-- **GSM:** multiple directors and CEO purchases on Nov 6, filed today, but conventional ferroalloys exposure and duplicated/overlapping reporting of some shares. Do not sum repeated 28,671-share entries as independent purchases without further ownership reconciliation.
-- **SJT / MNR / CMRE / TH:** energy royalty trust, conventional energy and shipping/lodging vehicles. Strong purchases do not by themselves establish 5-10% intraday mechanics.
-- **NORD:** reported July transaction filed today, too stale to treat as a new trading signal.
-- **BW:** 10% owner 130,000 shares / ~$648K, but reported total ownership is anomalously smaller than the purchase; verify beneficial ownership/transaction context before considering.
-- **DTI:** tiny new director buy ~$3.8K, earlier management cluster already reported; not sufficient fresh catalyst.
-- **OESX/AIM:** genuine reported CEO buys but small dollar size, and no verified immediate catalyst.
 
-## Decision and risk control
-**Priority:** MP first for independent executive cluster plus short interest, FIP second for stronger momentum and an unusually large CEO commitment. XGN has greater raw volatility but considerably weaker signal interpretation and negative price-volume context. HOS is a respectable CEO purchase but less compelling as a pure percentage-pop vehicle. CATX is speculative with insufficient confirmed catalyst/financing data.
+- **HPP:** CEO Victor Coleman ~$182K plus director Jon Bortz ~$680K across three trading days. Strong independent CEO/director signal, but a REIT with poor structural percentage-move characteristics and property/financing exposure. Reject under the vehicle gate.
+- **OFIX:** Juniper fund purchased 689,803 shares for ~$5.11M at ~$7.40 weighted entry, but **one economic investment group** despite multiple reporting persons. Orthopedic medtech is potentially volatile; without a complete financing/distribution check and current participation metrics, do not elevate it over verified setups.
+- **TEAM:** Co-founder/CEO Michael Cannon-Brookes purchased ~$2.01M. Strong insider signal, but mature large-cap software and insufficient evidence of an immediate 5-10% filing-driven move.
+- **BLMN:** CEO Mike Spanos bought 50,000 shares / $502K. Restaurant operator with less favorable percentage-move mechanics than biotech/tech names.
+- **HPP, ENOV, CSQR:** multiple insider purchases in each, but HPP is a REIT and the others lack sufficiently verified outsized-move mechanics.
+- **OBIO:** RTW's $6M at $5 is linked to a public offering, not a qualifying open-market buy.
+- **ASR, BX, ECL, MTDR, FLG, SJT and closed-end funds:** slow vehicles or insufficient near-term percentage-move catalysts.
+- **OWLS:** CEO bought only $13.4K, too small for conviction despite a speculative vehicle.
+- **AIM:** CEO bought ~$5.2K, insufficient signal.
+- **BGDE, STKS, LUCK, AIRS:** speculative small stocks, but transaction sizes, financing concerns and/or insufficient confirmed catalyst make them unsuitable as top-ranked candidates.
 
-**Critical limitations:** These are premarket screens, not live buy orders. No reliable Nov 12 live premarket quotes were confirmed, and a complete company-by-company search of every shelf, ATM and warrant filing was not possible. Missing data are left missing rather than invented. Volume ratios use the most recent completed session, not partial premarket volume. No confirmed new immediate FDA or clinical readout was found for the listed biotechs.
+## Decision
 
-**Sources:** [Finviz latest insider purchases](https://finviz.com/insidertrading?tc=1); linked SEC Forms 4; linked company investor relations, price histories and short-interest data.
+**First watch: LRMR.** Seven distinct insider buyers including CEO, COO, CFO and CDO is an unusually powerful cluster in a genuinely volatile biotech with ~18% short float. But participation is below normal, and the SEC CEO footnote deserves additional scrutiny.
 
-*Disclaimer: Speculative, high-risk intraday trading research for screening only, not personalized investment advice. Insider buys are not a guarantee of a rally; thin liquidity, spreads, dilution, financing and negative catalysts can overwhelm any signal.*
+**Second: EQPT.** More substantial capital commitment and unusually large realized daily moves, though a less explosive capitalization and substantial financing obligations.
+
+**Third: ECX.** CEO conviction in a volatile penny-stock vehicle, but materially higher dilution and execution uncertainty.
+
+**Fourth: VISN.** Genuine repeat accumulation, but the $1.50 special dividend distorts price interpretation.
+
+No trade should be inferred solely from a filing. These are conditional intraday watches; verify live quotes, spreads, price/volume response, any newly announced offering and the SEC transaction details before trading.
+
+*Disclaimer: This is speculative trading-signal screening, not personalized financial advice. Large intraday percentage moves can be downward as well as upward. Information and source coverage may be incomplete.*
