@@ -1,90 +1,103 @@
-# Insider Buy Pop Watch | Monday, November 16, 2026
+# Insider Buy Pop Watch | Tuesday, November 17, 2026
 
-**Screening cutoff:** approximately 08:45 America/New_York (14:45 Copenhagen). **Window:** Friday November 13, 16:00 EST through Monday November 16, 08:45 EST. New York is UTC-5; Copenhagen UTC+1. Finviz SEC filing times are displayed in ET. The Finviz list was refreshed before publication.
+**Window:** Monday November 16, 16:00 EST through Tuesday November 17, approximately 08:45 EST (14:45 Copenhagen). All times in America/New_York. Finviz was refreshed again after research. **Objective:** probability of a 5–10%+ intraday upside move, not long-term insider conviction. The source screen includes 16:00–16:59 ET filings and later; no UTC timestamps were interpreted as ET.
 
-**Decision:** CRMD is the strongest fresh CEO buy with a credible event-driven biotech vehicle. CATX has the best independent *director cluster* but a very small aggregate dollar commitment. PCT has high percentage volatility but severe financing/distribution risks, so is a speculative conditional watch, not a clean buy. No candidate has fully confirmed bullish volume and financing clearance; these are watchlist signals rather than entry recommendations.
+## Ranked actionable watchlist
 
-## Actionable ranking
+| Rank | Ticker | Fresh signal | Vehicle / 5–10% potential | Latest volume vs ~3-month norm | Score /10 |
+|---|---|---|---|---|---|
+| 1 | **KURA** | CEO 200,000 shares, **$1,504,765**, $7.5238 avg | **High**: volatile oncology, -8.75% yesterday, ~15.5% short float | **1.22x** Monday; 3-day **~1.20x** | **8.1** |
+| 2 | **HAWK** | CEO+CFO+COO+international president, **3,282 shares, $59,525**, $18.1368 avg | **High**: defense-space momentum, +23.8% Friday | **1.90x** Monday; 3-day **~2.47x** | **7.6** |
+| 3 | **MX** | Repeat CEO, **90,000 shares, $218,483**, $2.4276 avg | **Very high**: ~$105M semiconductor, +17% then -11%, -6.4% Monday | **0.57x** Monday; 3-day **~0.74x** | **7.0** |
+| 4 | **ADIG** | CEO+CFO+COO+CMO+legal executive, **33,110 shares, $325,603**, $9.8340 avg | **High recently**: -7.83% Monday, 9.00–9.95 daily range | Monday 2.44M; reliable 3M baseline not verified | **6.8** |
+| 5 | **RNXT** | Executive chair/CMO 50,000 shares, **$46,485**, $0.9297 avg | **Very high**: ~$46M clinical biotech, 15% Monday trading range | **1.01x** Monday; 3-day baseline not verified | **6.0** |
 
-| Rank | Ticker | New eligible signal | Weighted insider entry | Intraday vehicle | Volume versus ~3-month average | Score /10 |
-|---|---|---|---:|---|---|---:|
-| 1 | **CRMD** | CEO Joseph Todisco, 80,000 shares, **$391,200** | **$4.89** | High, recent -8.7% and -3.7% days, $370M cap | 1D 2.39M, 3D 2.57M; 90D baseline unverified | **7.5** |
-| 2 | **CATX** | Three directors, 63,648 shares, **$55,902** | **$0.8783** | High, speculative sub-$1 radiopharma | Not reliably established | **7.0** |
-| 3 | **PCT** | Executive chairman Fernando Musa, 57,600 shares, **$98,496** | **$1.71** | Extreme, -32.6% Nov 4 and continued decline | 1D 5.281M, 3D 5.557M; 90D baseline unverified | **5.7** |
-| 4 | **HOS** | CEO Todd Hornbeck, 85,912.291 shares, **~$500,001** | **$5.8199** | Moderate-to-high, offshore-services event sensitivity | Not reliably established | **5.6** |
-| 5 | **ECX** | CEO Ziyu Shen, 176,700 shares, **$147,651** | **$0.8356** | High, sub-dollar automotive technology | Not reliably established | **5.5** |
+**No live 08:45 EST premarket quote was independently confirmed for every ticker.** Prices below are November 16 regular-session closes. Scores are subjective prioritization, not calibrated probabilities. Relative-volume values are approximate and are omitted where reliable baselines are missing.
 
-**Important:** Scores are qualitative relative rankings, not calibrated probabilities. Absence of verified volume baselines is not treated as 1.0x. Premarket prices/volume were not reliably established and are omitted rather than invented.
+## 1. KURA | Kura Oncology | Precision oncology
 
-## 1. CRMD | CorMedix Therapeutics | specialty pharmaceuticals
+**New filing accepted November 16 at 19:45 EST.** President/CEO Troy Edward Wilson directly purchased **98,881 shares November 13 at $7.63 ($754,462)** and **101,119 shares November 16 at $7.42 ($750,303)**. Both transactions were reported in the newly eligible Form 4 and are code P; 200,000 shares for $1,504,765, **$7.5238 weighted average**. One independent buyer, two trading days, not a C-suite cluster. Monday close **$7.09**, **-5.8% versus entry**. The same CEO had no other recent qualifying purchase established beyond these two days.
 
-**New filing:** CEO Joseph Todisco bought **80,000 shares** at a weighted **$4.89** for **$391,200** on Nov 13. Form 4 accepted Monday Nov 16 at 07:30 EST. SEC Table I transaction code **P**, direct ownership, no 10b5-1 box checked. One independent insider, not a cluster. SEC: https://www.sec.gov/Archives/edgar/data/1410098/000121390026120120/xslF345X06/ownership.xml
+**Vehicle:** ~$650–675M oncology stock, estimated short float ~15.5%, Monday -8.75%, and November 4 selloff with ~8.2M shares. 5–10% intraday is plausible despite reported monthly beta near 0.43, which understates realized event volatility. November 16 volume 2,621,067 versus ~2.14M normal (**1.22x**). Nov 13/12 volume 2,227,318/2,844,665; 3-day average 2,564,350 (**~1.20x**). Monday's elevated volume came on **selling**, so it is a warning, not confirmation.
 
-**Entry versus market:** Nov 13 close **$4.66**, **4.7% below** CEO entry. Recent daily returns: Nov 12 **-8.68%**, Nov 13 **-3.72%**, Nov 5 **-7.60%**, and Oct 30 approximately **-25.5%**. This is a credible 5-10% daily-move vehicle, although recent momentum is decisively negative. Nov 13 volume **2,391,573**; Nov 12 **3,681,872**; Nov 11 **1,626,094**. Three-day average **2,566,513**. An approximately three-month normal-volume baseline was not validated, so relative ratios cannot be stated responsibly. Price/volume: https://www.quiverquant.com/stock/CRMD/historical-prices/
+**Catalyst:** November 10 Q3 release: KOMZIFTI net product revenue $13.9M, +53% sequentially; 30% growth in new patient starts. Eight abstracts accepted for ASH 2026, including two oral presentations. Darlifarnib registrational study planned 1H 2027. No November 17 FDA decision verified. CEO may be signaling that the sharp selloff overshot, **speculation**.
 
-**Catalysts and reason for buy:** November 12 Q3 earnings: $54.5M consolidated revenue, $14.7M net loss; full-year revenue outlook maintained at $325-345M. CorMedix disclosed a planned acquisition of substantially all Heron Therapeutics assets (target closing Q1 2027, contingent) and FDA review of REZZAYO prophylaxis sNDA with Q1 2027 anticipated agency action. The CEO may be buying after the reimbursement-driven decline, but this motivation is speculation. Company primary source: https://cormedix.com/cormedix-therapeutics-reports-third-quarter-2026-financial-results-and-provides-business-update/
+**Financing:** $492.1M cash/short-term investments at September 30, but the 10-Q disclosed 2,563,568 ATM shares sold in nine months at ~$12.64, with ~$117.6M ATM capacity remaining. Up to $300M conditional Oberland financing capacity is also cited. This is a meaningful overhang, not a clean dilution-free setup. The CEO's purchase itself is direct market buying, not an offering subscription.
 
-**Financing/dilution:** Company reported $355.2M cash and short-term investments and a term loan of up to $150M, expecting to draw $75M at acquisition close. This is debt rather than an equity PIPE, but acquisition financing and CMS reimbursement uncertainty are material. A complete shelf/ATM/warrant audit was not independently completed.
+**Pop thesis:** Seven-figure CEO conviction after a severe selloff, meaningful short interest, and credible commercial/ASH news. **Confirmation:** reclaim $7.42–$7.52 with positive participation; below Monday's $7.07 low, reversal thesis deteriorates.
 
-**Why it could pop:** A meaningful CEO purchase directly after a steep, event-driven biotech selloff could attract dip-buying; **only upgrade if price reclaims the $4.89 insider entry with positive volume**. Do not interpret recent heavy selling as bullish confirmation.
+Sources: [SEC Form 4](https://www.sec.gov/Archives/edgar/data/1422143/000119312526464166/xslF345X06/ownership.xml), [Kura Q3 release](https://ir.kuraoncology.com/news-releases/news-release-details/kura-oncology-reports-third-quarter-2026-financial-results-and), [historical prices](https://stockanalysis.com/stocks/kura/history/), [ATM discussion](https://www.quantisnow.com/insight/sec-form-10-q-filed-by-kura-oncology-inc-6784045).
 
-## 2. CATX | Perspective Therapeutics | clinical-stage radiopharmaceuticals
+## 2. HAWK | HawkEye 360 | Space-based defense intelligence
 
-**New independent director cluster, all filed Nov 16 at 08:30 EST:** Frank Morich **15,000** shares/$14,956 at $0.9971; Robert F. Williamson III **24,898** shares/$20,906 (18,609 indirectly via trust plus 6,289 directly); Lori A. Woods **23,750** shares/$20,040. **Three distinct insiders**, not four; **63,648 shares, $55,902, weighted average $0.8783**. Form 4 code-P purchases, not grants. Sources:
-- https://www.sec.gov/Archives/edgar/data/728387/000119312526462221/xslF345X06/ownership.xml
-- https://www.sec.gov/Archives/edgar/data/728387/000119312526462220/xslF345X06/ownership.xml
-- https://www.sec.gov/Archives/edgar/data/728387/000119312526462219/xslF345X06/ownership.xml
+**Newly eligible November 16 evening filings:** CEO John Serafini **1,383 shares at $17.8017 ($24,620)**; CFO Craig Searle **548 at $18.25 ($10,001)**; COO Todd Probert **811 at $18.45 ($14,963)**; international president Alex Fox **540 at $18.41 ($9,941)**. Four independent executives, **3,282 shares, $59,525, $18.1368 weighted entry**. SEC code-P purchases checked for CEO/CFO/COO; the fourth filing is listed as a buy on Finviz. No older multi-day accumulation independently established. Monday close **$18.51**, **2.1% vs average**.
 
-**Broader accumulation:** CEO Johan Spoor's previously reported Nov 12 purchase of **47,000 shares for ~$37,943 at $0.8073** is NOT new to today's window but raises the recent total to **110,648 shares, ~$93,845, weighted ~$0.8481**, involving four independent insiders. This is materially stronger as a cluster than any single director's $15-20K purchase.
+**Vehicle:** recently listed defense-space technology; May IPO at $26, ~ $1.8B cap. November 13 close $18.16 versus November 12 $14.67, **+23.8%**, then Monday $18.51 **+1.9%**. 2.963M Monday volume versus 1.56M three-month normal (**1.90x**). Nov 13/12 volume 6.999M/1.586M, three-day mean 3.849M (**2.47x**). Unlike KURA, elevated participation coincided with a breakout, although price is extended. Short interest ~3% of shares, so not a strong short-squeeze thesis.
 
-**Vehicle:** Sub-dollar, clinical-stage radiopharma can produce 5-10%+ moves, but it can also suffer thin liquidity, wide spreads and severe dilution. Current/premarket price, float, beta, short interest and last three days' verified relative volume were not established. No imminent FDA decision or readout was independently verified. **Financing review incomplete:** no assertion of a clean balance sheet or absent warrants is warranted.
+**Catalyst:** November 12 Q3 revenue $59.3M, +84% year over year, international +76%, backlog $300.3M, raised full-year revenue guidance to $225–227M and adjusted EBITDA $38–40M. Reported $135M of post-quarter contracts, October launches of Clusters 15/16 and planned Block 3 satellite launch in early 2027. This is real defense-sector news, not a speculative contract rumor.
 
-**Why it could pop:** Four recent independent insiders, including the CEO, offer a strong *breadth* signal in an explosive sector. **Caution:** aggregate dollar conviction is small, and the most recent three director filings all concern Nov 12 transactions. Watch only if participation confirms.
+**Financing:** May IPO net proceeds ~$437.5M; September 30 cash ~$494.9M, no long-term debt and undrawn $125M revolver per Q3 filing. IPO lockups reportedly released September 2, creating potential selling supply. No fresh overnight equity financing verified.
 
-## 3. PCT | PureCycle Technologies | emerging recycling technology
+**Pop thesis:** exceptionally broad senior management cluster plus a confirmed earnings-driven defense-space breakout. Main negative is **tiny per-executive dollar commitment** and a 26% advance from Thursday's close to Monday. Avoid chasing a weak opening.
 
-**New filing:** Executive chairman Fernando Musa bought **57,600 shares at $1.71**, **$98,496**, Nov 13, reported Nov 16 08:28 EST, code P, directly held. SEC: https://www.sec.gov/Archives/edgar/data/1830033/000184706626000009/xslF345X06/ownership.xml . This is distinct from his Nov 3 RSU grant, which is NOT an open-market purchase.
+Sources: [CEO Form 4](https://www.sec.gov/Archives/edgar/data/1750704/000212728826000010/xslF345X06/form4-11162026_111124.xml), [CFO Form 4](https://www.sec.gov/Archives/edgar/data/1750704/000212728426000008/xslF345X06/form4-11162026_111142.xml), [COO Form 4](https://www.sec.gov/Archives/edgar/data/1750704/000183288326000008/xslF345X06/form4-11172026_011127.xml), [Q3 company release](https://investors.he360.com/news-events/press-releases/detail/248/hawkeye-360-announces-third-quarter-2026-financial-results), [daily volumes](https://www.financecharts.com/stocks/HAWK/summary/volume).
 
-**Vehicle:** Nov 13 close $1.71; Nov 12 $1.80; Nov 11 $2.00; Nov 4 $2.79, illustrating substantial downside realized volatility. Volume 5.281M Nov 13, 5.901M Nov 12, 5.490M Nov 11; 3D average **5.557M**. 90-day average unverified. Source: https://www.financecharts.com/stocks/PCT/summary/volume
+## 3. MX | Magnachip Semiconductor | Small-cap semiconductors
 
-**Financing warning, dominant:** Q3 revenue only ~$2.35M, nine-month operating cash burn ~$125M, ~$469M indebtedness, convertible notes and warrant-related effects. Its reported Q3 accounting profit included a noncash warrant fair-value gain. Company is capital-intensive with limited recurring revenue. https://www.stocktitan.net/sec-filings/PCT/
+**Newly eligible filing Nov 16 21:54 EST:** CEO Chae Lee directly purchased **50,000 shares Nov 13 for $125,068** and **40,000 shares Nov 16 for $93,415**, combined **90,000 shares, $218,483, $2.4276 average**. All six underlying transaction lines are direct code-P purchases. Broader pattern: the CEO bought another 70,000 shares for ~$155,360 earlier in November, bringing recent CEO accumulation to **160,000 shares, ~$373,843, ~$2.3365 weighted entry**. The older 70,000 shares are NOT newly eligible.
 
-**Why it could pop:** Extreme volatility plus a new executive-chairman open-market purchase might trigger a squeeze/reversal. **Why it may not:** persistent distribution, financing requirements and repeated down days overwhelm the relatively small insider buy. Conditional only, not an automatic dip buy.
+**Vehicle:** ~$105M cap, ~44.9M outstanding; November 11 +17.0%, November 13 -11.35%, November 16 -6.4%. Monday $2.34 close, **-3.6% versus newly filed weighted entry**. Monday volume 564,808 versus ~993,000 three-month normal **0.57x**; November 13/12 volumes 722,126/927,162, 3-day mean 738,032 **0.74x**. Low participation and repeated selling substantially reduce the bullish case.
 
-## 4. HOS | Hornbeck Offshore Services | offshore energy services
+**Catalyst:** recent disappointing Q3 gross margin and weak Q4 guidance, plus a previously disclosed Navitas strategic equity investment. No verified imminent positive scheduled event. Potential turnaround buying is speculative. Review strategic equity terms and future capital requirements; recent dilution exposure cannot be fully cleared.
 
-**New filing:** President/CEO Todd M. Hornbeck bought **85,912.291 shares at $5.8199**, approximately **$500,001**, on Nov 13, filed Nov 16 07:00 EST; genuine code P. SEC: https://www.sec.gov/Archives/edgar/data/866829/000128459126000003/xslF345X06/form4-11162026_071102.xml
+**Pop thesis:** repeat CEO purchases in a volatile semiconductor microcap with proven double-digit daily swings. Weak volume means this is a conditional reversal watch, not an automatic buy.
 
-**Broader accumulation:** Prior Nov 10-11 purchases of approximately **280,866 shares / $1.50M / ~$5.34 weighted** (previous report, not newly eligible). Combined approximately **366,778 shares / $2.00M / ~$5.45 weighted** across one repeat CEO, not a cluster. The fresh $500K is meaningful repeat conviction. Company has discussed long-term Shell service contracts and 2027 EBITDA guidance, but those are not fresh overnight catalysts. Vehicle may move 5% on sector-specific news, though less structurally explosive than small-cap biotech. Latest price and relative-volume baselines were not independently verified. No complete financing audit was obtained.
+Sources: [CEO Form 4](https://www.sec.gov/Archives/edgar/data/1325702/000119312526464325/xslF345X06/ownership.xml), [company historical prices](https://investors.magnachip.com/stock-information/historical-price-lookup), [November 16 volume](https://markets.financialcontent.com/prnews/quote/ny%3Amx).
 
-**Why it could pop:** Large repeat CEO purchases could underpin a continuation/reversal; **ranking capped by conventional offshore-services sector mechanics**.
+## 4. ADIG | ADI Global Distribution | Security / AV distribution
 
-## 5. ECX | ECARX Holdings | automotive technology
+**Newly eligible November 16 evening filings:** CEO Robert Aarnes **10,073 shares/$100,025**; CFO Michael Carlet **10,288/$99,896**; COO Alicia Copeland **5,000/$50,550**; marketing executive Marco Cardazzi **2,508/$25,080**; legal/compliance executive Jeannine Lane **5,241/$50,052**. **Five distinct senior insiders, 33,110 shares, $325,603, $9.8340 weighted entry.** Purchase transactions are code P; the CFO's unrelated RSU vesting (M) and tax withholding (F) must NOT be counted. No older accumulation confirmed.
 
-**New filing:** CEO Ziyu Shen bought **176,700 shares at $0.8356**, **$147,651**, Nov 12, filed Nov 16 06:18 EST, genuine code P. SEC: https://www.sec.gov/Archives/edgar/data/1861974/000110465926127555/xslF345X06/tm2629886-1_4seq1.xml
+**Vehicle:** ~$707M cap, Monday -7.83% to $9.30, trading range $9.00–9.95 (~10% of close), a high realized-volatility post-earnings situation even without reliable beta. Close **-5.4% versus entry**. Monday volume 2.44M; no reliable three-month normal volume or 2–3-day ratio established. Do not invent ratios.
 
-**Broader accumulation:** A separate previously reported CEO purchase of **300,000 shares at $0.7789**, ~$233,670 (not fresh today), yields **476,700 shares / $381,321 / weighted ~$0.7999**. One repeat buyer, not a management cluster. Small sub-dollar tech shares can move 5-10%, but dilution, liquidity and listing risks matter. No fresh independently confirmed catalyst, three-month volume baseline or complete financing clearance. Watch only on positive price/volume response.
+**Catalyst:** November 12 earnings: revenue +9% to $1.306B, but a $659M goodwill impairment drove a $655M net loss, adjusted EBITDA declined 13%, and full-year guidance was cut. This explains defensive executive buying but also suggests real operational pressure. No verified fresh offering; financing and debt exposure not fully audited.
+
+**Pop thesis:** five independently buying executives after a guidance-driven decline could draw attention, but the distributor business is structurally slower than biotech or speculative technology. Only passes the vehicle gate because of its extreme current post-earnings trading range. Strong positive volume is essential.
+
+Sources: [Finviz filings](https://finviz.com/insidertrading?tc=1), [CFO SEC Form 4](https://www.sec.gov/Archives/edgar/data/1873242/000187324226000009/xslF345X06/form4-11162026_111106.xml), [COO SEC Form 4](https://www.sec.gov/Archives/edgar/data/2105139/000214408326000003/xslF345X06/form4-11162026_111121.xml), [earnings summary](https://equibles.com/stocks/adig/documents), [market snapshot](https://stockanalysis.com/stocks/adig/).
+
+## 5. RNXT | RenovoRx | Clinical-stage oncology
+
+Executive chairman and chief medical officer **Ramtin Agah** bought **50,000 shares at ~$0.9297, $46,485**, in a newly reported November 17 06:30 EST filing. Finviz identifies it as a purchase; underlying Form 4 was opened, but a complete financing-footnote audit was not established. One buyer, no verified broader accumulation.
+
+**Vehicle:** ~$46M cap, Monday close **$0.9549**, **+2.7% versus insider entry**, Monday -8.18%, day range $0.90–1.059 (~17% of close). Monday volume 824,472 versus ~813,634 average **1.01x**. Three-day ratio unavailable. Monthly beta ~1.17 does not capture clinical-stage event sensitivity.
+
+**Catalyst:** RenovoCath-targeted gemcitabine delivery for pancreatic cancer in Phase III development; no imminent November 17 trial readout verified. Dilution and cash-runway review remains incomplete, which materially limits conviction.
+
+**Pop thesis:** small-cap biotech with high intraday range and a medical leadership purchase. Dollar commitment is modest, so watch only on positive participation.
+
+Sources: [SEC Form 4](https://www.sec.gov/Archives/edgar/data/1574094/000149315226052696/xslF345X06/ownership.xml), [November 16 quote and volume](https://finance.yahoo.com/quote/RNXT/).
 
 ## Discarded but notable
 
-| Ticker | Signal | Reason rejected |
-|---|---|---|
-| **FUN** | H Partners/Jaffer fresh 825,000 shares, ~$9.246M (Nov 11-13), plus earlier 1.45M shares ~$14.93M | Strong repeat accumulation, but substantial debt, prior sharp rebound, and single economic investment group. It is a **secondary high-volatility watch**, not independently verified as today's best upside setup. |
-| **NXGL** | Interim CEO reported 133,216 shares/$732,688 | **EXCLUDE: explicitly PIPE units**, each including a warrant; convertible note repricing and dilution overhang. Not open-market despite code P. |
-| **UPST** | CEO Paul Gu $1.028M, 50,000 shares | Strong high-beta vehicle but Friday's 17:38 EST filing relates to a Nov 11 transaction; latest $19.56 close below $20.57 entry, and financing/credit risks require more work. Secondary watch, not ranked as clean. |
-| **STWD** | CEO Barry Sternlicht and director ~$16.7M aggregate | Mortgage REIT, low percentage-move vehicle |
-| **HUBS** | CEO Brian Halligan ~$5M | Large-cap software, weak 5-10% same-day mechanics |
-| **AKAM** | CEO ~$2.55M | Mature large-cap software infrastructure |
-| **DGICA/DX** | Institutional/CEO buying | Conventional insurance and mortgage REITs, poor vehicle |
-| **NTHI** | Repeat CEO $150.5K | Previously disclosed going-concern and financing/ATM pressure |
-| **API** | Repeat CEO $78K | Prior automatic-plan concerns, insufficient verification of discretionary nature |
-| **ALT** | CEO/CFO/director cluster ~$82K | Interesting biotech breadth but only filed Friday at ~16:25 EST; financing/volume/catalyst clearance incomplete |
-| **INDI** | Director $299K | Semiconductor volatility, but only single director and incomplete financing review |
+- **PCT:** CEO Dustin Olson **220,000 shares/$371,800 at $1.69** on Nov 16, SEC code P verified; executive chairman had another ~$98,496 previously. Extremely volatile (beta ~2.84), but ongoing heavy cash burn, convertibles, warrants and financing-driven distribution overwhelm the signal. Nov 16 close ~$1.68 on 4.87M shares versus ~8.48M 30-day average. **Not an actionable long under the financing hard gate.** [SEC](https://www.sec.gov/Archives/edgar/data/1830033/000184707926000013/xslF345X06/ownership.xml), [market](https://quantellect.ai/us/stocks/nasdaq/pct).
+- **SKYD:** director Gerald Cardinale bought **129,650 shares ~$1,000,637** across Nov 11/13; Form 4 additionally shows written put options covering 242,000 shares. This is a more complicated bullish exposure structure, not an independent executive cluster. Large media-company capital structure weakens intraday pop mechanics. [SEC](https://www.sec.gov/Archives/edgar/data/1447258/000089534526000491/xslF345X06/form4.xml).
+- **BRSP:** CEO ~$1.00M across Nov 13/16, but mortgage REIT vehicle normally fails percentage-volatility gate.
+- **MP:** CFO Ryan Corbett additional 3,500 shares/$128,625, reinforcing last week's much larger C-suite/director buying. A valid high-beta vehicle, but the fresh incremental signal is weaker than KURA and the earlier cluster is already public.
+- **KTOS:** director $201K, defense technology with strong sector relevance, but single director signal and limited fresh participation evidence.
+- **GERN:** CEO ~$50.8K and legal EVP ~$11.3K; interesting speculative biotech, but modest amounts and no independently verified catalyst/financing clearance.
+- **NSLR:** CEO ~$994K across three days, but solar/finance exposure and financing risk need more verification.
+- **MXF, JOF, LEO, DSM, GF, PCQ:** closed-end funds, excluded regardless of size.
+- **STWD-style REITs / BRSP, SELF, SUNS, OBDC, OTF:** excluded as structurally slow or credit-sensitive.
+- **CTEV:** duplicate Ares beneficial-ownership filings should not be double-counted.
 
-## Method and limitations
+## Execution and verification notes
 
-Started with https://finviz.com/insidertrading?tc=1 and reviewed the displayed overnight filings; reloaded Finviz before publication, with no change in the leading Monday morning entries. Filing eligibility was judged using Finviz's displayed **Eastern** SEC Form 4 times, not the underlying transaction date or an unconverted UTC time. All named ranked new transactions were checked against the underlying SEC Forms 4. Historical repeat purchases are distinguished from newly eligible filings. Values are calculated from reported transaction prices; small discrepancies can result from rounding.
+Primary Form 4 purchase codes and buyer roles were cross-checked for top candidates. Finviz filing timestamps were used as New York local time; no UTC/ET conflation. This report does **not** claim exhaustive EDGAR screening beyond the available Finviz results. The second Finviz refresh showed no ranking-changing new row. Recent volume is confirming only when paired with positive action; KURA's elevated down-volume and MX's thin rebound participation are explicitly penalized. Missing premarket quotes, incomplete financing checks and missing three-month baselines are shown rather than fabricated.
 
-**Material limitations:** Not every ticker has an independently verified 90-day volume baseline, live premarket quote, short-float update, or exhaustive ATM/shelf/warrant check. These fields are marked unverified rather than guessed. Some lower-ranked candidates remain conditional because of that incomplete verification. The report is a screening/trading-signal product, not a claim of certainty or personalized financial advice.
+**Trading priority:** KURA first if it reverses on positive participation; HAWK second if its post-earnings breakout holds. MX is the more explosive microcap but currently has the weakest participation. PCT is excluded despite a meaningful CEO buy.
 
-**Source index:** [Finviz](https://finviz.com/insidertrading?tc=1) | [CorMedix Q3 IR](https://cormedix.com/cormedix-therapeutics-reports-third-quarter-2026-financial-results-and-provides-business-update/) | [CRMD historical](https://www.quiverquant.com/stock/CRMD/historical-prices/) | [PCT filing review](https://www.stocktitan.net/sec-filings/PCT/) | [PCT volume](https://www.financecharts.com/stocks/PCT/summary/volume) | individual SEC links in candidate sections.
+**Disclaimer:** Speculative intraday screen, not personalized investment advice. Filings do not predict same-day stock moves. Prices, floats, short interest and trading volume can change rapidly; verify execution quotes and risk before trading.
+
+## Sources
+[Finviz insider purchases](https://finviz.com/insidertrading?tc=1) | [SEC EDGAR](https://www.sec.gov/edgar/search/) | individual SEC filings and company releases linked above.
