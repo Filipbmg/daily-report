@@ -60,6 +60,8 @@ Primary: [EcoR1 SEC Form 4](https://www.sec.gov/Archives/edgar/data/1370053/0000
 | **STXS** | Directors Menawat ~$100K and Benfer ~$25K | Microcap medtech vehicle passes volatility gate, but **Nov 10 up-to-$24M convertible note financing**, $12M first tranche, **$1.21 conversion** and 10% coupon create major financing overhang. Recent rally and small director dollars do not overcome this. |
 | **BPRE** | Director Ramin Kamfar ~$3.22M across 3 days | Listed **private-real-estate closed-end fund**; low suitability for 5–10% filing-driven pop. |
 | **FUN** | Director Rehan Jaffer ~$6.35M across Nov 16–18 | Consumer leisure / heavy leverage; repeat investment-group accumulation, but weaker intraday structure and no new independent C-suite cluster. |
+| **CTGO** | CEO Rick Van Nieuwenhuyse $101K and director John Juneau $199K, both filed Nov 19 by 08:00 EST | Gold/mining exploration can be volatile, but insufficient verified recent realized-volatility, relative-volume and dilution evidence to establish a superior intraday vehicle versus the four ranked names. |
+| **OESX / BKYI** | CEO purchases ~$10K / ~$3.8K reported at 08:07 EST | Small commitments, no independently verified catalyst or participation confirmation. |
 | **BA** | Director $500K | Mature mega-cap industrial, weak percentage move vehicle. |
 | **MTDR** | Chairman/CEO $127K | Conventional oil-and-gas producer, insufficient immediate percentage catalyst. |
 | **ECC / HFRO / SJT / GWRS** | Notable owner/CEO purchases | Credit fund, closed-end funds, royalty trust or regulated utility, generally poor percentage vehicles. |
