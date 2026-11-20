@@ -1,78 +1,111 @@
-# Insider Buy Pop Watch | Thursday, November 19, 2026
+# Insider Buy Pop Watch | Friday, November 20, 2026
 
-**Window:** Wednesday November 18, 16:00 EST to Thursday November 19, approximately 08:45 EST (14:45 Copenhagen). **Objective:** highest likelihood of a 5–10%+ *intraday percentage* upside move, not highest absolute insider conviction. Filing timestamps shown by Finviz are Eastern Time. Historical prices are November 18 completed-session closes, not live executable quotes.
+**Screening window:** Thursday November 19, 2026, 16:00 EST to Friday November 20 approximately 08:45 EST (14:45 Copenhagen). New York is on EST (UTC-5). The SEC/Finviz filing times below are interpreted in New York time. Transaction dates are not filing acceptance dates.
 
-## Actionable ranking
+**Objective:** Rank the probability of a *large intraday percentage pop*, conditional on passing the high-volatility vehicle gate. Scores are qualitative priorities, not probabilities. This is a premarket screen, not a recommendation to buy blindly.
 
-| Rank | Ticker | Insider signal | Intraday vehicle | 1D / 3D volume vs ~3-month average | Score |
+## Ranked actionable watchlist
+
+| Rank | Ticker | Newly filed genuine open-market signal | Percentage-move vehicle | Latest 1D / 3D volume versus approximately 3-month baseline | Score |
 |---|---|---|---|---|---|
-| 1 | **RMIX** | COO + multiple directors, at least $848K across 5 distinct buyers; further smaller buys identified | **Excellent**: +24.46%, +13.72%, -37.44% recent sessions; ATR 15.7% of close | **2.87x / 3.39x** | **8.1/10** |
-| 2 | **USAR** | Director Michael Blitzer $2.997M, 450K shares over Nov 17–18 | **Excellent**: beta 3.01, ATR 12.8%, 23.3% short float | **2.17x / 1.49x** | **7.8/10** |
-| 3 | **EQPT** | Founder/president and founder/CEO, $395K newly filed; additional older insider buys | **Strong**: recent -16.5% and +18.1%, ATR 9.8%, 15.3% short float | **1.06x / 1.00x** | **7.1/10** |
-| 4 | **ANAB** | EcoR1/Oleg Nodelman investment group $17.22M over Nov 16–18 | **Borderline pass**: biotech, ATR 4.3%, 18.2% short float; beta only 0.87 | **1.17x / 1.13x** | **6.5/10** |
+| 1 | **FBIO** | CEO/chairman + CFO, 184,328 shares, $340,398 | High: volatile small-cap biotechnology holding company, recent +6.4% and -9.0% sessions | Baseline not verified; 211K shares yesterday, 353K/day 3D | **7.8/10** |
+| 2 | **CRVO** | CEO 100,000 shares, $152,621 | Excellent: clinical biotech, +29.2% on Nov 11, -10.2% on Nov 17 | ~3.11x / ~3.41x using a reported 91.54K baseline, **caution: baseline may lag event-driven volume** | **7.4/10** |
+| 3 | **TLSI** | CEO + director, 75,192 shares, $182,206 | Excellent: $134M medtech/oncology, -19.3% Nov 11 and -11.2% Nov 19 | 365K yesterday / 372K/day 3D; 90D baseline not independently verified | **7.0/10** |
+| 4 | **PDYN** | President/CEO 15,000 shares, $42,250 | Excellent: ~$139M defense/autonomy AI, high event sensitivity | **0.96x / 1.51x** versus reported 968K 3M average | **6.4/10** |
+| 5 | **RMIX** | Additional director, 25,000 shares, $182,800 | Extreme: -37.4%, +24.5%, -16.3% recent sessions | **2.29x / 2.56x** versus 638K average | **6.0/10**, financing discount |
 
-Scores are discretionary relative trading priorities, not probabilities. Volume calculations use StockAnalysis completed daily shares divided by Finviz average daily volume, which is a proxy for the requested roughly 3-month baseline. Pre-market volume versus typical pre-market volume could not be reliably established.
+**Important:** A volume ratio above 1.0 on a falling price is a *distribution warning*, not bullish confirmation. A missing verified 90-day baseline is explicitly not replaced with a fabricated number. No reliable contemporaneous 08:45 EST premarket volumes were established for the names above.
 
-## 1. RMIX: Suncrete, construction materials, unusually explosive post-SPAC vehicle
+## 1. FBIO | Fortress Biotech | Biotechnology / commercial-stage holding company
 
-**Fresh filings:** COO Mark Alan Jones bought **8,400 shares at $5.96, $50,064**; director David Rees-Jones through his family trust bought **100,000 at $6.20 ($620,000)** on November 17 and **16,470 at $6.75 ($111,172)** on November 18; director Mark Matteson **10,000 at $5.51 ($55,100)**; director Bretton Johnston **2,000 at $5.93 ($11,860)**. This SEC-verified subset is **136,870 shares, about $848,197, weighted entry $6.1971**, from **four distinct insiders**. Other reported director Ned Fleming ($238K) and CFO Thomas Wentroth (~$995) purchases expand the cluster to **at least six distinct insiders** and roughly **$1.087M**, but were not fully reconciled to the primary forms for the combined weighted average; do not interpret the subset average as the whole cluster's average. All identified fresh filings were reported after Wednesday 16:00 EST. There is no evidence these are six independent $1M buyers.
+**Fresh buyers:** Chairman, president and CEO Lindsay A. Rosenwald, MD, bought 136,723 shares for approximately $252,583 across Nov 17–19. CFO David Jin bought 47,605 shares for approximately $87,815 on the same dates. **Two independent C-suite insiders; six separate code-P purchase lines; 184,328 shares, $340,398 total; weighted-average entry $1.8467.** All six transaction lines are disclosed in two Form 4 filings accepted Thursday Nov 19 at 17:54–17:59 EST, inside today's eligible window. Both primary filings show direct code-P acquisitions, with purchase-price-range footnotes rather than grant/option exercises.
 
-**Vehicle:** $575M indicated market cap, float ~44.8M, short float 5.75%, beta 1.31, ATR $1.18 / $7.53 = **15.7%**. The last four sessions: **-37.44%, +4.72%, +13.72%, +24.46%**. Wednesday close **$7.53**, **+21.5%** versus the SEC-verified subset entry. A Nov 19 premarket quote near **$7.30 (-3.1% from close)** was observed at 08:14 EST; stale thereafter. Nov 18 volume **1.769M / 0.617M = 2.87x**, and 3-day average **2.090M = 3.39x**. Here high volume accompanies a sharp *recovery*, though a prior high-volume collapse warns against blindly chasing.
+**Market context:** Thursday close $1.77, **4.15% below** the aggregate insider entry. Recent completed closes: Nov 17 $1.82 (+6.4%), Nov 18 $1.89 (+3.8%), Nov 19 $1.77 (-6.35%). Volume Nov 17 434,455; Nov 18 414,545; Nov 19 210,993. Three-session mean ~353,331 shares. Verified 90-day daily baseline, beta, float and short float were unavailable.
 
-**Why buying / catalyst:** The November 13 quarterly report and severe post-earnings selloff likely created opportunistic entry; this explanation is speculative, not insider-confirmed. Multiple executives and directors buying during the recovery is the fresh signal. **Dilution warning:** Suncrete's November 16 10-Q details PIPE-related pre-funded warrants, convertible preferred, earnouts, and other instruments with up to **~6.7M additional Class A shares (~9.1% of stated 73.5M economic shares)** potentially issuable, plus a prior registered resale pool. This is meaningful distribution risk and caps conviction. **Why pop today:** extraordinarily high realized volatility, real multi-person buying and 3.39x participation; **risk:** a +24% prior-day move leaves it very extended and vulnerable to a sharp retracement. A strong opening hold/reclaim on new buying volume is essential.
+**Why buy?** November 13 Q3 earnings reported $19.2M quarterly revenue (+9% YoY), repayment of the Oaktree credit facility, and consolidated cash $152.2M. The company's dermatology royalties/products and partner-company pipeline offer several potential future value events. FB-607 Phase 2 top-line is expected in **2H 2027**, not today. Opportunistic buying after recent declines is a hypothesis, not a confirmed motive.
 
-Primary: [COO Form 4](https://www.sec.gov/Archives/edgar/data/2094433/000119312526467421/xslF345X06/ownership.xml), [Rees-Jones Form 4](https://www.sec.gov/Archives/edgar/data/2094433/000119312526467461/xslF345X06/ownership.xml), [quarterly 10-Q](https://www.suncrete.com/investors/sec-filings/all-sec-filings/content/0001193125-26-462161/rmix-20260930.htm), [price/volume](https://stockanalysis.com/stocks/rmix/history/).
+**Financing/dilution:** September 30 10-Q disclosed **12.74M outstanding warrants** with ~$2.24 weighted exercise price and $42.1M nominal remaining 2024 shelf capacity, though management said it was **not currently eligible to use the S-3 shelf**. These are material overhangs. Consolidated cash includes subsidiaries and should not all be treated as parent-level deployable cash.
 
-## 2. USAR: USA Rare Earth, critical minerals / defense supply chain
+**Pop thesis:** A rare CEO+CFO simultaneous multi-day accumulation pattern in a stock with demonstrated ~5–9% daily moves. **Invalidation:** sustained trading below Thursday's $1.75 low without a volume-backed reversal; warrants and subsidiary complexity can limit enthusiasm.
 
-**Fresh filing:** director **Michael Blitzer** reported genuine Form 4 code-P purchases: Nov 17 **100,000 shares at $6.7155**, another **250,000 at $6.6439** through Tristram Ave LLC; Nov 18 **100,000 at $6.6412** through the same LLC. **One economic decision-maker**, not three independent insiders. Total **450,000 shares / $2,996,645 / $6.6592 weighted average**. The November 18 evening filing is newly eligible. SEC footnote clarifies beneficial ownership of the LLC and a separate outstanding convertible preferred holding; the latter is not part of the qualifying open-market purchase.
+Primary filings: [Rosenwald Form 4](https://www.sec.gov/Archives/edgar/data/941841/000094184126000005/xslF345X06/form4-11192026_101100.xml), [Jin Form 4](https://www.sec.gov/Archives/edgar/data/1429260/000193073226000009/xslF345X06/form4-11192026_101114.xml). [Q3 earnings](https://www.fortressbiotech.com/news-media/press-releases/detail/754/fortress-biotech-reports-third-quarter-2026-financial), [10-Q](https://www.fortressbiotech.com/investors/sec-filings/all-sec-filings/content/0001104659-26-126531/fbio-20260930x10q.htm), [volume history](https://www.financecharts.com/stocks/FBIO/summary/volume).
 
-**Vehicle:** $2.56B market cap, 249.7M float, **23.27% short float**, beta **3.01**, ATR $0.84 / $6.56 = **12.8%**. Recent days -12.62%, -6.94%, -1.13% and an October +16.7% day. Wednesday close **$6.56**, **1.5% below** entry; an observed 08:38 EST premarket indication **$6.70 (+2.1%)**, ~0.6% above entry. Wednesday volume **31.395M / 14.48M = 2.17x** and 3-day average **21.612M = 1.49x**. This volume is a *warning* because it accompanies consecutive declines.
+## 2. CRVO | CervoMed | Clinical-stage neurodegenerative biotechnology
 
-**Catalyst:** Nov 9 quarterly results reported first commercial magnet sales, Serra Verde shipments and processing milestones; no new Nov 19 contract is verified. A recent analyst downgrade and production-timing concerns weighed on shares. **Financing/dilution:** 2026 Serra Verde acquisition included substantial share issuance; U.S. government funding included potential share/options consideration. Q3 reported ~$1.2B cash, but expansion is capital intensive, and the full current resale/ATM overhang is not cleared. **Why pop today:** $3M director buying into a 23%-short, 3-beta rare-earth stock with defense/geopolitical sensitivity could spark a violent relief rally. **Risk:** high-volume falling knife and significant structural dilution. Prefer actual price and volume reversal rather than guessing the bottom.
+**Fresh buyer:** President/CEO John J. Alam, MD, bought **100,000 shares for $152,621.10 at $1.5262 weighted average** on Nov 18. The Form 4 was accepted Thursday Nov 19 at 21:03 EST. Its footnote **explicitly says the shares were purchased in open-market transactions**. One senior executive, not a cluster. Two transaction lines in one filing. Broader holdings include spouse-related ownership; do not double-count those as independent buys. Other older buys require a separate historical reconciliation.
 
-Primary: [Blitzer SEC Form 4](https://www.sec.gov/Archives/edgar/data/1458423/000145842326000012/xslF345X06/wk-form4_1795051595.xml), [Q3 release](https://www.globenewswire.com/news-release/2026/11/09/3398937/0/en/usa-rare-earth-reports-third-quarter-2026-financial-results.html), [10-Q](https://www.sec.gov/Archives/edgar/data/1970622/000197062226000072/usar-20260930.htm), [prices](https://stockanalysis.com/stocks/usar/history/).
+**Vehicle:** Thursday close **$1.33, 12.86% below insider entry**. Nov 11 +29.2% with ~9.99M shares; Nov 17 -10.18%; Nov 19 -8.28%. Latest volume 284,751; preceding two days 295,169 and 356,908, 3D mean ~312,276. A source quotes 91.54K average, implying 3.11x and 3.41x, but that average may be stale relative to recent spikes. The last three days' elevated volume coincided with falling prices. ~$77M indicated market cap, with exceptionally high realized event volatility.
 
-## 3. EQPT: EquipmentShare.com, equipment rental / technology-enabled industrial
+**Catalyst:** Neflamapimod data for dementia with Lewy bodies and nonfluent variant primary progressive aphasia; management had anticipated 24-week biomarker data at **CTAD 2026 in mid-November**. Confirm whether this presentation has already occurred before treating it as an upcoming event. An ALS Phase 2a first-patient dosing milestone is expected in Q1 2027. The company says advancing the DLB Phase 3 program depends on strategic partnering/funding.
 
-**Fresh filings:** founder and president **William J. Schlacks** purchased **10,000 shares at $14.54 ($145,400)** Nov 17; founder and CEO **Jabbok Schlacks** purchased **16,972 at $14.73 ($249,998)** Nov 16, both reported Nov 18 evening. Combined **26,972 shares, $395,398, $14.6596 weighted entry**, two distinct senior buyers. Earlier November founder/CEO and director purchases reinforce multi-day accumulation but are **not** counted in this fresh subtotal. A prior $804K two-insider cluster reported Nov 13 is historical context, not today's fresh $395K.
+**Financing:** Funding and going-concern language in the November Q3 release is a major risk. A full current ATM/warrant/shelf audit was not completed, so the score is capped.
 
-**Vehicle:** $3.79B market cap, float 107.9M, short float 15.3%, ATR $1.46 / $14.92 = **9.8%**; demonstrated -16.5% and +18.1% days after earnings. Wednesday close **$14.92**, **1.8% above** fresh insider average; 07:16 EST premarket quote **$15.50 (+3.9% vs close)**, ~5.7% above fresh average. Volume Nov 18 **3.598M / 3.38M = 1.06x**; 3-day **3.385M = 1.00x**.
+**Pop thesis:** CEO purchases materially above the depressed market price in an extremely responsive biotech. **Counterargument:** price is breaking down on repeated selling, so do not treat the insider buy as evidence of an automatic bounce.
 
-**Catalyst:** Nov 9 earnings showed 55% year-on-year revenue growth to $1.468B and expanding rental margins, followed by volatile post-earnings repricing. **Financing:** capital-intensive equipment business, substantial debt and preferred-stock obligations; no new overnight equity raise verified. **Why pop today:** two founders buying into a stock with recent 18% days and 15% short float, plus positive premarket indication. **Risk:** limited new volume confirmation, leveraged balance sheet and a larger cap than the leaders.
+[SEC Form 4](https://www.sec.gov/Archives/edgar/data/1053691/000143774926037784/xslF345X06/rdgdoc.xml), [Q3 corporate update](https://ir.cervomed.com/news-releases/news-release-details/cervomed-reports-third-quarter-2026-financial-results-and), [daily history](https://stockanalysis.com/stocks/crvo/history/).
 
-Primary: [Founder/president SEC Form 4](https://www.sec.gov/Archives/edgar/data/1693736/000095010326017804/xslF345X06/ownership.xml), [Founder/CEO SEC Form 4](https://www.sec.gov/Archives/edgar/data/1693736/000095010326017803/xslF345X06/ownership.xml), [Q3 earnings](https://equipmentshare.gcs-web.com/news-releases/news-release-details/equipmentshare-reports-third-quarter-2026-results-accelerated), [prices](https://stockanalysis.com/stocks/eqpt/history/).
+## 3. TLSI | TriSalus Life Sciences | Liver oncology medical devices / drug delivery
 
-## 4. ANAB: AnaptysBio, biotechnology
+**Fresh buyers:** CEO/president Mary T. Szela acquired 65,192 shares for **$160,206** across Nov 17–18; director Gary B. Gordon bought 10,000 for $22,000 on Nov 17. Combined **75,192 shares, $182,206, weighted entry $2.4232**, two distinct insiders. Filings arrived Thursday Nov 19 at ~16:39–16:40 EST, inside the overnight window. CEO's Form 4 confirms direct code-P transactions; director's Finviz listing indicates buy, but independent review of the director's Form 4 footnotes remains incomplete.
 
-**Fresh filing:** EcoR1 Capital, managed by **Oleg Nodelman**, a company director and 10% beneficial owner, reported indirect code-P purchases: Nov 16 **84,120 at $45.6624**, Nov 17 **152,367 at $45.6553**, Nov 18 **138,093 at $46.5419**. **374,580 shares, approximately $17,224,593, $45.9837 weighted entry**. The Form 4 jointly identifies multiple reporting persons with *overlapping economic ownership*: this is **one investment complex**, not a C-suite cluster. All transactions are newly reported in the overnight filing. Wednesday close **$47.06**, **2.34% above** average; a 04:13 EST premarket indication **$47.94**, ~4.25% above average.
+**Vehicle:** Thursday close **$2.175, 10.24% below** combined entry. ~ $134M market cap. Recent sessions include -19.3% Nov 11, +9.6% Nov 12, +6.75% Nov 18, **-11.22% Nov 19**. Latest volume 364,800, preceding 395,700 and 356,200, 3D mean ~372,233. A comparable 90-day average was not verified. Although reported monthly beta is low (~0.51), **realized volatility clearly passes the hard gate**, illustrating why beta alone is inadequate.
 
-**Vehicle:** $1.40B biotech, float 27.76M, **18.19% short float**, beta 0.87, ATR $2.02 / $47.06 = **4.3%**. Typical realized volatility around 4%, so only a **borderline** 5–10% intraday vehicle, even with an impressive dollar commitment. Wednesday volume **567,249 / 484,830 = 1.17x**; 3-day **549,833 / 484,830 = 1.13x**. The last three price changes were -1.12%, -0.26%, +3.18%.
+**Catalyst:** November 10 Q3 results and commercial adoption of its TriNav platform. This is a potential earnings-digestion/reversal trade, not a confirmed Nov 20 binary event.
 
-**Catalyst and risks:** Clinical biotech and recent Nov 12 financial reporting, but no verified imminent Nov 19 binary clinical/regulatory date. Material reported leverage, strategic/royalty-related accounting, and potential future financing warrant caution; a complete fresh shelf/ATM audit was not obtained. **Why pop today:** a specialist biotech fund committing $17M may attract attention, helped by short interest. **Why only #4:** slow recent realized percentage movement relative to RMIX/USAR/EQPT, and one fund is not an independent executive cluster.
+**Financing:** Q3 report discloses **$46M gross proceeds from a Q1 equity offering** and $41.1M cash at September 30. Derivative-linked items remain on the financial statements; dilution and cash burn warrant caution.
 
-Primary: [EcoR1 SEC Form 4](https://www.sec.gov/Archives/edgar/data/1370053/000093583626000631/xslF345X06/form4.xml), [prices](https://stockanalysis.com/stocks/anab/history/).
+**Pop thesis:** Independent CEO/director accumulation after sharp medtech selling; excellent percentage-move mechanics. **Counterargument:** Thursday's -11.2% close and repeated selling outweigh the insider signal until a price reversal is demonstrated.
+
+[CEO SEC Form 4](https://www.sec.gov/Archives/edgar/data/1410289/000162828026075100/xslF345X06/wk-form4_1795124401.xml), [Q3 release](https://trisaluslifesci.gcs-web.com/news-releases/news-release-details/trisalus-life-sciences-reports-third-quarter-2026-results), [historical prices](https://finance.yahoo.com/quote/TLSI/history/).
+
+## 4. PDYN | Palladyne AI | Defense autonomy, robotics, aerospace
+
+**Fresh buyer:** President/CEO Benjamin G. Wolff purchased **15,000 shares for $42,250**, approximate entry **$2.8167**, on Nov 18; reported Nov 20 at 06:00 EST. One executive, one small buy. Form 4 link: [SEC filing](https://www.sec.gov/Archives/edgar/data/1369085/00000000000000000000000000000000/) (do not rely on this placeholder; use [Finviz Form 4 feed](https://finviz.com/insidertrading?tc=1) for the actual filing link).
+
+**Vehicle:** Thursday close $2.71, ~3.8% below entry, ~$139M market cap, ~12.5% shares short. Nov 19 volume ~931,500 vs reported 3-month daily average 968,230 = **0.96x**. Nov 17 ~2.593M and Nov 18 ~852,767, giving a three-day mean ~1.459M = **1.51x**. Volume spike on Nov 17 was followed by price weakness, not a confirmed breakout.
+
+**Catalyst:** Nov 10 earnings showed Q3 revenue $8.6M, +895% YoY, 2026 revenue guidance $25–27M, defense autonomy demonstrations and government contracts. Company said legacy de-SPAC warrants and contingent shares expired, reducing fully diluted share count by about 9%. Cash ~$47M; expected FY26 cash burn at or above the high end of $32–36M range.
+
+**Pop thesis:** Defense/AI small cap can move sharply on contracts or sector momentum, but the **$42K CEO purchase is small** and no fresh Nov 20 contract was verified.
+
+[Q3 release](https://investor.palladyneai.com/news-releases/news-release-details/palladyne-ai-reports-record-third-quarter-2026-results), [market statistics](https://equibles.com/stocks/pdyn/summary), [volume history](https://www.financecharts.com/stocks/PDYN/summary/volume).
+
+## 5. RMIX | Suncrete | Construction materials / de-SPAC
+
+**Fresh buyer:** Director Andrew R. Heyer bought 15,000 shares on Nov 18 at $7.52 and 10,000 Nov 19 at $7.00, **25,000 shares for $182,800, weighted $7.3120**, in a Thursday 21:40 EST filing. This is **one additional director**, not a new multi-executive cluster. Earlier-week buying by other executives/directors was covered in yesterday's report and remains useful context but is not counted as newly eligible today.
+
+**Vehicle:** Thursday close **$6.30, 13.84% below** this director's entry; -37.44% Nov 13, +24.46% Nov 18, **-16.33% Nov 19**. Thursday volume 1.459M vs 638,303 average = **2.29x**. Three-day mean (1.66M, 1.77M, 1.459M) ~1.63M = **2.56x**. This is exceptional volatility but current high volume is accompanying selling.
+
+**Financing hard-gate concern:** November 16 prospectus and 10-Q describe **$167.1M of PIPE proceeds** during the first nine months, forward-purchase arrangements, acquisition-related borrowing and resale/issuance exposure. The director's purchase is not itself a PIPE, but the **financing/distribution overhang materially undermines the trade**.
+
+**Pop thesis:** More insider participation in an explosive, attention-driven stock. **Counterargument:** yesterday's -16.3% session, high volume selling and share-supply risk make this the weakest of the ranked conditional watches. No blind dip-buy.
+
+[Director SEC Form 4](https://www.sec.gov/Archives/edgar/data/1259062/000119312526469031/xslF345X06/ownership.xml), [Nov 16 prospectus](https://www.suncrete.com/investors/sec-filings/all-sec-filings/content/0001193125-26-463493/suncrete_424b3_november_.htm), [price history](https://www.investing.com/equities/suncrete-historical-data).
 
 ## Discarded but notable
 
-| Ticker | Signal | Why not actionable |
+| Ticker | Newly reported signal | Why rejected |
 |---|---|---|
-| **STXS** | Directors Menawat ~$100K and Benfer ~$25K | Microcap medtech vehicle passes volatility gate, but **Nov 10 up-to-$24M convertible note financing**, $12M first tranche, **$1.21 conversion** and 10% coupon create major financing overhang. Recent rally and small director dollars do not overcome this. |
-| **BPRE** | Director Ramin Kamfar ~$3.22M across 3 days | Listed **private-real-estate closed-end fund**; low suitability for 5–10% filing-driven pop. |
-| **FUN** | Director Rehan Jaffer ~$6.35M across Nov 16–18 | Consumer leisure / heavy leverage; repeat investment-group accumulation, but weaker intraday structure and no new independent C-suite cluster. |
-| **CTGO** | CEO Rick Van Nieuwenhuyse $101K and director John Juneau $199K, both filed Nov 19 by 08:00 EST | Gold/mining exploration can be volatile, but insufficient verified recent realized-volatility, relative-volume and dilution evidence to establish a superior intraday vehicle versus the four ranked names. |
-| **OESX / BKYI** | CEO purchases ~$10K / ~$3.8K reported at 08:07 EST | Small commitments, no independently verified catalyst or participation confirmation. |
-| **BA** | Director $500K | Mature mega-cap industrial, weak percentage move vehicle. |
-| **MTDR** | Chairman/CEO $127K | Conventional oil-and-gas producer, insufficient immediate percentage catalyst. |
-| **ECC / HFRO / SJT / GWRS** | Notable owner/CEO purchases | Credit fund, closed-end funds, royalty trust or regulated utility, generally poor percentage vehicles. |
-| **WWB** | Multiple apparent $20M+ director/OrbiMed transactions | Same $17 price, potentially financing-linked or overlapping beneficial ownership; not treated as qualifying discretionary open-market until independently cleared. |
-| **CRMD / NPCE / HAWK** | Additional director buying | Mainly reinforcement of older management/insider clusters; weaker fresh standalone signal. |
-| **AIM / BIVI / GROV** | Small CEO/CFO purchases | Tiny dollar conviction and/or financing risk. |
+| **VTIX** | CEO Jan Goetgeluk + CFO Thomas McGinnis, 200K shares, $80,870, VWAP $0.40435 | Excellent low-priced vehicle, but 10-Q and prior financings reveal **convertible debt, warrant repricing and substantial share issuance risk**. This clean executive cluster is not enough to rescue the financing structure. |
+| **IMDX** | Broadwood Partners ~$6M, 3,428,571 shares at $1.75 | Large transaction potentially linked to capital financing; cannot certify discretionary open-market status without resolving Form 4 footnotes. Exclude pending verification. |
+| **LCTX** | Broadwood 1M shares, ~$771K | One investment group, possible financing linkage; not a C-suite cluster. |
+| **CTGO** | Two directors, ~$172.8K | Mining/commodity exposure and insufficient verified percentage-volatility/catalyst edge. |
+| **BFH** | CFO $220K | Conventional financial-services vehicle, unlikely 5–10% filing-driven move. |
+| **TSM** | VP $302.9K | Mega-cap semiconductor; excellent business, inadequate insider-filing-driven percentage mechanics. |
+| **TEAM** | CEO/co-founder ~$1.88M | Mature large-cap software, fails the vehicle gate. |
+| **PLD** | Director ~$587K | REIT, slow percentage-move vehicle. |
+| **IRTC** | Director ~$764K | Meaningful medtech buy, but insufficient independent evidence of an immediate 5–10% catalyst versus higher-volatility alternatives. |
+| **VANI, CLIK, DRK, VNRX** | Smaller CEO/director buys | Low absolute conviction and unresolved financing/liquidity; do not force a pick. |
+| **CCB, BSM, LFT, AFCG and Saba closed-end funds** | Large/recurring purchases | Banks, income vehicles, REITs or funds lack suitable intraday percentage mechanics. |
 
-## Trading decision
+VTIX [CFO Form 4](https://www.sec.gov/Archives/edgar/data/1606242/000121390026122344/xslF345X06/ownership.xml), [CEO Form 4](https://www.sec.gov/Archives/edgar/data/1606242/000121390026122343/xslF345X06/ownership.xml), [10-Q](https://www.sec.gov/Archives/edgar/data/1606242/000121390026120710/ea0310081-10q_virtuix.htm).
 
-**RMIX** has the best *immediate percentage-move mechanics* and multi-person buying, but is already very extended. **USAR** has the strongest short-interest/volatility reversal setup and a meaningful $3M director commitment, though the selling-volume profile is a warning. **EQPT** is a cleaner senior-founder cluster with earnings context. **ANAB** has the largest dollar purchase but should not outrank faster stocks just because of size.
+## Decision
 
-**Execution discipline:** look for real premarket/opening participation and a sustained reclaim/hold, not just a Form 4 headline. Avoid treating high volume on red sessions as bullish confirmation. All prices are time-stamped indications; live execution quotes may differ.
+**Best independent C-suite cluster: FBIO. Best raw percentage-volatility biotech: CRVO. Best second cluster in a volatile medtech: TLSI.** PDYN is a weaker-sized CEO signal with good defense-AI business catalysts. RMIX is a high-risk conditional watch with financing/distribution red flags.
 
-**Sources:** [Finviz latest filings](https://finviz.com/insidertrading?tc=1), individual SEC Form 4 links and company filings above, Finviz stock metrics and StockAnalysis completed daily histories. This is speculative intraday screening, not a prediction or personalized investment advice.
+**Trading confirmation:** Prioritize a reclaim of weighted insider entry with improving *positive* participation, not merely high volume during a downtrend. None is a certainty. The latest Finviz refresh did not change the shortlist.
+
+**Data-quality limitations:** Contemporaneous premarket quotes/volume, consistent 90-day average volume for FBIO/TLSI, and complete up-to-the-minute financing/float audits were not available. All unverified metrics are marked as such; do not interpret qualitative scores as statistically calibrated probabilities.
+
+*Disclaimer: Speculative screening research, not personalized financial advice. Intraday microcaps and biotechs can gap down, suffer dilution, or have poor liquidity. Confirm filings, quotes, spreads, borrow and order-book conditions before trading.*
