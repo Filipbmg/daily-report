@@ -60,7 +60,7 @@ Primary filings: [Rosenwald Form 4](https://www.sec.gov/Archives/edgar/data/9418
 
 ## 4. PDYN | Palladyne AI | Defense autonomy, robotics, aerospace
 
-**Fresh buyer:** President/CEO Benjamin G. Wolff purchased **15,000 shares for $42,250**, approximate entry **$2.8167**, on Nov 18; reported Nov 20 at 06:00 EST. One executive, one small buy. Form 4 link: [SEC filing](https://www.sec.gov/Archives/edgar/data/1369085/00000000000000000000000000000000/) (do not rely on this placeholder; use [Finviz Form 4 feed](https://finviz.com/insidertrading?tc=1) for the actual filing link).
+**Fresh buyer:** President/CEO Benjamin G. Wolff purchased **15,000 shares for $42,250**, approximate entry **$2.8167**, on Nov 18; reported Nov 20 at 06:00 EST. One executive, one small buy. Form 4 link: [SEC Form 4](https://www.sec.gov/Archives/edgar/data/1368618/000136861826000016/xslF345X06/form4-11202026_061101.xml) (verified direct code-P purchase, with weighted-average price footnote).
 
 **Vehicle:** Thursday close $2.71, ~3.8% below entry, ~$139M market cap, ~12.5% shares short. Nov 19 volume ~931,500 vs reported 3-month daily average 968,230 = **0.96x**. Nov 17 ~2.593M and Nov 18 ~852,767, giving a three-day mean ~1.459M = **1.51x**. Volume spike on Nov 17 was followed by price weakness, not a confirmed breakout.
 
